@@ -98,7 +98,7 @@
 - [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
 - [GitHub最大的开源算法库](https://the-algorithms.com/)
 
-# AIOps、在线资源
+# AIOps、MLOps
 - [comet | 是一个机器学习平台，用于跟踪、比较、解释和优化实验和模型](https://www.comet.ml/coolxv#projects)
 - [neptune | 是一种轻量级运行管理工具，可帮助您跟踪机器学习运行情况](https://neptune.ai/)
 - [mlflow | 是一个用于管理机器学习生命周期的开源平台](https://mlflow.org/)
