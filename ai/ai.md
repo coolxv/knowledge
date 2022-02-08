@@ -181,6 +181,7 @@
 - [microsoft automl | 收费](https://azure.microsoft.com/en-us/services/machine-learning/#product-overview)
 - [aliyun automl | 收费](https://www.aliyun.com/product/bigdata/learn)
 - [4paradigm automl | 收费](https://www.4paradigm.com/product/hypercycle_ml.html)
+- [IBM automl](https://www.ibm.com/cn-zh/cloud/watson-studio/autoai)
 - [adanet](https://github.com/tensorflow/adanet)
 - [autokeras](https://github.com/keras-team/autokeras)
 - [PocketFlow](https://github.com/Tencent/PocketFlow)
