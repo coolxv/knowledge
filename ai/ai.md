@@ -171,6 +171,7 @@
 - [ludwig](https://github.com/ludwig-ai/ludwig)
 - [tinyms](https://github.com/tinyms-ai/tinyms)
 - [nni](https://github.com/microsoft/nni)
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 # 推理引擎
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
 - [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
