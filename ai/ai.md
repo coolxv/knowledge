@@ -172,6 +172,10 @@
 - [tinyms](https://github.com/tinyms-ai/tinyms)
 - [nni](https://github.com/microsoft/nni)
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+- [determined](https://github.com/determined-ai/determined)
+- [horovod](https://github.com/horovod/horovod)
+- [pycaret](https://github.com/pycaret/pycaret)
+- [onepanel](https://github.com/onepanelio/onepanel)
 # 推理引擎
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
 - [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
@@ -307,6 +311,7 @@
 - [《Deep learning with PyTorch》](https://paper2fox.github.io/Deep-Learning-with-PyTorch-Chinese/)
 - [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
 - [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
+- [fast.ai](https://www.fast.ai/)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
@@ -321,3 +326,4 @@
 - [studies](https://github.com/imhuay/studies)
 - [Qix](https://github.com/ty4z2008/Qix)
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
