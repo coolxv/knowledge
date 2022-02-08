@@ -230,6 +230,7 @@
 - [ConvNeXt | Facebook 卷积神经网络实现](https://github.com/facebookresearch/ConvNeXt)
 - [mae | Masked Autoencoder 是一种更为通用的图像去噪自动编码器](https://github.com/facebookresearch/mae)
 - [data2vec | ](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)
+- [ivy | 统一机器学习框架](https://github.com/unifyai/ivy)
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
