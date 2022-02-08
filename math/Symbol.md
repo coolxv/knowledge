@@ -1,0 +1,6 @@
+- sin:sine是正弦,音标是[saɪn]
+- cos:cosine是余弦,音标是['kəʊsaɪn] 
+- tan:tangent是正切,音标是['tændʒənt]
+- cot:cotangent是余切,音标是['kəʊ'tændʒənt]
+- sec:secant是正割,音标是['si:kənt]
+- csc:cosecant是余割,音标是['kəʊ'si:kənt]

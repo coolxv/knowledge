@@ -1,0 +1,8 @@
+- [指数、根和对数](https://www.shuxuele.com/algebra/exponents-roots-logarithms.html)[ | 指数幂](https://baike.baidu.com/item/%E6%8C%87%E6%95%B0%E5%B9%82/12913066)[ | 对数](https://baike.baidu.com/item/%E5%AF%B9%E6%95%B0)
+- [运算](https://baike.baidu.com/item/%E8%BF%90%E7%AE%97/5866856)[ | 运算法则](https://baike.baidu.com/item/%E8%BF%90%E7%AE%97%E6%B3%95%E5%88%99)
+- [数系](https://zhuanlan.zhihu.com/p/75543683)
+- [基本初等函数](https://math.fandom.com/zh/wiki/%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0?variant=zh)[ | 图像](https://www.jianshu.com/p/e9ca10ec6c5c)
+- [三角函数公式1](https://fanhongtao.github.io/math/san-jiao-han-shu-ji-ben-guan-xi-he-gong-shi.html)[ | 三角函数公式2](https://easymath-wiki.org/%E5%88%9D%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E4%B8%8E%E5%8F%8D%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/02%E4%B8%89%E8%A7%92%E5%85%AC%E5%BC%8F/)
+- [常用导数、积分公式](http://math001.com/calculus_formula/)[ | 积分表](https://zh.wikipedia.org/wiki/%E7%A7%AF%E5%88%86%E8%A1%A8)[ | 常用向量导数公式](https://eipi10.cn/linear-algebra/2019/12/12/common_vector_derivative/)
+- [极限存在、连续、有界、可积、可导/可微之间的关系](https://zhuanlan.zhihu.com/p/108660447)
+- 代数方程和超越方程、代数数和超越数

@@ -1,0 +1,322 @@
+# 名词解释
+- [FLOPS](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%B5%AE%E9%BB%9E%E9%81%8B%E7%AE%97%E6%AC%A1%E6%95%B8)(Floating-point operations per second)，每秒浮点运算次数，亦称每秒峰值速度，即每秒所运行的浮点运算次数
+  * 一个MFLOPS（megaFLOPS）等于每秒一百万（10的6）次的浮点运算
+  * 一个GFLOPS（gigaFLOPS）等于每秒十亿/十亿（10的9）次的浮点运算
+  * 一个TFLOPS（teraFLOPS）等于每秒一兆/一万亿（10的12）次的浮点运算
+  * 一个PFLOPS（petaFLOPS）等于每秒一千兆/一千万亿（10的15）次的浮点运算
+  * 一个EFLOPS（exaFLOPS）等于每秒一百京/一百亿亿（10的18）次的浮点运算
+- [FP64, FP32, FP16, BFLOAT16, TF32, INT8](https://moocaholic.medium.com/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407)
+- [IPS](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%8C%87%E4%BB%A4)(Instructions per second),MIPS是每秒百万指令 "Millions of Instructions per Second"
+- 分类(classification)
+- 回归(regression)
+- 聚类(clustering)
+- 降维(dimensionality reduction)
+- 插值
+- 逼近
+- 拟合，过拟合，欠拟合
+- 近似
+- 神经单元
+- 连接
+- 激活函数：将神经网络上一层的输入，经过神经网络层的非线性变换转换后，通过激活函数，得到输出。常见的激活函数包括：sigmoid, tanh, relu等。又被称为转移函数、激励函数、传输函数或限幅函数。
+- 损失函数：度量神经网络的输出的预测值，与实际值之间的差距的一种方式。常见的损失函数包括：最小二乘损失函数、交叉熵损失函数、回归中使用的smooth L1等。
+- 优化函数：也就是如何把损失值从神经网络的最外层传递到最前面。如最基础的梯度下降算法，随机梯度下降算法，批量梯度下降算法，带动量的梯度下降算法。优化器算法Optimizer（BGD、SGD、MBGD、Momentum、NAG、Adagrad、Adadelta、Adamax、RMSprop、Adam）。
+- 前向传播
+- [反向传播](https://www.cnblogs.com/charlotte77/p/5629865.html)
+- 学习速率
+- [机器学习 = 模型 + 策略 + 算法](https://zhuanlan.zhihu.com/p/48914251)
+- [机器学习 = 数据 + 模型 + 算法](https://blog.51cto.com/u_15088375/3250056)
+- [人工神经网络的三要素：神经元模型、网络模型、网络的学习规则](https://zhuanlan.zhihu.com/p/46790199)
+- [人工智能(机器学习<深度学习>) = 数据 + 算法 +  算力](https://www.leiphone.com/category/aihealth/e4qym3ESJ2M9hdPt.html)
+- [深度学习软件的三个层次](https://ml-ops.org/content/three-levels-of-ml-software)
+- 人工智能 （AI Artificial Intelligence），努力将通常由人类完成的智力任务自动化。
+- 机器学习 （ML Machine Learning）
+- 深度学习 （DL Deep Learning）,DL 是 ML 算法中的一种。ML 是实现 AI 的方法，包含关系，AI > ML > DL。
+- [数据集：训练集、验证集、测试集](https://easyaitech.medium.com/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82-ai-%E6%95%B0%E6%8D%AE%E9%9B%86-%E8%AE%AD%E7%BB%83%E9%9B%86-%E9%AA%8C%E8%AF%81%E9%9B%86-%E6%B5%8B%E8%AF%95%E9%9B%86-%E9%99%84-%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95-%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81-9b3afd37fd58)
+  * 训练集相当于上课学知识
+  * 验证集相当于课后的的练习题，用来纠正和强化学到的知识
+  * 测试集相当于期末考试，用来最终评估学习效果
+- MLOps是一组旨在可靠有效地在生产中部署和维护机器学习模型的实践
+- [超参数](https://github.com/zoomc/DeepLearning_Notes_CV/blob/master/other/tensorflow%E4%BC%98%E5%8C%96%E5%99%A8%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.md)：learning rate、weight decay和momentum
+- momentum 用于梯度下降算法中加速模型收敛
+- weight decay 该参数是损失函数中的正则化项的系数。正则化用于防止过拟合，因为当网络出现过拟合现象时网络权值逐渐变大的，而正则化能降低权重。因此，为了避免出现overfitting，会给损失函数添加一个惩罚项，常用的惩罚项是所有权重的平方乘以一个衰减常量之和（L2正则化）用来惩罚大的权值。权值衰减惩罚项使得权值收敛到较小的绝对值，而惩罚大的权值。因为大的权值会使得系统出现过拟合，降低其泛化性能
+- epoch：中文翻译为时期。一个时期 = 所有训练样本的一个正向传递和一个反向传递。
+比如对于一个有 2000 个训练样本的数据集。将 2000 个样本分成大小为 500 的 batch，那么完成一个 epoch 需要 4 个 iteration。
+- Iteration: 中文翻译为迭代。迭代是重复反馈的动作，神经网络中我们希望通过迭代进行多次的训练以到达所需的目标或结果。每一次迭代得到的结果都会被作为下一次迭代的初始值。
+一个迭代 = 一个正向通过+一个反向通过
+- batch size：中文翻译为批大小（批尺寸）。简单点说，批量大小将决定我们一次训练的样本数目。batch_size将影响到模型的优化程度和速度。
+
+# 技术平台
+- [AMD ROCm | HIP](https://www.amd.com/zh-hans/graphics/servers-solutions-rocm-hpc)
+- [Intel oneAPI toolkit | DPC++](https://software.intel.com/content/www/us/en/develop/articles/installation-guide-for-intel-oneapi-toolkits.html)
+- [Nvidia HPC SDK  | CUDA](https://developer.nvidia.com/zh-cn/hpc)
+- [华为CANN | AscendCL](https://www.hiascend.com/zh/software/cann)
+- [Arm NN SDK](https://github.com/ARM-software/armnn) [  | Arm Compiler for HPC](https://github.com/ARM-software/arm-hpc-tools)
+- [hipSYCL](https://github.com/illuhad/hipSYCL)
+- [HeCBench](https://github.com/zjin-lcf/HeCBench) [ | axbench](http://axbench.org/)
+# 文件格式
+- ONNX (.onnx, .pb, .pbtxt)
+- NNEF (.nnef)
+- OpenVINO IR (.xml, .bin)
+- TensorRT (.plan)
+- Keras (.h5, .keras)
+- Core ML (.mlmodel)
+- Caffe2 (predict_net.pb, predict_net.pbtxt)
+- MXNet (.model, -symbol.json) 
+- TensorFlow Lite (.tflite). 
+- Caffe (.caffemodel, .prototxt)
+- PyTorch (.pt, .pth)
+- TorchScript (.pt, .pth)
+- Torch (.t7), CNTK (.model, .cntk)
+- PaddlePaddle (__model__)
+- Darknet (.cfg)
+- NCNN (.param)
+- scikit-learn (.pkl)
+- TensorFlow.js (model.json, .pb)
+- TensorFlow (.pb, .meta, .pbtxt)
+
+# 神经网络
+- ANN，[人工神经网络](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+- RBF NN，径向基函数神经网络
+- DBN，深度信念网络
+- GAN，生成对抗网络，Dropout
+- DNN，深度神经网络
+- FCN，全卷积网络
+- CNN，卷积神经网络，MCNN多列卷积神经网络，ResNets残差网络，Inception，Xception
+- RNN，循环神经网络，BRNN双向循环神经网络、DRNN深层循环神经网络
+- LSTM，长短期记忆网络
+- AE，自编码器
+- GNN，图神经网络，GCN图卷积网络，图注意力机GAT
+ 
+![](https://miro.medium.com/max/2000/1*cuTSPlTq0a_327iTPJyD-Q.png)
+<!-- https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464 -->
+
+# 芯片
+- [AI-Chip](https://github.com/basicmi/AI-Chip)
+
+# 算法可视化
+- [算法可视化](https://algorithm-visualizer.org/)
+- [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
+- [GitHub最大的开源算法库](https://the-algorithms.com/)
+
+# AIOps、在线资源
+- [comet | 是一个机器学习平台，用于跟踪、比较、解释和优化实验和模型](https://www.comet.ml/coolxv#projects)
+- [neptune | 是一种轻量级运行管理工具，可帮助您跟踪机器学习运行情况](https://neptune.ai/)
+- [mlflow | 是一个用于管理机器学习生命周期的开源平台](https://mlflow.org/)
+- [kaggle](https://www.kaggle.com/)
+- [polyaxon](https://polyaxon.com/)
+- [databricks](https://databricks.com/)
+- [floydhub](https://www.floydhub.com/)
+- [valohai](https://valohai.com/)
+- [sagemaker](https://aws.amazon.com/cn/sagemaker/)
+- [algorithmia](https://algorithmia.com/)
+- [metaflow](https://metaflow.org/)
+- [dominodatalab](https://www.dominodatalab.com/)
+- [infuseai](https://www.infuseai.io/)
+- [iguazio](https://www.iguazio.com/)
+- [datarobot](https://www.datarobot.com/)
+- [dataiku](https://www.dataiku.com/)
+- [causalens](https://www.causalens.com/)
+- [cnvrg](https://cnvrg.io/)
+- [allegro](https://www.allegro.ai/)
+- [dvc](https://dvc.org/)
+- [neptune](https://neptune.ai/)
+- [kaggle](https://www.kaggle.com/)
+- [benchmark_results](https://github.com/foolwood/benchmark_results)
+# 可视化工具
+- [tensorspace | 神经网络三维可视化框架](https://tensorspace.org/html/playground/index.html)
+- [netron | 用于神经网络，深度学习和机器学习模型的可视化工具](https://github.com/lutzroeder/netron)
+- [convnetjs | 在浏览器中训练深度学习模型（神经网络）](https://cs.stanford.edu/people/karpathy/convnetjs/)
+- [反向传播算法演示](https://shuaili8.github.io/Teaching/VE445/L6%20backpropagation%20demo.html)[ | 具体例子](https://www.cnblogs.com/charlotte77/p/5629865.html)
+- [nn_visualization | AI可视化及对抗样本演示](https://github.com/aisecstudent/nn_visualization)
+- [cnn-explainer | 交互式可视化卷积神经网络](https://github.com/poloclub/cnn-explainer)
+- [NN-SVG](http://alexlenail.me/NN-SVG/index.html)
+- [tensorflow playground](https://playground.tensorflow.org/)
+- [convnetplayground](https://convnetplayground.fastforwardlabs.com/#/models)
+- [hiplot | 一款轻量级的交互式可视化工具，可以帮助人工智能研究人员利用平行图和其他图形方式来表示信息，发现高维数据中的相关性和模式](https://github.com/facebookresearch/hiplot)
+- [IFeaLiD | 在浏览器中交互式地可视化和探索深度神经网络层或任何高光谱图像](https://github.com/BiodataMiningGroup/IFeaLiD)
+- [summit | 通过可视化激活和归因总结来扩展深度学习的可解释性](https://github.com/fredhohman/summit)
+- [nnplayground](https://nnplayground.com/)
+- [neural-network-playground](https://akarzazi.github.io/neural-network-playground/)
+- [监督模型训练过程的可视化工具](wandb.ai/home)
+- [3D 手写卷积可视化](https://www.cs.ryerson.ca/~aharley/vis/conv/)[3D简单版](https://thomelane.github.io/convolutions/3DConv.html)
+- [卷积可视化，调参](https://ezyang.github.io/convolution-visualizer/)
+- [卷积动画](https://github.com/vdumoulin/conv_arithmetic)
+- [paddlepaddle visualdl](https://www.paddlepaddle.org.cn/paddle/visualdl/)
+- [tensors 3D visualizer](https://github.com/zetane/viewer)
+- [华为 AI gallery](https://marketplace.huaweicloud.com/markets/ai/gallery.html)
+- [使用LeNet在MNIST数据集实现图像分类](https://www.paddlepaddle.org.cn/documentation/docs/zh/tutorial/cv_case/image_classification/image_classification.html)
+- [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/)
+- [netscope | 一个基于web的工具，用于可视化神经网络架构(或技术上的任何有向无环图)。它目前支持Caffe的prototxt格式](http://ethereon.github.io/netscope/)
+- [ILearnDeepLearning.py | 神经网络和深度学习相关的小型项目](https://github.com/SkalskiP/ILearnDeepLearning.py)
+# 标注工具
+- [PaddleSeg | 自动标注工具](https://github.com/PaddlePaddle/PaddleSeg)
+- [cvat](https://github.com/openvinotoolkit/cvat)
+- [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
+- [LabelMeAnnotationTool](https://github.com/CSAILVision/LabelMeAnnotationTool)
+- [labelImg](https://github.com/tzutalin/labelImg)[ | roLabelImg](https://github.com/cgvict/roLabelImg)
+- [labelme](https://github.com/wkentaro/labelme)
+- [LabelImage | 在线标注](https://github.com/rachelcao277/LabelImage)
+- [labelhub | 在线一站式](https://labelhub.cn/)
+- [makesense | 在线标注](https://www.makesense.ai/)
+- [VoTT](https://github.com/microsoft/VoTT)
+- [Labelbox](https://github.com/Labelbox/Labelbox)
+- [3D标注](https://github.com/springzfx/point-cloud-annotation-tool)
+- [YOLO BBox Annotation Tool](https://github.com/drainingsun/ybat)
+- [VGG（VIA）](https://www.robots.ox.ac.uk/~vgg/software/via/)
+- [coco-annotator](https://github.com/jsbroks/coco-annotator)
+
+# 模型训练
+- [digits](https://developer.nvidia.com/digits)
+- [easydl](https://ai.baidu.com/easydl/app/model/objdct/models)
+- [ludwig](https://github.com/ludwig-ai/ludwig)
+- [tinyms](https://github.com/tinyms-ai/tinyms)
+- [nni](https://github.com/microsoft/nni)
+# 推理引擎
+- [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
+- [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
+- [AMDMIGraphX | AMD 推理引擎](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)[ | RadeonML](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonML)
+- [DirectML | 微软推理引擎](https://github.com/microsoft/DirectML)
+- [mediapipe | Google的一个基于图形的跨平台框架，用于构建多模式（视频，音频和传感器）应用的机器学习管道](https://github.com/google/mediapipe)
+- [onnxruntime | 微软的高性能ML推理和训练加速器](https://github.com/microsoft/onnxruntime)
+- [OpenPPL | 商汤基于自研高性能算子库的开源深度学习推理平台](https://github.com/openppl-public/ppl.nn)
+- [MindSpore | 华为端侧推理引擎](https://www.mindspore.cn/)
+- [MNN | 阿里端侧推理引擎](https://github.com/alibaba/MNN)
+- [Anakin | 百度高性能跨平台推理引擎](https://github.com/PaddlePaddle/Anakin)
+- [TNN | 腾讯端侧推理引擎](https://github.com/Tencent/TNN)
+- [NCNN | 腾讯端侧推理引擎](https://github.com/Tencent/ncnn)
+- [FeatherCNN | 腾讯端侧推理引擎](https://github.com/Tencent/FeatherCNN)
+- [bolt](https://github.com/huawei-noah/bolt)
+- [deepsparse | 为CPU上的精简模型提供gpu类性能的神经网络推理引擎](https://github.com/neuralmagic/deepsparse)
+- [Anakin | 跨平台跨架构推理引擎](https://github.com/PaddlePaddle/Anakin)
+- [Msnhnet | mini pytorch 推理引擎基于darknet理念](https://github.com/msnh2012/Msnhnet)
+- [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
+- [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
+# 开源框架
+- [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
+- [计图(Jittor)](https://cg.cs.tsinghua.edu.cn/jittor/)
+- [一流(oneflow)](https://github.com/Oneflow-Inc/oneflow)
+- [天元（MegEngine）](https://github.com/MegEngine/MegEngine)
+- [CNTK(Microsoft Cognitive Toolkit)](https://github.com/microsoft/CNTK)
+- [MIVisionX | AMD的视觉和机器学习工具库](https://github.com/GPUOpen-ProfessionalCompute-Libraries/MIVisionX)
+- [OpenMLDB | 深度学习数据库](https://github.com/4paradigm/OpenMLDB)
+- [DI-engine | 是一种广义的决策智能引擎](https://github.com/opendilab/DI-engine)
+- [tinyms | 基于MindSpore AI框架开发，面向上层用户的一个高级API开发库](https://github.com/tinyms-ai/tinyms)
+- [SeetaFaceEngine2](https://github.com/seetaface/SeetaFaceEngine2)
+- [keras-js](https://transcranial.github.io/keras-js/)
+- [tensorflow-js](https://www.tensorflow.org/js/)
+- [infers 机器学习和矩阵运算库的TypeScript](https://hans_s.gitee.io/infers/)
+- [ConvNeXt | Facebook 卷积神经网络实现](https://github.com/facebookresearch/ConvNeXt)
+- [mae | Masked Autoencoder 是一种更为通用的图像去噪自动编码器](https://github.com/facebookresearch/mae)
+- [data2vec | ](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)
+# 玩游戏
+- [malmo我的世界](https://github.com/microsoft/malmo)
+- [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
+- [强化学习玩五子棋](https://github.com/junxiaosong/AlphaZero_Gomoku)
+
+# 数据集
+- [汽车行业 Cityscapes](https://www.cityscapes-dataset.com/)[ | Mapillary Vistas ](https://www.mapillary.com/dataset/vistas)[ | Kitti Dataset ](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php)
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
+- [ImageNet](https://image-net.org/)
+- [COCO](https://cocodataset.org/)
+- [Open Image](https://github.com/openimages/dataset)
+- [CIFAR](http://www.cs.toronto.edu/~kriz/cifar.html)
+- [youtube8m | 视频数据集](https://research.google.com/youtube8m/)
+- [数据集列表](https://wiki.pathmind.com/open-datasets)
+- [awesome](https://github.com/awesomedata/awesome-public-datasets)
+- [StyleGAN 2 models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+
+# 模型
+- [onnx models](https://github.com/onnx/models)
+- [nnef models](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)
+- [openvino model zoo](https://github.com/openvinotoolkit/open_model_zoo)
+- [modelzoo](https://modelzoo.co/)
+- [tensorflow models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- [pytorch model zoo](https://pytorch.org/serve/model_zoo.html)
+- [mxnet](https://mxnet.apache.org/versions/1.5.0/model_zoo/index.html)
+- [keras model zoo](https://modelzoo.co/framework/keras)[keras mode zoo 2](https://keras.io/api/applications/)
+- [caffe2 models](https://caffe2.ai/docs/zoo.html)
+- [ascend models](https://gitee.com/ascend/modelzoo)
+- [Torchreid models](https://kaiyangzhou.github.io/deep-person-reid/MODEL_ZOO)
+- [hailo model zoo](https://github.com/hailo-ai/hailo_model_zoo)
+- [gluon model zoo](https://cv.gluon.ai/model_zoo/index.html)
+- [mmdetection model zoo](https://mmdetection.readthedocs.io/en/latest/model_zoo.html)
+- [detectron2 model zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)
+- [unrealcv model zoo](http://docs.unrealcv.org/en/latest/reference/model_zoo.html)
+- [lifesci model zoo](https://lifesci.dgl.ai/api/model.zoo.html)
+- [kipoi model zoo](https://kipoi.org/)
+- [roboflow models](https://models.roboflow.com/)
+- [elastix model zoo](https://elastix.lumc.nl/modelzoo/)
+- [parl.ai model zoo](https://parl.ai/docs/zoo.html)
+
+
+
+# 数学
+## 微积分
+
+## 线性代数与矩阵论
+- [麻省理工公开课的 Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)[ | 麻省理工公开课的 Linear Algebra2](https://github.com/apachecn/mit-18.06-linalg-notes)
+- [线性代数本质文字版](https://hzhu212.github.io/posts/66517499/)
+
+## 概率论与统计学
+- [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)
+- [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
+
+## 最优化方法
+
+## 图论
+
+## 信息论
+
+## 控制论
+
+## 博弈论
+
+## 动力学分析
+
+## 静力学分析
+
+## 运动学分析
+
+# 资料
+- [李沐《动手学深度学习》](http://zh.d2l.ai/)
+- [吴恩达-deeplearning.ai深度学习课程视频](https://study.163.com/provider/2001053000/course.htm)[ | 笔记1](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)[ | 笔记2](https://github.com/fengdu78/deeplearning_ai_books)[ | deeplearning.ai](deeplearning.ai)
+- [李宏毅《机器学习》笔记](https://github.com/datawhalechina/leeml-notes)
+- [周志华《机器学习》的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
+- [邱锡鹏《神经网络与深度学习》](https://nndl.github.io/)
+- [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
+- [机器学习思维导图](https://github.com/dformoso/machine-learning-mindmap)
+- [预测：方法与实践](https://otexts.com/fppcn/)
+- [使用tensorflow对服装图像进行分类](https://www.tensorflow.org/tutorials/keras/classification?hl=zh-cn)
+- [Weights & Biases with YOLOv5 ](https://github.com/ultralytics/yolov5/issues/1289)
+- [船长关于机器学习、计算机视觉和工程技术的总结和分享](https://github.com/Captain1986/CaptainBlackboard)
+- [百度PaddleX一站式](https://github.com/PaddlePaddle/PaddleX)
+- [practicalAI 中文版](https://github.com/MLEveryday/practicalAI-cn)
+- [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
+- [interviews.ai | AI面试宝典](https://github.com/BoltzmannEntropy/interviews.ai)[ | AI面试宝典中文](https://github.com/lcylmhlcy/Awesome-algorithm-interview)
+- [EasyRL李宏毅老师的《深度强化学习》](https://datawhalechina.github.io/easy-rl/#/)[ | alibaba](https://github.com/alibaba/EasyRL)
+- [玩机器学习的张北海](https://tjxj.github.io/)
+- [AiLearning](https://github.com/apachecn/AiLearning)
+- [《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现](https://github.com/MingchaoZhu/DeepLearning)
+- [机器学习100天](https://github.com/Avik-Jain/100-Days-Of-ML-Code)[ | 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+- [深度学习教程整理](https://github.com/zeusees/HyperDL-Tutorial)
+- [AI_Tutorial](https://github.com/cbamls/AI_Tutorial)
+- [TensorFlow 2深度学习开源书(龙书)](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+- [《Deep learning with PyTorch》](https://paper2fox.github.io/Deep-Learning-with-PyTorch-Chinese/)
+- [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
+- [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
+# Awesome
+- [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
+- [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
+- [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn)
+- [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+- [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+- [awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
+- [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+- [awesome-ocr](https://github.com/kba/awesome-ocr)
+- [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+- [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+- [studies](https://github.com/imhuay/studies)
+- [Qix](https://github.com/ty4z2008/Qix)
+- [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)

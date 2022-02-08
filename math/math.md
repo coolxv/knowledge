@@ -1,0 +1,47 @@
+# math_notes
+记录数学学习笔记
+# 资料
+- [awesome-math](https://github.com/rossant/awesome-math)
+
+# 期刊
+- [数学年刊：Annals of Mathematics](https://annals.math.princeton.edu/)
+- [数学新进展：Inventiones mathematicae](https://www.springer.com/journal/222)
+- [数学学报：Acta Mathematica](https://intlpress.com/site/pub/pages/journals/items/acta/_home/_main/index.php)
+- [美国数学会杂志：Journal of the American Mathematical Society](https://www.ams.org/publications/journals/journalsframework/jams)
+- [期刊分级目录](http://www.cms.org.cn/upload/editor/file/20210124/24192108968.pdf)
+# 工具
++ [GFM](https://github.github.com/gfm/)
++ [mathjax/](https://www.mathjax.org/)
++ [mathjax3-plugin-for-github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod)
++ [visual studio code](https://code.visualstudio.com/)
++ [markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
++ [codecogs latex](https://www.codecogs.com/latex/eqneditor.php)
++ [creating mathematical animations](https://github.com/ManimCommunity/manim)
++ [计算机代数系统列表](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BB%A3%E6%95%B0%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8)
++ [sagemath | 开源软件以替代Magma，Maple，Mathematica和Matlab](https://www.sagemath.org/zh/)
++ [maxima | 计算机代数系统](https://maxima.sourceforge.io/)
++ [wolframalpha求解器](https://www.wolframalpha.com/)
++ [symbolab求解器](https://zs.symbolab.com/)
++ [microsoft求解器](https://math.microsoft.com/zh)
++ [mathway求解器](https://www.mathway.com/Calculus)
++ [magma求解器](http://magma.maths.usyd.edu.au/calc/)
++ [geogebra数学教学软件](https://www.geogebra.org/)
++ [mathpix数学符号写作](https://mathpix.com/)
++ [photomath数学符号写作](https://photomath.com/)
++ [mathdf在线分步计算器](https://mathdf.com/cn/)
++ [matrixcalc | 在线的矩阵计算器](https://matrixcalc.org/zh/)
+# 数值、符号计算
+- [NumCpp | C++版本Numpy](https://github.com/dpilger26/NumCpp)
+- [GSL | Gnu数学库](https://www.gnu.org/software/gsl/)
+- [GLM | OpenGL Mathematics](https://github.com/g-truc/glm)
+- [CGAL(Computational Geometry Algorithms Library) | 计算几何算法库 ](https://github.com/CGAL/cgal)
+- [GiNaC | 符号计算库](https://www.ginac.de/)
+- [kokkos-kernels | 数学库，提供BLAS, 稀疏 BLAS 和 Graph Kernels](https://github.com/kokkos/kokkos-kernels)
+- [Trilinos | 以解决大规模、复杂的多重物理量工程和科学问题](https://github.com/trilinos/Trilinos)
+- [hlslpp | 数学库使用hlsl语法与SSE/NEON支持](https://github.com/redorav/hlslpp)
+# 画图
+- [fooplot](http://www.fooplot.com/)
+- [desmos](https://www.desmos.com/)
+- [graphingcalculator](https://zh.numberempire.com/graphingcalculator.php)
+- [geogebra](https://www.geogebra.org/graphing?lang=zh_CN)
+- [academo](https://academo.org/)
