@@ -13,11 +13,14 @@
 - [hellogithub | 分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
 
 
-# 工具
+
+# 常用软件
+- [winscp](https://winscp.net/)
+- [winmerge](https://winmerge.org/)
+- [mobaxterm](https://mobaxterm.mobatek.net/)
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
 - [calculator | 微软自带计算器](https://github.com/Microsoft/calculator)
-
 
 # 开源游戏
 - [widelands | 开放源代码的即时战略游戏与单人战役和多人模式](https://github.com/widelands/widelands)
@@ -74,3 +77,4 @@
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
 - [inkscape | 矢量图像处理，代替illustrator](https://inkscape.org/)
+- [darktable | 照片管理](https://github.com/darktable-org/darktable)
