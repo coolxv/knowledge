@@ -312,6 +312,9 @@
 
 ## 概率论与统计学
 - [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)
+- [《模式识别与机器学习》 | PRML](https://www.080910t.com/wp-content/uploads/2020/03/PRML-Chinese-Edition.pdf)[ | PRML笔记](https://github.com/WYHA/PRML_Note)[ | PRML源码](https://github.com/ctgk/PRML)
+- [《机器学习：概率视角》 | MLAPP](https://github.com/qiguming/MLAPP_CN_CODE)
+- [《统计学习基础》 | ESL](https://github.com/szcf-weiya/ESL-CN/)
 - [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
 
 ## 最优化方法
@@ -324,6 +327,8 @@
 
 ## 博弈论
 
+## 运筹学
+
 ## 动力学分析
 
 ## 静力学分析
@@ -335,7 +340,9 @@
 - [吴恩达-deeplearning.ai深度学习课程视频](https://study.163.com/provider/2001053000/course.htm)[ | 笔记1](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)[ | 笔记2](https://github.com/fengdu78/deeplearning_ai_books)[ | deeplearning.ai](deeplearning.ai)
 - [李宏毅《机器学习》笔记](https://github.com/datawhalechina/leeml-notes)
 - [周志华《机器学习》的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
-- [邱锡鹏《神经网络与深度学习》](https://nndl.github.io/)
+- [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
+- [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
+- [深度学习 | 花书](https://github.com/exacity/deeplearningbook-chinese)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
 - [机器学习思维导图](https://github.com/dformoso/machine-learning-mindmap)
 - [预测：方法与实践](https://otexts.com/fppcn/)
