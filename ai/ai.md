@@ -366,6 +366,7 @@
 - [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
 - [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
 - [fast.ai](https://www.fast.ai/)
+- [机器学习基础 | 英文版](Foundations of Machine Learning)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
