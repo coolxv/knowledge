@@ -301,6 +301,8 @@
 - [elastix model zoo](https://elastix.lumc.nl/modelzoo/)
 - [parl.ai model zoo](https://parl.ai/docs/zoo.html)
 
+# 应用
+- [GANcraft | 基于图片生成类似于我的世界](https://nvlabs.github.io/GANcraft/)
 
 
 # 数学
