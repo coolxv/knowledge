@@ -3,5 +3,6 @@
 - [imgui](https://github.com/ocornut/imgui)
 
 
-# CUI
+# CUI、TUI
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+- [textual | python](https://github.com/Textualize/textual)
