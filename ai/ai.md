@@ -302,6 +302,8 @@
 - [roboflow models](https://models.roboflow.com/)
 - [elastix model zoo](https://elastix.lumc.nl/modelzoo/)
 - [parl.ai model zoo](https://parl.ai/docs/zoo.html)
+# 例子
+- [在一分钟内实现一个图形分类应用](https://tinyms.readthedocs.io/zh_CN/latest/quickstart/quickstart_in_one_minute.html)
 
 # 应用
 - [GANcraft | 基于图片生成类似于我的世界](https://nvlabs.github.io/GANcraft/)
