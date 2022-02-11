@@ -44,7 +44,7 @@
 - Iteration: 中文翻译为迭代。迭代是重复反馈的动作，神经网络中我们希望通过迭代进行多次的训练以到达所需的目标或结果。每一次迭代得到的结果都会被作为下一次迭代的初始值。
 一个迭代 = 一个正向通过+一个反向通过
 - batch size：中文翻译为批大小（批尺寸）。简单点说，批量大小将决定我们一次训练的样本数目。batch_size将影响到模型的优化程度和速度。
-# 统计学、统计模型、统计推断、数理统计、概率论、统计学习、深度学习、机器学习、人工智能
+## 统计学、统计模型、统计推断、数理统计、概率论、统计学习、深度学习、机器学习、人工智能
 - 概率论部分主要是讲：大千世界中，数据的分布呈现出来的形状 (分布函数，密度函数..)
 - 数理统计部分则是在讲：建立在各种分布的前提下，我们如何用少量的样本数据来推断总体的一些性质; 或者推断两个样本是否来自一个总体; 等等
 - [概率论]是[数理统计]的理论基础；学[数理统计]就等于在学习如何进行[统计推断]；[概率论]+[数理统计]=[统计学]；学习[统计学]的目的就是进行[统计推断]
@@ -252,6 +252,8 @@
 - [OpenMLDB | 深度学习数据库](https://github.com/4paradigm/OpenMLDB)
 - [DI-engine | 是一种广义的决策智能引擎](https://github.com/opendilab/DI-engine)
 - [tinyms | 基于MindSpore AI框架开发，面向上层用户的一个高级API开发库](https://github.com/tinyms-ai/tinyms)
+- [keras | 高级神经网络 API,后端支持TensorFlow、CNTK和Theano](https://keras.io/)
+- [Fastai | 高阶API项目,基于PyTorch的深度学习库](https://github.com/fastai/fastai)
 - [SeetaFaceEngine2](https://github.com/seetaface/SeetaFaceEngine2)
 - [keras-js](https://transcranial.github.io/keras-js/)
 - [tensorflow-js](https://www.tensorflow.org/js/)
@@ -368,7 +370,7 @@
 - [《机器学习》（西瓜书）公式推导解析](https://github.com/datawhalechina/pumpkin-book)
 - [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
 - [fast.ai](https://www.fast.ai/)
-- [机器学习基础 | 英文版](Foundations of Machine Learning)
+- [机器学习基础(Foundations of Machine Learning) | 英文版](https://cs.nyu.edu/~mohri/mlbook/)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
