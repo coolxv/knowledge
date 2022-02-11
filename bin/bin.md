@@ -1,6 +1,8 @@
 # 编译器
 - [GCC | GNU编译器项目](https://gcc.gnu.org/)
 - [LLVM | LLVM是一套编译器基础设施项目](https://llvm.org/)
+- [OpenArkCompiler | 华为方舟编译器](https://gitee.com/openarkcompiler/OpenArkCompiler)
+- [graal | Oracle混合语言编译器](https://github.com/oracle/graal)
 - [TCC | Fabrice Bellard大神用C语言实现的一个C语言编译器](https://bellard.org/tcc/)
 - [LCC | 可变目标C编译器图书的示例](https://github.com/drh/lcc)
 - [PCC | 可移植C编译器](http://pcc.ludd.ltu.se/)
