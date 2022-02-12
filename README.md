@@ -21,6 +21,7 @@
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
 - [calculator | 微软自带计算器](https://github.com/Microsoft/calculator)
+- [Amalgamate | C++头文件合并](https://github.com/coolxv/Amalgamate)
 
 # 开源游戏
 - [widelands | 开放源代码的即时战略游戏与单人战役和多人模式](https://github.com/widelands/widelands)
