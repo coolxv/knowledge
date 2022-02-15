@@ -15,6 +15,7 @@
 
 # 工具
 - [miniconda](https://conda.io/en/latest/miniconda.html)[ | Conda vs. Miniconda vs. Anaconda](https://www.quora.com/What-is-miniconda3)
+- [miniforge](https://github.com/conda-forge/miniforge)
 - [Binder | 免费的Jupyter](https://mybinder.org/)
 - [nbviewer | 免费的Jupyter](https://nbviewer.org/)
 - [Numba | 局部JIT](https://numba.pydata.org/)
