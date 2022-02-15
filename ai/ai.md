@@ -188,6 +188,7 @@
 - [ConvNetDraw](https://cbovar.github.io/ConvNetDraw/)
 - [netscope | 一个基于web的工具，用于可视化神经网络架构(或技术上的任何有向无环图)。它目前支持Caffe的prototxt格式](http://ethereon.github.io/netscope/)
 - [ILearnDeepLearning.py | 神经网络和深度学习相关的小型项目](https://github.com/SkalskiP/ILearnDeepLearning.py)
+- [解释GAN](https://explaining-in-style.github.io/)
 # 标注工具
 - [PaddleSeg | 自动标注工具](https://github.com/PaddlePaddle/PaddleSeg)
 - [cvat](https://github.com/openvinotoolkit/cvat)
