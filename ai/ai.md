@@ -127,17 +127,19 @@
 - [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
 - [GitHub最大的开源算法库](https://the-algorithms.com/)
 
-# AIOps、MLOps
-- [modelartsh | 华为一站式 AI 平台](https://www.huaweicloud.com/product/modelarts.html)
+# AIOps、MLOps、学习平台
+- [百度飞桨AI达人训练营](https://aistudio.baidu.com/aistudio/education/group/info/25259)
+- [modelartsh | 华为一站式 AI 平台](https://www.huaweicloud.com/product/modelarts.html)[ | mindspore社区](https://www.mindspore.cn/)
+- [阿里天池深度学习训练营](https://tianchi.aliyun.com/specials/promotion/aicampdl)
+- [亚马逊sagemaker](https://aws.amazon.com/cn/sagemaker/)
+- [kaggle](https://www.kaggle.com/)
 - [comet | 是一个机器学习平台，用于跟踪、比较、解释和优化实验和模型](https://www.comet.ml/coolxv#projects)
 - [neptune | 是一种轻量级运行管理工具，可帮助您跟踪机器学习运行情况](https://neptune.ai/)
 - [mlflow | 是一个用于管理机器学习生命周期的开源平台](https://mlflow.org/)
-- [kaggle](https://www.kaggle.com/)
 - [polyaxon](https://polyaxon.com/)
 - [databricks](https://databricks.com/)
 - [floydhub](https://www.floydhub.com/)
 - [valohai](https://valohai.com/)
-- [sagemaker](https://aws.amazon.com/cn/sagemaker/)
 - [algorithmia](https://algorithmia.com/)
 - [metaflow](https://metaflow.org/)
 - [dominodatalab](https://www.dominodatalab.com/)
@@ -150,7 +152,6 @@
 - [allegro](https://www.allegro.ai/)
 - [dvc](https://dvc.org/)
 - [neptune](https://neptune.ai/)
-- [kaggle](https://www.kaggle.com/)
 - [benchmark_results](https://github.com/foolwood/benchmark_results)
 # 可视化工具
 - [tensorspace | 神经网络三维可视化框架](https://tensorspace.org/html/playground/index.html)
