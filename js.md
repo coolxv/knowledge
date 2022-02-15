@@ -52,7 +52,7 @@
 - [swc 是一个 JavaScript 编译器](https://swc.rs/docs/benchmarks)
 - [esbuild 是一个 JavaScript 编译器](https://esbuild.github.io/)
 - [parceljs 是一个 JavaScript 编译器](https://parceljs.org/)
-- [rollupjs 是一个 JavaScript 编译器](https://rollupjs.org/)
+- [rollupjs 是一个 JavaScript 编译器](https://rollupjs.org/)[ | rolldown是Rollup Rust实现与API 100%兼容](https://github.com/rolldown-rs/rolldown)
 - [webpack 是JavaScript应用程序的静态模块打包工具](https://webpack.docschina.org/)[ | awesome-webpack](https://webpack.js.org/awesome-webpack/)[ | awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf)
 - [vite 是新型前端构建工具](https://cn.vitejs.dev/)[ | awesome-vite](https://github.com/vitejs/awesome-vite)
 - [fuse-box 是前端构建工具](https://fuse-box.org/)
