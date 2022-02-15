@@ -6,3 +6,4 @@
 - [《Python for Data Analysis》教材和IPython笔记本](https://github.com/wesm/pydata-book)
 - [数据科学的Python资源](https://github.com/r0f1/datascience)
 - [matplotlib速查表](https://github.com/matplotlib/cheatsheets)
+- [infographics数据科学信息图](https://github.com/dataprofessor/infographic)
