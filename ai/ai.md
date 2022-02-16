@@ -270,6 +270,10 @@
 
 # 编译器
 - [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
+- [plaidml | 一种可移植的张量编译器](https://github.com/plaidml/plaidml)
+- [XLA | 是一种针对特定领域的线性代数编译器，能够加快 TensorFlow 模型的运行速度，而且可能完全不需要更改源代码](https://www.tensorflow.org/xla?hl=zh-cn)
+- [glow | facebook编译器](https://github.com/pytorch/glow)
+- [nnfusion](https://github.com/microsoft/nnfusion)
 
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
@@ -404,6 +408,8 @@
 - [面向机器学习的特征工程](https://github.com/apachecn/fe4ml-zh)
 - [fast.ai](https://www.fast.ai/)
 - [机器学习基础(Foundations of Machine Learning) | 英文版](https://cs.nyu.edu/~mohri/mlbook/)
+- [深度神经网络编译器调研](https://lqhl.github.io/a-survey-on-dnn-compiler/)
+- [深度学习中的优化](https://discoverml.github.io/simplified-deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8C%96/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8C%96.html)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
