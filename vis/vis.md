@@ -69,6 +69,7 @@
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
 - [eva.js | web](https://github.com/eva-engine/eva.js)
 - [phaser| web](https://github.com/photonstorm/phaser)
+- [LinaEngine](https://github.com/inanevin/LinaEngine)
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
 - [AMD FidelityFX Super Resolution (FSR) | AMD](https://github.com/GPUOpen-Effects/FidelityFX-FSR)
