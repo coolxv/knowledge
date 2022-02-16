@@ -89,6 +89,7 @@
 - [Nvidia HPC SDK  | CUDA](https://developer.nvidia.com/zh-cn/hpc)
 - [华为CANN | AscendCL](https://www.hiascend.com/zh/software/cann)
 - [Arm NN SDK](https://github.com/ARM-software/armnn) [  | Arm Compiler for HPC](https://github.com/ARM-software/arm-hpc-tools)
+- [Xilinx](https://github.com/Xilinx/Vitis-AI)
 - [hipSYCL](https://github.com/illuhad/hipSYCL)
 - [HeCBench](https://github.com/zjin-lcf/HeCBench) [ | axbench](http://axbench.org/)
 # 文件格式
@@ -219,7 +220,7 @@
 - [awesome](https://github.com/awesomedata/awesome-public-datasets)
 - [StyleGAN 2 models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 
-# 模型
+# 模型 Zoo
 - [onnx models](https://github.com/onnx/models)
 - [nnef models](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)
 - [openvino model zoo](https://github.com/openvinotoolkit/open_model_zoo)
@@ -241,6 +242,12 @@
 - [roboflow models](https://models.roboflow.com/)
 - [elastix model zoo](https://elastix.lumc.nl/modelzoo/)
 - [parl.ai model zoo](https://parl.ai/docs/zoo.html)
+- [ibm model zoo](https://developer.ibm.com/exchanges/models/all/)
+# 模型 Hub
+- [tensorflow hub](https://www.tensorflow.org/hub)
+- [pytorch hub](https://pytorch.org/hub/)
+- [paddlepaddle hub](https://www.paddlepaddle.org.cn/hub)
+- [megengine hub](https://megengine.org.cn/model-hub)
 # 模型训练
 - [digits](https://developer.nvidia.com/digits)
 - [easydl](https://ai.baidu.com/easydl/app/model/objdct/models)
