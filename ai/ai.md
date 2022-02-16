@@ -234,6 +234,10 @@
 - [TransmogrifAI](https://github.com/salesforce/TransmogrifAI)
 - [awesome-automl](https://github.com/hibayesian/awesome-automl-papers#projects)
 
+# 模型转换
+- [paddle2onnx](https://github.com/PaddlePaddle/paddle2onnx)[ | 文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/02_paddle2.0_develop/09_model_to_onnx_cn.html)
+- [X2Paddle](https://github.com/PaddlePaddle/X2Paddle)
+
 # 推理引擎
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
 - [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
