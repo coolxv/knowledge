@@ -237,6 +237,7 @@
 # 模型转换
 - [paddle2onnx](https://github.com/PaddlePaddle/paddle2onnx)[ | 文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/02_paddle2.0_develop/09_model_to_onnx_cn.html)
 - [X2Paddle](https://github.com/PaddlePaddle/X2Paddle)
+- [转换为OpenVINO的IR](https://docs.openvino.ai/cn/2020.3/_docs_MO_DG_prepare_model_Prepare_Trained_Model.html)
 
 # 推理引擎
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
