@@ -243,6 +243,14 @@
 - [PocketFlow](https://github.com/Tencent/PocketFlow)
 - [distiller](https://github.com/IntelLabs/distiller)
 - [micronet](https://github.com/666DZY666/micronet)
+# 模型编译
+- [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
+- [plaidml | 一种可移植的张量编译器](https://github.com/plaidml/plaidml)
+- [XLA | 是一种针对特定领域的线性代数编译器，能够加快 TensorFlow 模型的运行速度，而且可能完全不需要更改源代码](https://www.tensorflow.org/xla?hl=zh-cn)
+- [glow | facebook编译器](https://github.com/pytorch/glow)
+- [nnfusion](https://github.com/microsoft/nnfusion)
+- [BladeDISC](https://github.com/alibaba/BladeDISC)
+
 # 模型推理
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
 - [armnn | ARM嵌入式设备的inference框架](https://github.com/ARM-software/armnn)
@@ -268,12 +276,7 @@
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
 
-# 编译器
-- [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
-- [plaidml | 一种可移植的张量编译器](https://github.com/plaidml/plaidml)
-- [XLA | 是一种针对特定领域的线性代数编译器，能够加快 TensorFlow 模型的运行速度，而且可能完全不需要更改源代码](https://www.tensorflow.org/xla?hl=zh-cn)
-- [glow | facebook编译器](https://github.com/pytorch/glow)
-- [nnfusion](https://github.com/microsoft/nnfusion)
+
 
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
