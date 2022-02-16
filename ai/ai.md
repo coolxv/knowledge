@@ -238,9 +238,16 @@
 - [paddle2onnx](https://github.com/PaddlePaddle/paddle2onnx)[ | 文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/02_paddle2.0_develop/09_model_to_onnx_cn.html)
 - [X2Paddle](https://github.com/PaddlePaddle/X2Paddle)
 - [转换为OpenVINO的IR](https://docs.openvino.ai/cn/2020.3/_docs_MO_DG_prepare_model_Prepare_Trained_Model.html)
-
-# 推理引擎
+- [MMdnn](https://github.com/Microsoft/MMdnn#conversion)
+# 模型压缩
+- [PocketFlow](https://github.com/Tencent/PocketFlow)
+- [distiller](https://github.com/IntelLabs/distiller)
+- [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
+- [micronet](https://github.com/666DZY666/micronet)
+# 模型推理
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
+- [armnn | ARM嵌入式设备的inference框架](https://github.com/ARM-software/armnn)
+- [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
 - [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
 - [AMDMIGraphX | AMD 推理引擎](https://github.com/ROCmSoftwarePlatform/AMDMIGraphX)[ | RadeonML](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonML)
 - [DirectML | 微软推理引擎](https://github.com/microsoft/DirectML)
@@ -248,16 +255,20 @@
 - [onnxruntime | 微软的高性能ML推理和训练加速器](https://github.com/microsoft/onnxruntime)
 - [OpenPPL | 商汤基于自研高性能算子库的开源深度学习推理平台](https://github.com/openppl-public/ppl.nn)
 - [MNN | 阿里端侧推理引擎](https://github.com/alibaba/MNN)
-- [Anakin | 百度高性能跨平台推理引擎](https://github.com/PaddlePaddle/Anakin)
 - [TNN | 腾讯端侧推理引擎](https://github.com/Tencent/TNN)
 - [NCNN | 腾讯端侧推理引擎](https://github.com/Tencent/ncnn)
+- [Anakin | 百度高性能跨平台推理引擎](https://github.com/PaddlePaddle/Anakin)
 - [FeatherCNN | 腾讯端侧推理引擎](https://github.com/Tencent/FeatherCNN)
+- [TensorFlow-Lite | 一种用于设备端推断的开源深度学习框架](https://www.tensorflow.org/lite)
+- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)
+- [Tengine](https://github.com/OAID/Tengine)
 - [bolt](https://github.com/huawei-noah/bolt)
 - [deepsparse | 为CPU上的精简模型提供gpu类性能的神经网络推理引擎](https://github.com/neuralmagic/deepsparse)
 - [Anakin | 跨平台跨架构推理引擎](https://github.com/PaddlePaddle/Anakin)
 - [Msnhnet | mini pytorch 推理引擎基于darknet理念](https://github.com/msnh2012/Msnhnet)
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
+
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
