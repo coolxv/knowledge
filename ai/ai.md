@@ -242,7 +242,6 @@
 # 模型压缩
 - [PocketFlow](https://github.com/Tencent/PocketFlow)
 - [distiller](https://github.com/IntelLabs/distiller)
-- [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
 - [micronet](https://github.com/666DZY666/micronet)
 # 模型推理
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
@@ -268,6 +267,9 @@
 - [Msnhnet | mini pytorch 推理引擎基于darknet理念](https://github.com/msnh2012/Msnhnet)
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
+
+# 编译器
+- [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
 
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
