@@ -353,6 +353,7 @@
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
 - [强化学习玩五子棋](https://github.com/junxiaosong/AlphaZero_Gomoku)
+- [强化学习斗地主游戏](https://github.com/kwai/DouZero)
 
 # 例子
 - [在一分钟内实现一个图形分类应用](https://tinyms.readthedocs.io/zh_CN/latest/quickstart/quickstart_in_one_minute.html)
@@ -363,6 +364,7 @@
 - [PaddleBoBo | 基于飞桨开发的虚拟主播](https://github.com/JiehangXie/PaddleBoBo)
 - [Real-CUGAN | 动漫图像超分辨率生成](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 - [BLIP | 一个模型搞定图像标注、读图问答两件事](https://github.com/salesforce/BLIP)
+- [50个有趣的人工智能(AI)页面，您可以免费使用:(https://boredhumans.com/)
 
 # 数学
 ## 微积分
@@ -449,3 +451,4 @@
 - [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers)
 - [awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers)
 - [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
+- [awesome-game-ai](https://github.com/datamllab/awesome-game-ai)
