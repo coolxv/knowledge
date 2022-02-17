@@ -365,6 +365,8 @@
 - [Real-CUGAN | 动漫图像超分辨率生成](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
 - [BLIP | 一个模型搞定图像标注、读图问答两件事](https://github.com/salesforce/BLIP)
 - [50个有趣的人工智能(AI)页面，您可以免费使用:(https://boredhumans.com/)
+- [DeepFaceLab | 换脸](https://github.com/iperov/DeepFaceLab)
+- [StyleGAN](https://thispersondoesnotexist.com/)[ | 1](https://www.thiswaifudoesnotexist.net/)[ | 2](https://thiscatdoesnotexist.com/)[ | 3](https://thisrentaldoesnotexist.com/)[ | 4](https://thispersondoesnotexist.com/)
 
 # 数学
 ## 微积分
@@ -452,3 +454,4 @@
 - [awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers)
 - [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai)
+- [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes)
