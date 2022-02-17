@@ -343,6 +343,10 @@
 - [mae | Masked Autoencoder 是一种更为通用的图像去噪自动编码器](https://github.com/facebookresearch/mae)
 - [data2vec | ](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)
 - [ivy | 统一机器学习框架](https://github.com/unifyai/ivy)
+- [JAX  | 一个包含可组合函数转换的数值计算库](https://github.com/google/jax)
+- [numba | 是Python的即时编译器](https://github.com/numba/numba)
+- [dask | 是一个用Python编写的用于并行计算的开源库](https://dask.org/)
+- [Mars | 是一个基于张量的大规模数据计算统一框架，可伸缩numpy、pandas、scikit-learn和Python函数。](https://github.com/mars-project/mars)
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
