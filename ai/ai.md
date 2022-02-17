@@ -220,6 +220,7 @@
 - [数据集列表](https://wiki.pathmind.com/open-datasets)
 - [awesome](https://github.com/awesomedata/awesome-public-datasets)
 - [StyleGAN 2 models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+- [datacentricai | 以数据为中心的AI](https://datacentricai.org/)
 
 # 模型 Zoo
 - [onnx models](https://github.com/onnx/models)
@@ -347,6 +348,7 @@
 - [numba | 是Python的即时编译器](https://github.com/numba/numba)
 - [dask | 是一个用Python编写的用于并行计算的开源库](https://dask.org/)
 - [Mars | 是一个基于张量的大规模数据计算统一框架，可伸缩numpy、pandas、scikit-learn和Python函数。](https://github.com/mars-project/mars)
+- [MLPP | 16岁少年的C++机器学习库](https://github.com/novak-99/MLPP)
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
@@ -359,6 +361,8 @@
 # 应用
 - [GANcraft | 基于图片生成类似于我的世界](https://nvlabs.github.io/GANcraft/)
 - [PaddleBoBo | 基于飞桨开发的虚拟主播](https://github.com/JiehangXie/PaddleBoBo)
+- [Real-CUGAN | 动漫图像超分辨率生成](https://github.com/bilibili/ailab/tree/main/Real-CUGAN)
+- [BLIP | 一个模型搞定图像标注、读图问答两件事](https://github.com/salesforce/BLIP)
 
 # 数学
 ## 微积分
@@ -399,6 +403,7 @@
 - [周志华《机器学习》的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
 - [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
 - [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
+- [《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
 - [深度学习 | 花书](https://github.com/exacity/deeplearningbook-chinese)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
 - [机器学习思维导图](https://github.com/dformoso/machine-learning-mindmap)
