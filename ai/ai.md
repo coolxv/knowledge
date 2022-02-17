@@ -286,6 +286,7 @@
 - [PocketFlow](https://github.com/Tencent/PocketFlow)
 - [distiller](https://github.com/IntelLabs/distiller)
 - [micronet](https://github.com/666DZY666/micronet)
+- [paddleslim](https://paddleslim.readthedocs.io/zh_CN/latest/intro.html)
 # 模型编译
 - [tvm | 一个针对CPU、GPU和专用加速器的开放式深度学习编译器堆栈](https://github.com/apache/tvm)
 - [plaidml | 一种可移植的张量编译器](https://github.com/plaidml/plaidml)
