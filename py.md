@@ -9,6 +9,7 @@
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - [python-cheat-sheet 可打印](https://blog.finxter.com/python-cheat-sheet/)
+- [python 版本、环境、包管理](https://modelpredict.com/python-dependency-management-tools)[ | 中文](https://blog.simon7.top/20200602/python%E4%BE%9D%E8%B5%96%E6%80%A7%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0-%E8%AF%91/)
 # awesome
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
