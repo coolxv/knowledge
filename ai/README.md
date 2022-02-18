@@ -41,6 +41,7 @@
 - 自动化机器学习
 - 有监督学习、无监督学习、强化学习、半监督学习、自监督学习、多实例学习
 - SOTA，全称「state-of-the-art」
+- 图像分类（image classification）、目标检测（object detection）、语义分割（semantic segmentation）、实例分割（instance segmentation）、全景分割（panoptic segmentation）
 - [数据集：训练集、验证集、测试集](https://easyaitech.medium.com/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82-ai-%E6%95%B0%E6%8D%AE%E9%9B%86-%E8%AE%AD%E7%BB%83%E9%9B%86-%E9%AA%8C%E8%AF%81%E9%9B%86-%E6%B5%8B%E8%AF%95%E9%9B%86-%E9%99%84-%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95-%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81-9b3afd37fd58)
   * 训练集相当于上课学知识
   * 验证集相当于课后的的练习题，用来纠正和强化学到的知识
@@ -321,7 +322,6 @@
 - [Msnhnet | mini pytorch 推理引擎基于darknet理念](https://github.com/msnh2012/Msnhnet)
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
-
 
 
 # 开源框架
