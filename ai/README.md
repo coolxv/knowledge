@@ -438,6 +438,8 @@
 - [机器学习基础(Foundations of Machine Learning) | 英文版](https://cs.nyu.edu/~mohri/mlbook/)
 - [深度神经网络编译器调研](https://lqhl.github.io/a-survey-on-dnn-compiler/)
 - [深度学习中的优化](https://discoverml.github.io/simplified-deeplearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8C%96/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8C%96.html)
+- [《20天吃掉那只Pytorch》](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+- [《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
