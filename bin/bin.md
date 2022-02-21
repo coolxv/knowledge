@@ -72,6 +72,7 @@
 - [Crinkler | 可执行程序压缩器](https://github.com/runestubbe/Crinkler)
 - [upx | 可执行程序压缩器](https://upx.github.io/)
 - [XELFViewer | 用于Windows, Linux和MacOS的ELF文件查看器/编辑器](https://github.com/horsicq/XELFViewer)
+- [PDBRipper | 从pdb文件中提取信息](https://github.com/horsicq/PDBRipper)
 # 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
 - [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
