@@ -323,6 +323,7 @@
 - [Msnhnet | mini pytorch 推理引擎基于darknet理念](https://github.com/msnh2012/Msnhnet)
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
+- [Adlik | 深度学习模型的端到端优化框架](https://github.com/Adlik/Adlik)
 
 
 # 开源框架
