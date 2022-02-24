@@ -70,6 +70,7 @@
 - [BespokeSynth | 模块化的数字音频工作站](https://github.com/awwbees/BespokeSynth)
 - [audacity | 音频编辑器](https://github.com/audacity/audacity)
 - [Qmmp | 音乐播放器](https://sourceforge.net/projects/qmmp-dev/)
+- [flac](https://xiph.org/flac/index.html)
 
 # 视频软件
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
