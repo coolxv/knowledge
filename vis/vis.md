@@ -44,6 +44,7 @@
 - [simbody | 高性能的C++多体动力学/物理库，用于模拟铰接的生物力学和机械系统，如车辆，机器人，和人体骨骼](https://github.com/simbody/simbody)
 - [poly2tri | 2D约束库](https://github.com/jhasse/poly2tri)
 - [PositionBasedDynamics | 用于刚体、可变形固体和流体的物理模拟。](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+- [qu3e | 轻量级和简单的3D开源物理引擎在C++](https://github.com/RandyGaul/qu3e)
 # 渲染引擎
 - [Ray Tracing Gems II](https://github.com/Apress/Ray-Tracing-Gems-II)
 - [filament | 一个基于物理的实时渲染引擎](https://github.com/google/filament)
