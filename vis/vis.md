@@ -53,6 +53,7 @@
 - [GPU-Pathtracer | 交互式CUDA路径跟踪器，实现多种渲染技术](https://github.com/jan-van-bergen/GPU-Pathtracer)
 - [oasis-engine | 移动优先的高性能 Web 图形引擎  ](https://github.com/oasis-engine/engine)
 - [PAG (Portable Animated Graphics) | 动画文件的渲染 SDK](https://github.com/Tencent/libpag)
+- [lighthouse2 | 用于实时光线追踪的框架](https://github.com/jbikker/lighthouse2)
 
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
