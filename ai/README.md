@@ -363,6 +363,7 @@
 - [dask | 是一个用Python编写的用于并行计算的开源库](https://dask.org/)
 - [Mars | 是一个基于张量的大规模数据计算统一框架，可伸缩numpy、pandas、scikit-learn和Python函数。](https://github.com/mars-project/mars)
 - [MLPP | 16岁少年的C++机器学习库](https://github.com/novak-99/MLPP)
+- [yolov5](https://github.com/ultralytics/yolov5)
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
