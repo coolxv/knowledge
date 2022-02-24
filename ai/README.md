@@ -472,3 +472,4 @@
 - [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai)
 - [awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes)
+- [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)
