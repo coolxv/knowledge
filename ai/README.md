@@ -100,11 +100,11 @@
 - [ARM NN SDK](https://github.com/ARM-software/armnn) [  | Arm Compiler for HPC](https://github.com/ARM-software/arm-hpc-tools)
 - [ARM ACL](https://github.com/ARM-software/ComputeLibrary)
 - [Android NNAPI](https://developer.android.com/ndk/guides/neuralnetworks)
-- [Xilinx](https://github.com/Xilinx/Vitis-AI)
+- [Xilinx Vitis](https://github.com/Xilinx/Vitis-AI)
 - [Apache TVM](https://github.com/apache/tvm)
-- [openvino](https://github.com/openvinotoolkit/openvino)
-- [TensorRT](https://github.com/NVIDIA/TensorRT)
-
+- [Intel openvino](https://github.com/openvinotoolkit/openvino)
+- [Nvidia TensorRT](https://github.com/NVIDIA/TensorRT)
+- [Nvidia cudnn](https://developer.nvidia.com/zh-cn/cudnn)
 - [HeCBench](https://github.com/zjin-lcf/HeCBench) [ | axbench](http://axbench.org/)
 # 文件格式
 - ONNX (.onnx, .pb, .pbtxt)
