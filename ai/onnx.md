@@ -1,2 +1,3 @@
 - [ONNX 和 Azure 机器学习：创建和加速 ML 模型](https://docs.microsoft.com/zh-cn/azure/machine-learning/concept-onnx)
 - [onnx api](https://onnxruntime.ai/docs/api/python/api_summary.html)
+- [Windows 机器学习入门](https://docs.microsoft.com/zh-cn/windows/ai/windows-ml/get-started)
