@@ -32,6 +32,7 @@
 - [RenderHelp |  可编程渲染管线实现，帮助初学者学习渲染](https://github.com/skywind3000/RenderHelp)
 - [SparseVoxelOctree | 一个简单的SVO路径跟踪器](https://github.com/AdamYuan/SparseVoxelOctree)
 - [Tiny3D | 一个基于OpenGL的小型渲染器](https://github.com/zxx43/Tiny3D)
+- [gl_occlusion_culling](https://github.com/nvpro-samples/gl_occlusion_culling)
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
 - [ZENO | 一个面向高性能物理计算而研发的可视化编程系统和平台](https://github.com/zenustech/zeno)
