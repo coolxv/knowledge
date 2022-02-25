@@ -149,6 +149,11 @@
 
 # 芯片
 - [AI-Chip](https://github.com/basicmi/AI-Chip)
+- 图形处理器（GPU）
+- 现场可编程门阵列（FPGA）
+- 专用集成电路（ASIC）
+- 神经拟态芯片（NPU）
+- Loihi2、百度昆仑2、ADA20X、阿里平头哥 “含光”、寒武纪 “思元” 、SynSense 的 DYNAP-CNN
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
