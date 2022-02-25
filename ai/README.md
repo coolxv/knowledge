@@ -25,6 +25,7 @@
 - 学习速率
 - [机器学习 = 模型 + 策略 + 算法](https://zhuanlan.zhihu.com/p/48914251)
 - [机器学习 = 数据 + 模型 + 算法](https://blog.51cto.com/u_15088375/3250056)
+- 自然神经网络、人工神经网络
 - [人工神经网络的三要素：神经元模型、网络模型、网络的学习规则](https://zhuanlan.zhihu.com/p/46790199)
 - [人工智能(机器学习<深度学习>) = 数据 + 算法 +  算力](https://www.leiphone.com/category/aihealth/e4qym3ESJ2M9hdPt.html)
 - [深度学习软件的三个层次](https://ml-ops.org/content/three-levels-of-ml-software)
