@@ -425,6 +425,7 @@
 - [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
 - [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
 - [《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
+- [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu/)
 - [深度学习 | 花书](https://github.com/exacity/deeplearningbook-chinese)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
 - [机器学习思维导图](https://github.com/dformoso/machine-learning-mindmap)
