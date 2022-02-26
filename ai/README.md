@@ -215,6 +215,7 @@
 - [ILearnDeepLearning.py | 神经网络和深度学习相关的小型项目](https://github.com/SkalskiP/ILearnDeepLearning.py)
 - [解释GAN](https://explaining-in-style.github.io/)
 - [interpret | 可解释机器学习包](https://github.com/interpretml/interpret/)
+- [lime | 解释任何机器学习分类器的预测](https://github.com/marcotcr/lime)
 # 标注工具
 - [PaddleSeg | 自动标注工具](https://github.com/PaddlePaddle/PaddleSeg)
 - [cvat](https://github.com/openvinotoolkit/cvat)
