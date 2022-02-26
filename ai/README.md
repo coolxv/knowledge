@@ -187,6 +187,7 @@
 - [dvc](https://dvc.org/)
 - [neptune](https://neptune.ai/)
 - [benchmark_results](https://github.com/foolwood/benchmark_results)
+- [huggingface | 构建未来的人工智能社区](https://huggingface.co/)
 # 可视化工具
 - [tensorspace | 神经网络三维可视化框架](https://tensorspace.org/html/playground/index.html)
 - [netron | 用于神经网络，深度学习和机器学习模型的可视化工具](https://github.com/lutzroeder/netron)
