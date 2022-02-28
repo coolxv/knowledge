@@ -17,6 +17,7 @@
 - [CoARCT | 使用Clang工具进行代码分析和重构](https://github.com/lanl/CoARCT)
 - [clang-tutor | Clang教程](https://github.com/banach-space/clang-tutor)
 - [8cc | 一个小巧的C编译器](https://github.com/rui314/8cc)
+- [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
 - [constexpr-8cc | 基于 C++14 常量表达式实现的C编译器](https://github.com/keiichiw/constexpr-8cc)
 - [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
 - [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
