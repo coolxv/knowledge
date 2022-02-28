@@ -7,10 +7,12 @@
   * 一个EFLOPS（exaFLOPS）等于每秒一百京/一百亿亿（10的18）次的浮点运算
 - [FP64, FP32, FP16, BFLOAT16, TF32, INT8](https://moocaholic.medium.com/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of-the-zoo-a1ca7897d407)
 - [IPS](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%8C%87%E4%BB%A4)(Instructions per second),MIPS是每秒百万指令 "Millions of Instructions per Second"
-- 分类(classification)
-- 回归(regression)
-- 聚类(clustering)
-- 降维(dimensionality reduction)
+- 机器学习四大任务：分类(classification)、 回归(regression)、 聚类(clustering)、 降维(dimensionality reduction)
+ * 回归是对已有的数据样本点进行拟合，再根据拟合出来的函数，对未来进行预测。回归数据是连续的值，比如商品价格走势的预测就是回归任务。
+ * 分类需要先找到数据样本点中的分界线，再根据分界线对新数据进行分类，分类数据是离散的值，比如图片识别、情感分析等领域会经常用到分类任务。
+ * 聚类是根据样本之间的相似度，将一批数据划分为N个组。比如用户分组、异常值检测等领域会用到聚类任务。用户分组比较好理解，那异常值检测为什么会用到聚类呢？因为实际场景中，如果某个样本点，离所有分类组的距离都很远，不属于任何一个组，我们则会将其看做是一个“异常值”。
+ * 降维是减少数据的维度，对数据进行降噪、去冗余，方便计算和训练。如数据预处理，减少一些对模型准确率影响很小维度，可以提高计算效率。
+
 - 插值
 - 逼近
 - 拟合，过拟合，欠拟合
