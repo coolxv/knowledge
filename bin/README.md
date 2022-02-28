@@ -33,6 +33,9 @@
 - [ABI Compliance Checker | ABI兼容检查器](https://lvc.github.io/abi-compliance-checker/)
 - [ORC | 一个在OSX工具链上发现违反C++的一个定义规则的工具](https://github.com/adobe/orc)
 - [400 行 C 代码实现一个虚拟机](https://justinmeiners.github.io/lc3-vm/)[ | 中文](https://arthurchiao.art/blog/write-your-own-virtual-machine-zh/)
+# 链接器
+- [mold | 一个现代的链接器](https://github.com/rui314/mold)
+
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
 - [w2c2 | 将WebAssembly代码翻译成C](https://github.com/turbolent/w2c2)
