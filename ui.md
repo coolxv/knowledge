@@ -6,3 +6,4 @@
 # CUI、TUI
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 - [textual | python](https://github.com/Textualize/textual)
+- [finalcut](https://github.com/gansm/finalcut)
