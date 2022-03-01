@@ -398,6 +398,7 @@
 - [yolov5](https://github.com/ultralytics/yolov5)
 - [MMCV | 一个面向计算机视觉的基础库](https://github.com/open-mmlab/mmcv/blob/master/README_zh-CN.md)
 - [ppl.nn | 一个用于神经网络的原始库](https://github.com/openppl-public/ppl.nn)
+- [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
