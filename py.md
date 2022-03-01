@@ -32,13 +32,15 @@
 
 # Numpy
 
+# CuPy
+- [CuPy](https://cupy.dev/)
+# Scipy
+
 # Pandas
 - [pandastutor](https://pandastutor.com/)
 
 # Matplotlib
 
 # Seaborn
-
-# Scipy
 
 # Sklearn
