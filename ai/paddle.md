@@ -1,1 +1,2 @@
 - [nmist 训练到模型保存及载入](https://www.paddlepaddle.org.cn/documentation/docs/en/tutorial/quick_start/save_model/save_model.html)
+- [X86 Windows上预测部署示例](https://paddleinference.paddlepaddle.org.cn/demo_tutorial/x86_windows_demo.html)
