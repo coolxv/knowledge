@@ -114,6 +114,7 @@
 - [Intel oneAPI toolkit | DPC++](https://software.intel.com/content/www/us/en/develop/articles/installation-guide-for-intel-oneapi-toolkits.html)
 - [Nvidia HPC SDK  | CUDA](https://developer.nvidia.com/zh-cn/hpc)
 - [hipSYCL](https://github.com/illuhad/hipSYCL)
+- [hpx](https://github.com/STEllAR-GROUP/hpx)
 - [华为CANN | AscendCL](https://www.hiascend.com/zh/software/cann)
 - [Microsoft DirectML](https://github.com/microsoft/DirectML)
 - [Apple CoreML](https://developer.apple.com/documentation/coreml)
