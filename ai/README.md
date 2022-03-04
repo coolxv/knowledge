@@ -293,6 +293,7 @@
 - [pytorch hub](https://pytorch.org/hub/)
 - [paddlepaddle hub](https://www.paddlepaddle.org.cn/hub)
 - [megengine hub](https://megengine.org.cn/model-hub)
+- [datalab](http://datalab.nlpedia.ai/)
 # 模型训练
 - [digits](https://developer.nvidia.com/digits)
 - [easydl](https://ai.baidu.com/easydl/app/model/objdct/models)
