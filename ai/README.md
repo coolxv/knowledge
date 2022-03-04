@@ -458,6 +458,7 @@
 - [周志华《机器学习》的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
 - [周志华《机器学习》的《机器学习公式详解》](https://zh.u1lib.org/book/12287266/166029?dsource=recommend)
 - [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
+- [百度《零基础实践深度学习》](https://www.paddlepaddle.org.cn/tutorials/projectdetail/3465990)
 - [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
 - [《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
 - [《GAN实战》](https://zh.u1lib.org/book/18061346/085194)
