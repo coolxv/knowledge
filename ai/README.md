@@ -174,10 +174,6 @@
 - 神经拟态芯片（NPU）
 - Loihi2、百度昆仑2、ADA20X、阿里平头哥 “含光”、寒武纪 “思元” 、SynSense 的 DYNAP-CNN
 
-# 算法可视化
-- [算法可视化](https://algorithm-visualizer.org/)
-- [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
-- [GitHub最大的开源算法库](https://the-algorithms.com/)
 
 # AIOps、MLOps、学习平台
 - [百度飞桨AI达人训练营](https://aistudio.baidu.com/aistudio/education/group/info/25259)
