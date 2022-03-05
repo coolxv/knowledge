@@ -417,6 +417,7 @@
 - [DeepFaceLab | 换脸](https://github.com/iperov/DeepFaceLab)
 - [StyleGAN](https://thispersondoesnotexist.com/)[ | 1](https://www.thiswaifudoesnotexist.net/)[ | 2](https://thiscatdoesnotexist.com/)[ | 3](https://thisrentaldoesnotexist.com/)[ | 4](https://thispersondoesnotexist.com/)
 - [instant-ngp | 基于图像快速构建一张 3D 影像](https://github.com/NVlabs/instant-ngp)
+- [BasicSR | 开源图像和视频复原工具包](https://github.com/xinntao/BasicSR)
 
 # 数学
 ## 微积分
