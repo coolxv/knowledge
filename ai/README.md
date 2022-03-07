@@ -409,6 +409,7 @@
 - [强化学习斗地主游戏](https://github.com/kwai/DouZero)
 - [基于强化学习的智能体玩FIFA](https://github.com/ChintanTrivedi/DeepGamingAI_FIFARL)
 - [基于深度学习的智能体玩FIFA](https://github.com/ChintanTrivedi/DeepGamingAI_FIFA)
+- [自动驾驶](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games)
 # 例子
 - [在一分钟内实现一个图形分类应用](https://tinyms.readthedocs.io/zh_CN/latest/quickstart/quickstart_in_one_minute.html)
 - [基于《集体智慧编程》中提供的神经网络代码](https://github.com/FlorianMuellerklein/Machine-Learning/blob/master/Old/BackPropagationNN.py)
