@@ -106,6 +106,8 @@
 - [MiniVM | 一个执行Eeyore/Tigger IR的虚拟机，是为北京大学编译器课程而设计的。](https://github.com/pku-minic/MiniVM)
 - [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
 - [lc3-vm](https://github.com/nomemory/lc3-vm)
+# 模拟器
+- [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
 - [GCC IR | GCC的GENERIC和GIMPLE参考手册](https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html)[ | GCC Wiki上GIMPLE介绍](https://gcc.gnu.org/wiki/GIMPLE)
