@@ -1,11 +1,11 @@
 
 # 主题
-- [人工智能](ai/ai.md)
-- [数据科学](ds/ds.md)
-- [数学](math/math.md)
-- [二进制](bin/bin.md)
-- [可视化](vis/vis.md)
-- [分布式](dis/dis.md)
+- [人工智能](ai/README.md)
+- [数据科学](ds/README.md)
+- [数学](math/README.md)
+- [二进制](bin/README.md)
+- [可视化](vis/README.md)
+- [分布式](dis/README.md)
 
 # Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
