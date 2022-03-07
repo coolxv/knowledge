@@ -175,6 +175,8 @@
 - 神经拟态芯片（NPU）
 - Loihi2、百度昆仑2、ADA20X、阿里平头哥 “含光”、寒武纪 “思元” 、SynSense 的 DYNAP-CNN
 
+# 性能测试
+- [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 
 # AIOps、MLOps、学习平台
 - [百度飞桨AI达人训练营](https://aistudio.baidu.com/aistudio/education/group/info/25259)
