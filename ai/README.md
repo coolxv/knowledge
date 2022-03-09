@@ -426,6 +426,7 @@
 - [BasicSR | 开源图像和视频复原工具包](https://github.com/xinntao/BasicSR)
 - [FastFold | 蛋白质预测](https://github.com/hpcaitech/FastFold)
 - [PolyCoder | 代码生成](https://github.com/VHellendoorn/Code-LMs)
+- [NeROIC | 基于2D图片转3D模型](https://github.com/snap-research/NeROIC)
 
 # 数学
 ## 微积分
