@@ -515,6 +515,7 @@
 - [《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - [目标检测度量解释](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 - [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+- [《机器翻译：基础与模型》肖桐 朱靖波 著](https://github.com/NiuTrans/MTBook)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
