@@ -343,7 +343,9 @@
 - [glow | facebook编译器](https://github.com/pytorch/glow)
 - [nnfusion](https://github.com/microsoft/nnfusion)
 - [BladeDISC](https://github.com/alibaba/BladeDISC)
-
+- [CINN](https://github.com/PaddlePaddle/CINN)
+- [TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)
+- [mlir-hlo](https://github.com/tensorflow/mlir-hlo)
 # 模型推理
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
 - [armnn | ARM嵌入式设备的inference框架](https://github.com/ARM-software/armnn)
@@ -405,8 +407,7 @@
 # 对话类框架
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 
-# 神经编译器
-- [CINN](https://github.com/PaddlePaddle/CINN)
+
 
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
