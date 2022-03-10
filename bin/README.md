@@ -122,6 +122,7 @@
 - [The Java Virtual Machine Instruction Set | Java的虚拟机指令集](https://docs.oracle.com/javase/specs/jvms/se16/html/jvms-6.html)
 - [REIL | 逆向工程中间语言](https://www.zynamics.com/binnavi/manual/html/reil_language.htm)
 - [VTIL | VTIL(虚拟机翻译中间语言)项目是一组可以用于二进制去混淆和去虚拟化的工具](https://github.com/vtil-project)
+- [IREE](https://google.github.io/iree/#key-features)
 
 # 外挂技术
 - [csgo-imgui-sdk](https://github.com/bruhmoment21/csgo-imgui-sdk)
