@@ -402,6 +402,10 @@
 - [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
 # 对话类框架
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
+
+# 神经编译器
+- [CINN](https://github.com/PaddlePaddle/CINN)
+
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
 - [ResnetGPT | 用Resnet101+GPT搭建一个玩王者荣耀的AI](https://github.com/FengQuanLi/ResnetGPT)
