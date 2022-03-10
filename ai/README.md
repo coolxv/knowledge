@@ -435,6 +435,7 @@
 - [control-flag | 基于机器学习的代码检测工具](https://github.com/IntelLabs/control-flag)
 - [NeROIC | 基于2D图片转3D模型](https://github.com/snap-research/NeROIC)
 - [polygen | 3D生成](https://github.com/deepmind/deepmind-research/tree/master/polygen)
+- [StyleNeRF | 基于图片的3D人脸生成](https://github.com/facebookresearch/StyleNeRF)
 
 # 数学
 ## 微积分
