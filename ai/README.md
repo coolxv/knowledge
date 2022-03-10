@@ -401,6 +401,7 @@
 - [MMCV | 一个面向计算机视觉的基础库](https://github.com/open-mmlab/mmcv/blob/master/README_zh-CN.md)
 - [ppl.nn | 一个用于神经网络的原始库](https://github.com/openppl-public/ppl.nn)
 - [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
+- [tensorflow graphics | 可微分的图形层](https://github.com/tensorflow/graphics)
 # 对话类框架
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 
@@ -432,6 +433,7 @@
 - [FastFold | 蛋白质预测](https://github.com/hpcaitech/FastFold)
 - [PolyCoder | 代码生成](https://github.com/VHellendoorn/Code-LMs)
 - [NeROIC | 基于2D图片转3D模型](https://github.com/snap-research/NeROIC)
+- [polygen | 3D生成](https://github.com/deepmind/deepmind-research/tree/master/polygen)
 
 # 数学
 ## 微积分
