@@ -437,6 +437,8 @@
 - [NeROIC | 基于2D图片转3D模型](https://github.com/snap-research/NeROIC)
 - [polygen | 3D生成](https://github.com/deepmind/deepmind-research/tree/master/polygen)
 - [StyleNeRF | 基于图片的3D人脸生成](https://github.com/facebookresearch/StyleNeRF)
+- [photo2cartoon | 人像卡通化探索项目](https://github.com/minivision-ai/photo2cartoon)
+- [DeepFaceLive | 实时换脸](https://github.com/iperov/DeepFaceLive)
 
 # 数学
 ## 微积分
