@@ -441,6 +441,7 @@
 - [DeepFaceLive | 实时换脸](https://github.com/iperov/DeepFaceLive)
 
 # 数学
+- [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
 ## 微积分
 
 ## 线性代数与矩阵论
