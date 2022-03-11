@@ -26,6 +26,7 @@
 - [micropython | 嵌入式环境python](https://micropython.org/)
 - [cython | AOT](https://cython.org/)
 - [Pyjion  | JIT](https://github.com/tonybaloney/Pyjion)
+- [pyright | 静态检测](https://github.com/microsoft/pyright)
 
 # 关键点
 - [非package下的源文件导入模块的顺序](https://www.letianbiji.com/python/python-module.html)[ | Python3相对导入变化](https://stackoverflow.com/questions/12172791/changes-in-import-statement-python3)[ | 使用相对路径名导入包中子模块](https://python3-cookbook.readthedocs.io/zh_CN/latest/c10/p03_import_submodules_by_relative_names.html)
