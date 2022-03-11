@@ -37,6 +37,7 @@
 - [graphics-snippets](https://github.com/Rabbid76/graphics-snippets)
 - [SDFEditor](https://github.com/galloscript/SDFEditor)
 - [TinyEngine | 微小的OpenGL包装器](https://github.com/weigert/TinyEngine)
+
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
 - [ZENO | 一个面向高性能物理计算而研发的可视化编程系统和平台](https://github.com/zenustech/zeno)
@@ -50,6 +51,7 @@
 - [poly2tri | 2D约束库](https://github.com/jhasse/poly2tri)
 - [PositionBasedDynamics | 用于刚体、可变形固体和流体的物理模拟。](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
 - [qu3e | 轻量级和简单的3D开源物理引擎在C++](https://github.com/RandyGaul/qu3e)
+- [Physics3D](https://github.com/ThePhysicsGuys/Physics3D)
 # 渲染引擎
 - [Ray Tracing Gems II](https://github.com/Apress/Ray-Tracing-Gems-II)
 - [filament | 一个基于物理的实时渲染引擎](https://github.com/google/filament)
