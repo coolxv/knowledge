@@ -4,9 +4,10 @@
 - [RmlUi](https://github.com/mikke89/RmlUi)
 
 # CUI、TUI
-- [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+- [FTXUI | C++](https://github.com/ArthurSonzogni/FTXUI)
 - [textual | python](https://github.com/Textualize/textual)
-- [finalcut](https://github.com/gansm/finalcut)
+- [finalcut | C++](https://github.com/gansm/finalcut)
+- [tui-rs | rust](https://github.com/fdehau/tui-rs)
 
 # ICON
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
