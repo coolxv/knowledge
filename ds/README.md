@@ -7,6 +7,7 @@
 - [数据科学的Python资源](https://github.com/r0f1/datascience)
 - [matplotlib速查表](https://github.com/matplotlib/cheatsheets)
 - [infographics数据科学信息图](https://github.com/dataprofessor/infographic)
+- [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 # 项目
 - [rapidsai](https://github.com/rapidsai)
