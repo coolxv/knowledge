@@ -6,12 +6,20 @@
 - [二进制](bin/README.md)
 - [可视化](vis/README.md)
 - [分布式](dis/README.md)
+- [算法](algorithmica.md)
+- [量化交易](quant.md)
+- [游戏自动化](agt.md)
+- [3D](3d.md)
+- [UI](ui.md)
+- [USB](usb.md)
 
-# Awesome
-- [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
-- [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
-- [hellogithub | 分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
-
+# 语言
+- [cpp](cpp.md)
+- [python](py.md)
+- [go](go.md)
+- [rust](rust.md)
+- [javascript](js.md)
+- [css](css.md)
 
 
 # 常用软件
@@ -83,3 +91,8 @@
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
 - [inkscape | 矢量图像处理，代替illustrator](https://inkscape.org/)
 - [darktable | 照片管理](https://github.com/darktable-org/darktable)
+
+# Awesome
+- [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
+- [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
+- [hellogithub | 分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
