@@ -21,6 +21,11 @@
 - [javascript](js.md)
 - [css](css.md)
 
+# 记录
+- [课程](cs.md)
+- [2021](2021-log.md)
+- [2022](2022-log.md)
+
 
 # 常用软件
 - [winscp](https://winscp.net/)
