@@ -21,7 +21,7 @@
 - [rust](rust.md)
 - [javascript](js.md)
 - [css](css.md)
-
+- [html](html.md)
 # 记录
 - [课程](cs.md)
 - [2021](2021-log.md)
