@@ -1,3 +1,28 @@
+# conda使用
+```
+conda install --yes --file requirements.txt
+#创建环境
+conda create --name paddle python=3.9
+#删除环境
+conda remove --name paddle --all
+#激活环境
+activate paddle # for Windows
+source activate paddle # for Linux & Mac
+deactivate paddle # for Windows
+source deactivate paddle # for Linux & Mac
+#查看环境
+conda info -e
+#包管理
+conda install numpy
+conda install -n paddle numpy # 如果不用-n指定环境名称，则被安装在当前活跃环境
+conda list
+conda list -n paddle # 查看某个指定环境的已安装包
+conda search numpy
+conda update -n paddle numpy
+conda remove -n paddle numpy
+conda update python
+conda update anaconda
+```
 # 资料
 - [Python官网中文文档](https://docs.python.org/zh-cn/3/index.html)
 - [python3 cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
