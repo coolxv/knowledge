@@ -169,6 +169,8 @@
  
 ![](https://miro.medium.com/max/2000/1*cuTSPlTq0a_327iTPJyD-Q.png)
 <!-- https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464 -->
+ 
+- 神经网络的标准结构中每个神经元由加权和与非线性变换构成，然后将多个神经元分层的摆放并连接形成神经网络。线性回归模型可以认为是神经网络模型的一种极简特例，是一个只有加权和、没有非线性变换的神经元（无需形成网络）
 
 # 芯片
 - [AI-Chip](https://github.com/basicmi/AI-Chip)
