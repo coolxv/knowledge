@@ -14,8 +14,7 @@
 - [USB](usb.md)
 - [electronjs](electronjs.md)
 - [dlib](dlib.md)
-- [opencv.md](opencv.md)
-- [openvino](openvino.md)
+- [opencv](opencv.md)
 
 # 语言
 - [cpp](cpp.md)
