@@ -407,6 +407,7 @@
 - [ppl.nn | 一个用于神经网络的原始库](https://github.com/openppl-public/ppl.nn)
 - [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
 - [tensorflow graphics | 可微分的图形层](https://github.com/tensorflow/graphics)
+- [mup](https://github.com/microsoft/mup)
 
 # 强化学习框架
 - [trfl](https://github.com/deepmind/trfl)
