@@ -24,6 +24,7 @@
 - [go](go.md)
 - [rust](rust.md)
 - [javascript](js.md)
+- [typescript](ts.md)
 - [css](css.md)
 - [html](html.md)
 # 记录
