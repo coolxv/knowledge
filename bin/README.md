@@ -21,7 +21,6 @@
 - [constexpr-8cc | 基于 C++14 常量表达式实现的C编译器](https://github.com/keiichiw/constexpr-8cc)
 - [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
 - [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
-- [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
 - [Cwerg | 一个轻量级的编译器后端](https://github.com/robertmuth/Cwerg)
 - [Numba | 一个开源的JIT编译器，它将Python和NumPy代码的子集转换为快速的机器码](http://numba.pydata.org/)
 - [Terra | 一种低级的系统编程语言，由Lua编程语言嵌入和元编程](https://terralang.org/)
@@ -33,6 +32,8 @@
 - [ABI Compliance Checker | ABI兼容检查器](https://lvc.github.io/abi-compliance-checker/)
 - [ORC | 一个在OSX工具链上发现违反C++的一个定义规则的工具](https://github.com/adobe/orc)
 - [400 行 C 代码实现一个虚拟机](https://justinmeiners.github.io/lc3-vm/)[ | 中文](https://arthurchiao.art/blog/write-your-own-virtual-machine-zh/)
+- [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
+- [cranlift | 是WebAssembly的一个低级的可重定向代码生成器。它将与目标无关的中间表示转换为可执行的机器码](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
 
