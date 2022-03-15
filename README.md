@@ -97,6 +97,7 @@
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
 - [inkscape | 矢量图像处理，代替illustrator](https://inkscape.org/)
 - [darktable | 照片管理](https://github.com/darktable-org/darktable)
+- [Cascade | 基于节点的图形编辑器与GPU加速](https://github.com/ttddee/Cascade)
 
 # Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
