@@ -8,6 +8,7 @@
 - [CacheLib | 可插拔的进程内缓存引擎，以构建和扩展高性能服务](https://github.com/facebook/CacheLib)
 - [DataFrame | 用于统计、金融和ML分析的c++ DataFrame](https://github.com/hosseinmoein/DataFrame)
 - [duckdb | 一个进程内SQL OLAP数据库管理系统](https://github.com/duckdb/duckdb)
+- [rocksdb | RocksDB 是一个来自 Facebook 的可嵌入的支持持久化的 key-value 存储系统，也可作为 C/S 模式下的存储数据库，基于 LevelDB 构建](https://github.com/facebook/rocksdb)
 
 
 ## SIMD库
