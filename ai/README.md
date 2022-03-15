@@ -450,6 +450,7 @@
 - [StyleNeRF | 基于图片的3D人脸生成](https://github.com/facebookresearch/StyleNeRF)
 - [photo2cartoon | 人像卡通化探索项目](https://github.com/minivision-ai/photo2cartoon)
 - [DeepFaceLive | 实时换脸](https://github.com/iperov/DeepFaceLive)
+- [mmediting | 图像和视频编辑工具箱](https://github.com/open-mmlab/mmediting)
 
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
