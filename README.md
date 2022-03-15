@@ -61,7 +61,8 @@
 - [Cxbx-Reloaded | Xbox模拟器](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
 - [xemu | 可模拟原始 Microsoft Xbox 游戏机](https://github.com/mborgerson/xemu)
 - [punes | puNES 是基于 Qt 的任天堂娱乐系统模拟器和 NSF/NSFe 音乐播放器](https://gitee.com/mirrors/punes)
-- [Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
+- [yuzu | Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
+- [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
 - [gba-mu | GBA模拟器](https://github.com/rlintott/gba-mu)
 - [cemu | Wii U 模拟器](https://cemu.info/)
 
