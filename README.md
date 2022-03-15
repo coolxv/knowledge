@@ -12,6 +12,10 @@
 - [3D](3d.md)
 - [UI](ui.md)
 - [USB](usb.md)
+- [electronjs](electronjs.md)
+- [dlib](dlib.md)
+- [opencv.md](opencv.md)
+- [openvino](openvino.md)
 
 # 语言
 - [cpp](cpp.md)
@@ -23,6 +27,7 @@
 - [css](css.md)
 - [html](html.md)
 # 记录
+- [概念](concepts.md)
 - [课程](cs.md)
 - [2021](2021-log.md)
 - [2022](2022-log.md)
