@@ -1,3 +1,27 @@
+# pip使用
+```
+#生成依赖
+pip freeze > requirements.txt
+pip install -r requirements.txt
+pip install pipreqs
+pipreqs .  --encoding=utf8 --force    # 当前项目的依赖
+#使用第三方源
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+阿里云：https://mirrors.aliyun.com/pypi/simple/
+中国科技大学：https://pypi.mirrors.ustc.edu.cn/simple/
+豆瓣：https://pypi.douban.com/simple/
+清华大学：https://pypi.tuna.tsinghua.edu.cn/simple/
+中国科学技术大学：https://pypi.mirrors.ustc.edu.cn/simple/
+华中理工大学  http://pypi.hustunique.com/simple/  
+山东理工大学  http://pypi.sdutlinux.org/simple/ 
+#查看已安装的库
+pip list
+#更新库
+pip install--upgrade 库名
+卸载库
+pip uninstall 库的名字
+```
+
 # conda使用
 ```
 conda update -n base -c defaults conda
