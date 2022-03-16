@@ -44,7 +44,7 @@
 - [git](https://git-scm.com/)
 - [tortoisegit](https://tortoisegit.org/)
 - [tortoisesvn](https://tortoisesvn.net/index.zh.html)
-- 
+- [Windows Terminal](https://github.com/microsoft/terminal)
 # 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
