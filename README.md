@@ -37,6 +37,15 @@
 - [winscp](https://winscp.net/)
 - [winmerge](https://winmerge.org/)
 - [mobaxterm](https://mobaxterm.mobatek.net/)
+- [PowerToys](https://github.com/microsoft/PowerToys)
+- [DevToys](https://github.com/veler/DevToys)
+- [notepad++](https://notepad-plus-plus.org/)
+- [everything](https://www.voidtools.com/zh-cn/)
+- [git](https://git-scm.com/)
+- [tortoisegit](https://tortoisegit.org/)
+- [tortoisesvn](https://tortoisesvn.net/index.zh.html)
+- 
+# 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
 - [calculator | 微软自带计算器](https://github.com/Microsoft/calculator)
