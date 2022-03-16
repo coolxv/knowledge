@@ -37,6 +37,7 @@
 - [graphics-snippets](https://github.com/Rabbid76/graphics-snippets)
 - [SDFEditor](https://github.com/galloscript/SDFEditor)
 - [TinyEngine | 微小的OpenGL包装器](https://github.com/weigert/TinyEngine)
+- [im3d | 即时模式渲染和3D小工具](https://github.com/john-chapman/im3d)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
