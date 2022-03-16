@@ -1,5 +1,6 @@
 # conda使用
 ```
+conda update -n base -c defaults conda
 conda install --yes --file requirements.txt
 #创建环境
 conda create --name paddle python=3.9
