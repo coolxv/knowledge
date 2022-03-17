@@ -453,6 +453,7 @@
 - [photo2cartoon | 人像卡通化探索项目](https://github.com/minivision-ai/photo2cartoon)
 - [DeepFaceLive | 实时换脸](https://github.com/iperov/DeepFaceLive)
 - [mmediting | 图像和视频编辑工具箱](https://github.com/open-mmlab/mmediting)
+- [GFPGAN | 老照片修复](https://github.com/TencentARC/GFPGAN)
 
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
@@ -534,6 +535,7 @@
 - [目标检测度量解释](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 - [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
 - [《机器翻译：基础与模型》肖桐 朱靖波 著](https://github.com/NiuTrans/MTBook)
+- [我复现了LeCun 33年前的神经网络](https://karpathy.github.io/2022/03/14/lecun1989/)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
