@@ -6,6 +6,7 @@
 - [二进制](bin/README.md)
 - [可视化](vis/README.md)
 - [分布式](dis/README.md)
+- [安全](sec.md)
 - [算法](algorithmica.md)
 - [量化交易](quant.md)
 - [游戏自动化](agt.md)
