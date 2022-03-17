@@ -87,11 +87,19 @@ conda update anaconda
 - [CuPy](https://cupy.dev/)
 # Scipy
 
+# statsmodels
+
 # Pandas
 - [pandastutor](https://pandastutor.com/)
+# blaze
+- [blaze](https://github.com/blaze/blaze)
 
 # Matplotlib
 
 # Seaborn
 
 # Sklearn
+
+# pymc
+- [pymc](https://github.com/pymc-devs/pymc)
+
