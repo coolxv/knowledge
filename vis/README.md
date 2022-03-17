@@ -10,6 +10,7 @@
 - [ozz-animation | 开源的C++骨骼动画库和工具集](https://github.com/guillaumeblanc/ozz-animation)
 - [graphics-workshop | 通过编写GPU着色器来学习计算机图形学](https://github.com/ekzhang/graphics-workshop)
 - [glChAoS.P | 一个粒子生成系统](https://github.com/BrutPitt/glChAoS.P)[ | 文档](https://www.michelemorrone.eu/glchaosp/index.html)
+- [Effekseer | 粒子效果创建工具](https://github.com/effekseer/Effekseer)
 - [DirectXTK | 用于编写DirectX 11的helper类集合。用C++编写代码](https://github.com/microsoft/DirectXTK)
 - [DirectX11 | 例子](https://github.com/walbourn/directx-sdk-samples)
 - [DirectX12 | 例子](https://github.com/microsoft/DirectX-Graphics-Samples)
@@ -38,6 +39,8 @@
 - [SDFEditor](https://github.com/galloscript/SDFEditor)
 - [TinyEngine | 微小的OpenGL包装器](https://github.com/weigert/TinyEngine)
 - [im3d | 即时模式渲染和3D小工具](https://github.com/john-chapman/im3d)
+- [efkbgfx](https://github.com/cloudwu/efkbgfx)
+
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
@@ -63,7 +66,7 @@
 - [oasis-engine | 移动优先的高性能 Web 图形引擎  ](https://github.com/oasis-engine/engine)
 - [PAG (Portable Animated Graphics) | 动画文件的渲染 SDK](https://github.com/Tencent/libpag)
 - [lighthouse2 | 用于实时光线追踪的框架](https://github.com/jbikker/lighthouse2)
-
+- [bgfx | 跨平台的渲染库](https://github.com/bkaradzic/bgfx)
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
 - [Rootex](https://github.com/sdslabs/Rootex)
