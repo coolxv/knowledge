@@ -37,6 +37,7 @@
 # 常用软件
 - [winscp](https://winscp.net/)
 - [winmerge](https://winmerge.org/)
+- [Wireshark](https://www.wireshark.org/)
 - [mobaxterm](https://mobaxterm.mobatek.net/)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
@@ -46,6 +47,7 @@
 - [tortoisegit](https://tortoisegit.org/)
 - [tortoisesvn](https://tortoisesvn.net/index.zh.html)
 - [Windows Terminal](https://github.com/microsoft/terminal)
+- [xampp](https://www.apachefriends.org/index.html)
 # 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
