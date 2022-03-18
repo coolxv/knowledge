@@ -462,9 +462,12 @@
 ## 微积分
 
 ## 线性代数与矩阵论
-- [麻省理工公开课的 Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)[ | 麻省理工公开课的 Linear Algebra2](https://github.com/apachecn/mit-18.06-linalg-notes)
-- [线性代数本质文字版](https://hzhu212.github.io/posts/66517499/)
-
+- [MIT开课的 Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)[ | 麻省理工公开课的 Linear Algebra2](https://github.com/apachecn/mit-18.06-linalg-notes)
+- [《Linear Algebra for Everyone》（直译：人人都能懂的线性代数）](https://math.mit.edu/~gs/everyone/)[ | MIT公开课 以2020年的全新眼光审视线性代数](https://www.bilibili.com/video/BV1Yt4y1X7kU/?p=2&spm_id_from=pageDriver)
+- [线性代数本质文字版](https://hzhu212.github.io/posts/66517499/)[ | 线性代数本质系列视频](https://www.bilibili.com/video/BV1fR4y1E7Pw?spm_id_from=333.999.0.0)
+- [线性代数:前沿的基础](http://www.ulaff.net/)[ | blas](http://www.netlib.org/blas/)[ | blis](https://github.com/flame/blis)
+- [线性代数 李宏毅](https://www.bilibili.com/video/BV1rL4y1J7Eh/?spm_id_from=333.788.recommend_more_video.0)
+- [7分钟带你入门线性代数+微积分](https://www.bilibili.com/video/BV1yW41167ax/?spm_id_from=333.788.recommend_more_video.1)
 ## 概率论与统计学
 - [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)
 - [《模式识别与机器学习》 | PRML](https://www.080910t.com/wp-content/uploads/2020/03/PRML-Chinese-Edition.pdf)[ | PRML笔记](https://github.com/WYHA/PRML_Note)[ | PRML源码](https://github.com/ctgk/PRML)
