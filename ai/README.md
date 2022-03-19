@@ -457,7 +457,8 @@
 - [DeepFaceLive | 实时换脸](https://github.com/iperov/DeepFaceLive)
 - [mmediting | 图像和视频编辑工具箱](https://github.com/open-mmlab/mmediting)
 - [GFPGAN | 老照片修复](https://github.com/TencentARC/GFPGAN)
-- [数学公式识别](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)
+- [LaTeX_OCR_PRO | 数学公式识别](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)
+- [Image2Katex | 数学公式识别](https://github.com/xiaofengShi/Image2Katex)
 
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
