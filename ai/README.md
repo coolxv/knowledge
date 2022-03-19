@@ -477,7 +477,9 @@
 - [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
 
 ## 最优化方法
-
+### 凸优化
+### 非凸优化
+## 运筹学
 ## 图论
 
 ## 信息论
@@ -485,8 +487,6 @@
 ## 控制论
 
 ## 博弈论
-
-## 运筹学
 
 ## 动力学分析
 
