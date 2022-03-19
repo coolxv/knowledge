@@ -13,6 +13,7 @@
 + [GFM](https://github.github.com/gfm/)
 + [mathjax/](https://www.mathjax.org/)
 + [mathjax3-plugin-for-github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod)
++ [xhub | 扩展GitHub页面，支持LaTeX，图形等](https://github.com/nschloe/xhub)
 + [visual studio code](https://code.visualstudio.com/)
 + [markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 + [数学符号在线地址生成](https://md-math.netlify.app/)
