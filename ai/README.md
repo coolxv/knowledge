@@ -542,6 +542,11 @@
 - [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
 - [《机器翻译：基础与模型》肖桐 朱靖波 著](https://github.com/NiuTrans/MTBook)
 - [我复现了LeCun 33年前的神经网络](https://karpathy.github.io/2022/03/14/lecun1989/)
+- [Stanford CS229:机器学习](https://github.com/cycleuser/Stanford-CS-229-CN)[ | 机器学习2](https://github.com/learning511/Stanford-Machine-Learning-camp)
+- [Stanford CS231n:用于视觉识别的卷积神经网络](https://github.com/dafish-ai/Stanford-CS231n-learning-camp)
+- [Stanford CS7301:机器学习优化的高级主题](https://github.com/rishabhk108/AdvancedOptML)
+- [机器学习算法的超参数优化](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
+- [机器学习优化1](https://github.com/rishabhk108/OptimizationML)[ | 机器学习优化2](https://github.com/epfml/OptML_course)[ | 机器学习优化3](https://github.com/epfml/OptML_course)[ | 机器学习优化4](https://github.com/gardenia22/nanshu.wang/blob/master/content/%E8%98%85%E8%8A%9C/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%9C%80%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
@@ -582,4 +587,5 @@
 - [awesome-visual-representation-learning-with-transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
 - [awesome-detection-transformer](https://github.com/IDEACVR/awesome-detection-transformer)
 - [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+- [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
 
