@@ -15,6 +15,7 @@
 + [mathjax3-plugin-for-github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod)
 + [visual studio code](https://code.visualstudio.com/)
 + [markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
++ [数学符号在线地址生成](https://md-math.netlify.app/)
 + [codecogs latex](https://www.codecogs.com/latex/eqneditor.php)
 + [creating mathematical animations](https://github.com/ManimCommunity/manim)
 + [计算机代数系统列表](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BB%A3%E6%95%B0%E7%B3%BB%E7%BB%9F%E5%88%97%E8%A1%A8)
@@ -45,3 +46,4 @@
 - [graphingcalculator](https://zh.numberempire.com/graphingcalculator.php)
 - [geogebra](https://www.geogebra.org/graphing?lang=zh_CN)
 - [academo](https://academo.org/)
+
