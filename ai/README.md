@@ -412,6 +412,7 @@
 - [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
 - [tensorflow graphics | 可微分的图形层](https://github.com/tensorflow/graphics)
 - [mup](https://github.com/microsoft/mup)
+- [DETR | End-to-End Object Detection With Transformers](https://alcinos.github.io/detr_page/)
 
 # 强化学习框架
 - [trfl](https://github.com/deepmind/trfl)
@@ -577,3 +578,8 @@
 - [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
 - [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+- [awesome-visual-representation-learning-with-transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
+- [awesome-detection-transformer](https://github.com/IDEACVR/awesome-detection-transformer)
+- [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+
