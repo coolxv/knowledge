@@ -63,6 +63,8 @@ conda update anaconda
 # awesome
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+- [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+- [awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects)
 
 # 工具
 - [miniconda](https://conda.io/en/latest/miniconda.html)[ | Conda vs. Miniconda vs. Anaconda](https://www.quora.com/What-is-miniconda3)
