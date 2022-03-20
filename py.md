@@ -81,6 +81,11 @@ conda update anaconda
 # 关键点
 - [非package下的源文件导入模块的顺序](https://www.letianbiji.com/python/python-module.html)[ | Python3相对导入变化](https://stackoverflow.com/questions/12172791/changes-in-import-statement-python3)[ | 使用相对路径名导入包中子模块](https://python3-cookbook.readthedocs.io/zh_CN/latest/c10/p03_import_submodules_by_relative_names.html)
 
+# FastAPI
+- [cookiecutter | 项目模板生成](https://cookiecutter.readthedocs.io/en/latest/)
+- [fastapi-mysql-generator | fastapi+mysql](https://github.com/wxy2077/fastapi-mysql-generator)
+- [full-stack-fastapi-postgresql | fastapi+postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+
 # Numpy
 
 # CuPy
