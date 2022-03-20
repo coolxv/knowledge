@@ -49,7 +49,7 @@ conda update python
 conda update anaconda
 ```
 # 资料
-- [Python官网中文文档](https://docs.python.org/zh-cn/3/index.html)
+- [Python官网中文文档](https://docs.python.org/zh-cn/3/index.html)[ | Python 教程](https://docs.python.org/zh-cn/3.11/tutorial/index.html)
 - [python3 cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 - [pip官方手册](https://pip.pypa.io/en/stable/getting-started/)
 - [pdb调式器](https://docs.python.org/zh-cn/3/library/pdb.html)
@@ -70,6 +70,7 @@ conda update anaconda
 - [miniconda](https://conda.io/en/latest/miniconda.html)[ | Conda vs. Miniconda vs. Anaconda](https://www.quora.com/What-is-miniconda3)
 - [miniforge](https://github.com/conda-forge/miniforge)
 - [poetry](https://python-poetry.org/)
+- [pdm](https://github.com/pdm-project/pdm/)[ | pdm 使用精要](https://aber.sh/articles/pdm/)
 - [pipx](https://github.com/pypa/pipx)
 - [Binder | 免费的Jupyter](https://mybinder.org/)
 - [nbviewer | 免费的Jupyter](https://nbviewer.org/)
