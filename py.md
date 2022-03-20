@@ -87,6 +87,7 @@ conda update anaconda
 - [cookiecutter | 项目模板生成](https://cookiecutter.readthedocs.io/en/latest/)
 - [fastapi-mysql-generator | fastapi+mysql](https://github.com/wxy2077/fastapi-mysql-generator)
 - [full-stack-fastapi-postgresql | fastapi+postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+- [full-stack-fastapi-couchbase | fastapi+couchbase](https://github.com/tiangolo/full-stack-fastapi-couchbase)
 
 # Numpy
 
