@@ -40,6 +40,7 @@
 - [TinyEngine | 微小的OpenGL包装器](https://github.com/weigert/TinyEngine)
 - [im3d | 即时模式渲染和3D小工具](https://github.com/john-chapman/im3d)
 - [efkbgfx](https://github.com/cloudwu/efkbgfx)
+- [glText](https://github.com/vallentin/glText)
 
 
 # 物理引擎
