@@ -459,6 +459,7 @@
 - [GFPGAN | 老照片修复](https://github.com/TencentARC/GFPGAN)
 - [LaTeX_OCR_PRO | 数学公式识别](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)
 - [Image2Katex | 数学公式识别](https://github.com/xiaofengShi/Image2Katex)
+- [kubric | 用于创建半真实感合成多对象视频的数据生成管道](https://github.com/google-research/kubric)
 
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
