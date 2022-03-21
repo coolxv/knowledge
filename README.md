@@ -49,7 +49,7 @@
 - [Windows Terminal](https://github.com/microsoft/terminal)
 - [xampp](https://www.apachefriends.org/index.html)
 - [lnmp](https://lnmp.org/install.html)
-- [oneinstack lnmp](https://github.com/oneinstack/lnmp)
+- [oneinstack lnmp](https://github.com/oneinstack/lnmp)[ | 官网](https://oneinstack.com/)
 # 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
