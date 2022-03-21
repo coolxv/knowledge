@@ -68,6 +68,7 @@
 
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
+- [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
 - [Proton | 基于Wine和其他组件的Steam Play兼容性工具](https://github.com/ValveSoftware/Proton)
 - [Gearsystem | Sega Master System / Game Gear / SG-1000 模拟器](https://github.com/drhelius/Gearsystem)
 - [Gearboy | Game Boy / Gameboy 模拟器](https://github.com/drhelius/Gearboy)
