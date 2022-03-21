@@ -113,10 +113,12 @@
 - [obs | 推流软件](https://github.com/obsproject/obs-studio)
 - [shotcut | 视频编辑](https://github.com/mltframework/shotcut)
 - [VLC](https://www.videolan.org/index.zh.html)
+- [ffmpeg](https://ffmpeg.org/)
 
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
 - [inkscape | 矢量图像处理，代替illustrator](https://inkscape.org/)
+- [GIMP | 图像编辑器](https://www.gimp.org/)
 - [darktable | 照片管理](https://github.com/darktable-org/darktable)
 - [Cascade | 基于节点的图形编辑器与GPU加速](https://github.com/ttddee/Cascade)
 
