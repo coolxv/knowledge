@@ -47,7 +47,7 @@
 - [tortoisegit](https://tortoisegit.org/)
 - [tortoisesvn](https://tortoisesvn.net/index.zh.html)
 - [Windows Terminal](https://github.com/microsoft/terminal)
-- [xampp](https://www.apachefriends.org/index.html)[ | PostgreSQL + PhpPgAdmin](https://gioele-bencivenga.github.io/random%20knowledge/Integrating-Postgres-Xampp_PhpPgAdmin/)
+- [xampp](https://www.apachefriends.org/index.html)[ | PostgreSQL + PhpPgAdmin](https://gioele-bencivenga.github.io/random%20knowledge/Integrating-Postgres-Xampp_PhpPgAdmin/)[ | WAPP](https://bitnami.com/tag/postgresql)
 - [lnmp](https://lnmp.org/install.html)
 - [oneinstack lnmp](https://github.com/oneinstack/lnmp)[ | 官网](https://oneinstack.com/)
 # 有用软件
