@@ -551,6 +551,7 @@
 - [机器学习算法的超参数优化](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
 - [机器学习优化1](https://github.com/rishabhk108/OptimizationML)[ | 机器学习优化2](https://github.com/epfml/OptML_course)[ | 机器学习优化3](https://github.com/epfml/OptML_course)[ | 机器学习优化4](https://github.com/gardenia22/nanshu.wang/blob/master/content/%E8%98%85%E8%8A%9C/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E6%9C%80%E4%BC%98%E5%8C%96%E9%97%AE%E9%A2%98.md)
 - [数值优化](https://wumin199.github.io/2020/01/27/numerical-optimization/)
+- [LearnOpenCV |  Computer Vision, Deep learning, and AI articles](https://github.com/spmallick/learnopencv/blob/master/README.md)
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
 - [ightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
