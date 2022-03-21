@@ -2,3 +2,7 @@
 - [learnopencv 网站](https://learnopencv.com/)
 - [learnopencv 源码](https://github.com/spmallick/learnopencv)
 - [ImageProcessing100Wen](https://github.com/gzr2017/ImageProcessing100Wen)
+- [面向初学者的OpenCV-Python教程](https://github.com/CodecWang/OpenCV-Python-Tutorial)
+- [OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial)
+- [opencv中文论坛](http://www.opencv.org.cn/forum/forum.php)
+- [OpenCV/kornia/Pillow/Halcon/NI Vision/MIL/*计算机视觉资料汇总](https://blog.51cto.com/u_14929337/4713898)
