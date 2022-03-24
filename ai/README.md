@@ -406,7 +406,7 @@
 - [dask | 是一个用Python编写的用于并行计算的开源库](https://dask.org/)
 - [Mars | 是一个基于张量的大规模数据计算统一框架，可伸缩numpy、pandas、scikit-learn和Python函数。](https://github.com/mars-project/mars)
 - [MLPP | 16岁少年的C++机器学习库](https://github.com/novak-99/MLPP)
-- [yolov5](https://github.com/ultralytics/yolov5)[ | yolov5中文](htt)ps://github.com/wudashuo/yolov5
+- [yolov5](https://github.com/ultralytics/yolov5)[ | yolov5中文](https://github.com/wudashuo/yolov5)
 - [MMCV | 一个面向计算机视觉的基础库](https://github.com/open-mmlab/mmcv/blob/master/README_zh-CN.md)
 - [ppl.nn | 一个用于神经网络的原始库](https://github.com/openppl-public/ppl.nn)
 - [chainer | 在NumPy和CuPy 库之上完全用Python编写的开源深度学习框架](https://chainer.org/)
