@@ -105,6 +105,8 @@ conda update anaconda
 
 # Matplotlib
 
+# Mayavi
+
 # Seaborn
 
 # Sklearn
