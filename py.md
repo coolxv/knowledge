@@ -114,5 +114,5 @@ conda update anaconda
 # pymc
 - [pymc](https://github.com/pymc-devs/pymc)
 
-#SymPy
+# SymPy
 - [Symbolic Computation with Python using SymPy](https://www.sympy.org/scipy-2016-tutorial/)
