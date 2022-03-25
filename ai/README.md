@@ -558,6 +558,7 @@
 - [LearnOpenCV |  Computer Vision, Deep learning, and AI articles](https://github.com/spmallick/learnopencv/blob/master/README.md)
 - [microsoft ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
+- [深度学习百科及面试资源](https://paddlepedia.readthedocs.io/en/latest/index.html)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
