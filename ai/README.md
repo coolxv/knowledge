@@ -354,7 +354,7 @@
 - [TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions)
 - [mlir-hlo](https://github.com/tensorflow/mlir-hlo)
 # 模型推理
-- [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)
+- [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)[ | TPAT](https://github.com/Tencent/TPAT)
 - [armnn | ARM嵌入式设备的inference框架](https://github.com/ARM-software/armnn)
 - [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
 - [OpenCV和OpenVINO | Intel的推理引擎](https://github.com/openvinotoolkit/openvino)
