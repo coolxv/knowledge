@@ -300,6 +300,7 @@
 - [ibm model zoo](https://developer.ibm.com/exchanges/models/all/)
 - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [ailia-models](https://github.com/axinc-ai/ailia-models)
+- [huggingface models](https://huggingface.co/models)
 # 模型 Hub
 - [tensorflow hub](https://www.tensorflow.org/hub)
 - [pytorch hub](https://pytorch.org/hub/)
