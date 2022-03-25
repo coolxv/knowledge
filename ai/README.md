@@ -272,6 +272,8 @@
 - [awesome](https://github.com/awesomedata/awesome-public-datasets)
 - [StyleGAN 2 models](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - [datacentricai | 以数据为中心的AI](https://datacentricai.org/)
+# 大模型
+- [GPT-NeoX-20B](https://mystic.the-eye.eu/public/AI/models/GPT-NeoX-20B/)[ | GPT-NeoX](https://github.com/EleutherAI/gpt-neox)
 
 # 模型 Zoo
 - [onnx models](https://github.com/onnx/models)
