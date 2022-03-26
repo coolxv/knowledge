@@ -6,3 +6,4 @@
 - [labelme2Datasets](https://github.com/veraposeidon/labelme2Datasets)
 - [Baidu AI Platform](https://github.com/Baidu-AIP)
 - [paddle-inference 文档](https://paddle-inference.readthedocs.io/en/latest/index.html)
+- [paddle yolov3 python推理例子](https://github.com/PaddlePaddle/Paddle-Inference-Demo/blob/master/python/yolov3/infer_yolov3.py)
