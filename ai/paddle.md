@@ -5,3 +5,4 @@
 - [PaddleX_2.数据集转换](https://paddlexdocs.readthedocs.io/en/stable/appendix/how_to_convert_dataset.html)
 - [labelme2Datasets](https://github.com/veraposeidon/labelme2Datasets)
 - [Baidu AI Platform](https://github.com/Baidu-AIP)
+- [paddle-inference 文档](https://paddle-inference.readthedocs.io/en/latest/index.html)
