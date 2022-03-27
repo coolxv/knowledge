@@ -125,4 +125,7 @@
 # Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
 - [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
-- [hellogithub | 分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
+
+# 项目
+- [stb](https://github.com/nothings/stb)
+- [sokol](https://github.com/floooh/sokol)
