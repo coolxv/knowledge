@@ -7,3 +7,5 @@
 - [Baidu AI Platform](https://github.com/Baidu-AIP)
 - [paddle-inference 文档](https://paddle-inference.readthedocs.io/en/latest/index.html)
 - [paddle yolov3 python推理例子](https://github.com/PaddlePaddle/Paddle-Inference-Demo/blob/master/python/yolov3/infer_yolov3.py)
+- [脚本任务](https://ai.baidu.com/ai-doc/AISTUDIO/Ik3e3g4lt)
+- [一个案例吃透Pipeline](https://zhuanlan.zhihu.com/p/424695578)
