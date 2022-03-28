@@ -3,6 +3,7 @@
 # 资料
 - [awesome-math](https://github.com/rossant/awesome-math)
 - [SciPy Lecture Notes 中文版](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/index.html)
+- [EssentialMath](https://github.com/yangyutu/EssentialMath)
 
 # 期刊
 - [数学年刊：Annals of Mathematics](https://annals.math.princeton.edu/)
