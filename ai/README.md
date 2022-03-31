@@ -381,7 +381,22 @@
 - [dl_inference | 通用深度学习推理服务，可在生产环境中快速上线由TensorFlow、PyTorch、Caffe框架训练出的深度学习模型](https://github.com/wuba/dl_inference)
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
 - [Adlik | 深度学习模型的端到端优化框架](https://github.com/Adlik/Adlik)
+# 目标检测
+- [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)
+- [YOLOF](https://github.com/megvii-model/YOLOF)
+- [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN)
+- [DeFCN](https://github.com/Megvii-BaseDetection/DeFCN)
+- [DynamicHead](https://github.com/microsoft/DynamicHead)
+- [GFocalV2](https://github.com/implus/GFocalV2)
+- [up-detr](https://github.com/dddzg/up-detr)
+- [MSAD](https://github.com/dvlab-research/MSAD)
+- [ACSL](https://github.com/CASIA-IVA-Lab/ACSL)
+- [VarifocalNet](https://github.com/hyz-xmaster/VarifocalNet)
+- [OTA](https://github.com/Megvii-BaseDetection/OTA)
+- [YOLObile](https://github.com/nightsnack/YOLObile)
+- [OWOD](https://github.com/JosephKJ/OWOD)
 
+# OCR
 
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
@@ -603,4 +618,5 @@
 - [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 - [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
 - [CV-Surveys | 机器视觉相关综述](https://github.com/52CV/CV-Surveys)
+- [CVPR2022-Papers-with-Code | CVPR 2022 论文和开源项目合集](https://github.com/amusi/CVPR2022-Papers-with-Code)
 
