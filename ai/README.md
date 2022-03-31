@@ -382,6 +382,7 @@
 - [mace | 端侧推理引擎](https://github.com/XiaoMi/mace)
 - [Adlik | 深度学习模型的端到端优化框架](https://github.com/Adlik/Adlik)
 # 目标检测
+- [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)
 - [ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)
 - [YOLOF](https://github.com/megvii-model/YOLOF)
 - [SparseR-CNN](https://github.com/PeizeSun/SparseR-CNN)
