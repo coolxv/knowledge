@@ -39,7 +39,7 @@
 
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
-- [c2go | 将C代码迁移到Go](https://github.com/elliotchance/c2go)
+- [c2go | 将C代码迁移到Go](https://github.com/elliotchance/c2go)[ | c2go](https://github.com/goplus/c2go)
 - [w2c2 | 将WebAssembly代码翻译成C](https://github.com/turbolent/w2c2)
 
 # 混合编程
