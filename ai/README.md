@@ -602,4 +602,5 @@
 - [awesome-detection-transformer](https://github.com/IDEACVR/awesome-detection-transformer)
 - [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 - [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
+- [CV-Surveys | 机器视觉相关综述](https://github.com/52CV/CV-Surveys)
 
