@@ -60,6 +60,8 @@
   - 语义分割（semantic segmentation）
   - 实例分割（instance segmentation）
   - 全景分割（panoptic segmentation）
+- 目标检测算法中有三个组件：Backbone、Neck和Head，输入->主干->脖子->头->输出。主干网络提取特征，脖子提取一些更复杂的特征，然后头部计算预测输出。
+
 - [动态图、静态图、计算图](http://pointborn.com/article/2021/7/4/1546.html)
 - [数据集：训练集、验证集、测试集](https://easyaitech.medium.com/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82-ai-%E6%95%B0%E6%8D%AE%E9%9B%86-%E8%AE%AD%E7%BB%83%E9%9B%86-%E9%AA%8C%E8%AF%81%E9%9B%86-%E6%B5%8B%E8%AF%95%E9%9B%86-%E9%99%84-%E5%88%86%E5%89%B2%E6%96%B9%E6%B3%95-%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81-9b3afd37fd58)
   * 训练集相当于上课学知识
