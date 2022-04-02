@@ -1,1 +1,2 @@
 - [深度学习中目标检测算法为什么都是输入正方形的图像？](https://www.zhihu.com/question/310237588)
+- [目标检测图像Resize成正方形后，长宽比例发生畸变，基于原始图像目标比例设置的anchor意义在哪？](https://www.zhihu.com/question/395996393)
