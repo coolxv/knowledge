@@ -10,3 +10,4 @@
 - [脚本任务](https://ai.baidu.com/ai-doc/AISTUDIO/Ik3e3g4lt)
 - [一个案例吃透Pipeline](https://zhuanlan.zhihu.com/p/424695578)
 - [各套件模型导出前后文件夹状态](https://github.com/PaddlePaddle/PaddleX/blob/develop/deploy/cpp/docs/file_format.md)
+- [paddlex部署CPP推理引擎](https://github.com/PaddlePaddle/PaddleX/blob/develop/deploy/cpp/docs/models/paddlex.md)
