@@ -491,6 +491,7 @@
 - [Image2Katex | 数学公式识别](https://github.com/xiaofengShi/Image2Katex)
 - [kubric | 用于创建半真实感合成多对象视频的数据生成管道](https://github.com/google-research/kubric)
 - [encoder4editing | 用于StyleGAN图像处理的编码器](https://github.com/omertov/encoder4editing)
+- [ML x ART](https://mlart.co/)
 ## 代码转换应用
 - [TransCoder](https://github.com/facebookresearch/TransCoder)
 - 
