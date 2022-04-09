@@ -221,6 +221,7 @@
 - [benchmark_results](https://github.com/foolwood/benchmark_results)
 - [huggingface | 构建未来的人工智能社区](https://huggingface.co/)
 # 可视化工具
+- [OpenAI Microscope](https://microscope.openai.com/models)
 - [tensorspace | 神经网络三维可视化框架](https://tensorspace.org/html/playground/index.html)
 - [netron | 用于神经网络，深度学习和机器学习模型的可视化工具](https://github.com/lutzroeder/netron)
 - [convnetjs | 在浏览器中训练深度学习模型（神经网络）](https://cs.stanford.edu/people/karpathy/convnetjs/)
