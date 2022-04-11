@@ -21,6 +21,13 @@ pip install--upgrade 库名
 卸载库
 pip uninstall 库的名字
 ```
+```
+#批量离线下载包
+pip download -d /tmp/packagesdir <packagename>
+pip download -d /tmp/packagesdir -r requirements.txt
+pip install --no-index --ignore-installed --find-links=/tmp/packagesdir <packagename>
+pip install --no-index --ignore-installed --find-links=/tmp/packagesdir -r requirements.txt
+```
 
 # conda使用
 ```
