@@ -86,6 +86,7 @@
 - [phaser| web](https://github.com/photonstorm/phaser)
 - [LinaEngine](https://github.com/inanevin/LinaEngine)
 - [MoravaEngine](https://github.com/dtrajko/MoravaEngine)
+- [pyxel](https://github.com/kitao/pyxel)
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
 - [AMD FidelityFX Super Resolution (FSR) | AMD](https://github.com/GPUOpen-Effects/FidelityFX-FSR)
