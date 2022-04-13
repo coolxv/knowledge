@@ -441,6 +441,7 @@
 - [tensorflow graphics | 可微分的图形层](https://github.com/tensorflow/graphics)
 - [mup](https://github.com/microsoft/mup)
 - [DETR | End-to-End Object Detection With Transformers](https://alcinos.github.io/detr_page/)
+- [composer](https://github.com/mosaicml/composer)
 
 # 强化学习框架
 - [trfl](https://github.com/deepmind/trfl)
