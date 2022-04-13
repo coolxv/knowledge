@@ -468,6 +468,7 @@
 - [在一分钟内实现一个图形分类应用](https://tinyms.readthedocs.io/zh_CN/latest/quickstart/quickstart_in_one_minute.html)
 - [基于《集体智慧编程》中提供的神经网络代码](https://github.com/FlorianMuellerklein/Machine-Learning/blob/master/Old/BackPropagationNN.py)
 - [基于纯Numpy实现的简单RNN, LSTM和可微神经计算DNC](https://github.com/krocki/dnc)
+- [一个轻量级的C++ AI模型工具箱](https://github.com/DefTruth/lite.ai.toolkit)
 # 应用
 - [GANcraft | 基于图片生成类似于我的世界](https://nvlabs.github.io/GANcraft/)
 - [PaddleBoBo | 基于飞桨开发的虚拟主播](https://github.com/JiehangXie/PaddleBoBo)
