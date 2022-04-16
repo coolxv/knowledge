@@ -35,6 +35,7 @@
 - [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
 - [cranlift | 是WebAssembly的一个低级的可重定向代码生成器。它将与目标无关的中间表示转换为可执行的机器码](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)
 - [llvm-crash-analyzer](https://github.com/cisco-open/llvm-crash-analyzer)
+- [nvc | VHDL compiler and simulator](https://github.com/nickg/nvc)
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
 
