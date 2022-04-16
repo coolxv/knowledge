@@ -67,6 +67,7 @@
 - [Cataclysm-DDA | 《Dark Days Ahead》是一款以后世界末日为背景的回合制生存游戏](https://github.com/CleverRaven/Cataclysm-DDA)
 - [teeworlds | 一款复古多人射击游戏](https://github.com/teeworlds/teeworlds)
 - [citybound | 城市模拟](https://github.com/citybound/citybound)
+- [Cytopia | 城市模拟](https://github.com/CytopiaTeam/Cytopia)
 - [cdogs-sdl | 跑动和射击游戏](https://github.com/cxong/cdogs-sdl)
 
 # 游戏创建
