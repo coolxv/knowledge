@@ -67,7 +67,10 @@
 - [Cataclysm-DDA | 《Dark Days Ahead》是一款以后世界末日为背景的回合制生存游戏](https://github.com/CleverRaven/Cataclysm-DDA)
 - [teeworlds | 一款复古多人射击游戏](https://github.com/teeworlds/teeworlds)
 - [citybound | 城市模拟](https://github.com/citybound/citybound)
+- [cdogs-sdl | 跑动和射击游戏](https://github.com/cxong/cdogs-sdl)
 
+# 游戏创建
+- [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
