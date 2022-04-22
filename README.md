@@ -70,6 +70,7 @@
 - [Cytopia | 城市模拟](https://github.com/CytopiaTeam/Cytopia)
 - [cdogs-sdl | 跑动和射击游戏](https://github.com/cxong/cdogs-sdl)
 - [OpenTTD | 是一个基于运输大亨豪华的开源模拟游戏](https://github.com/OpenTTD/OpenTTD)
+- [Plants-vs.-Zombies-Online-Battle | 植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
