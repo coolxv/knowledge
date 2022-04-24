@@ -83,6 +83,7 @@
 - [PDBRipper | 从pdb文件中提取信息](https://github.com/horsicq/PDBRipper)
 - [maat | 符号执行](https://github.com/trailofbits/maat)
 - [raw_pdb | 读取Microsoft Program DataBase PDB文件](https://github.com/MolecularMatters/raw_pdb)
+- [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
 # 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
 - [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
