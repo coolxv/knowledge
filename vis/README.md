@@ -69,6 +69,7 @@
 - [PAG (Portable Animated Graphics) | 动画文件的渲染 SDK](https://github.com/Tencent/libpag)
 - [lighthouse2 | 用于实时光线追踪的框架](https://github.com/jbikker/lighthouse2)
 - [bgfx | 跨平台的渲染库](https://github.com/bkaradzic/bgfx)
+- [LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
 - [Rootex](https://github.com/sdslabs/Rootex)
