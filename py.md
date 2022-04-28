@@ -77,6 +77,7 @@ conda update anaconda
 - [miniconda](https://conda.io/en/latest/miniconda.html)[ | Conda vs. Miniconda vs. Anaconda](https://www.quora.com/What-is-miniconda3)
 - [miniforge](https://github.com/conda-forge/miniforge)
 - [poetry](https://python-poetry.org/)
+- [beeware | 打包工具](https://github.com/beeware)
 - [pdm](https://github.com/pdm-project/pdm/)[ | pdm 使用精要](https://aber.sh/articles/pdm/)
 - [pipx](https://github.com/pypa/pipx)
 - [Binder | 免费的Jupyter](https://mybinder.org/)
