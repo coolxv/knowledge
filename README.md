@@ -104,6 +104,7 @@
 - [SPICE | 一个用于非线性直流、非线性暂态和线性交流分析的通用电路仿真程序](http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE/) [ | TINA-TI](https://www.ti.com.cn/tool/cn/TINA-TI)[ | LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 - [simulIDE | 适合学习和实验简单的电子电路和微控制器，支持PIC, AVR和Arduino](https://www.simulide.com/)
 - [wokwi | 在浏览器中模拟物联网项目](https://wokwi.com/)
+- [eetree | 在浏览器中模拟常见的电路](https://www.eetree.cn/war/circuitjs.html?lang=zh)
 # 物理仿真
 - [precice | 多物理仿真库](https://github.com/precice/precice)
 
