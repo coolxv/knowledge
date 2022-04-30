@@ -4,6 +4,7 @@
 - [awesome-math](https://github.com/rossant/awesome-math)
 - [SciPy Lecture Notes 中文版](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/index.html)
 - [EssentialMath](https://github.com/yangyutu/EssentialMath)
+- [休闲数学](https://beltoforion.de/en/index.php)
 
 # 期刊
 - [数学年刊：Annals of Mathematics](https://annals.math.princeton.edu/)
