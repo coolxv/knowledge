@@ -107,6 +107,7 @@
 - [eetree | 在浏览器中模拟常见的电路](https://www.eetree.cn/war/circuitjs.html?lang=zh)
 # 物理仿真
 - [precice | 多物理仿真库](https://github.com/precice/precice)
+- [webots | 机器人模拟器](https://github.com/cyberbotics/webots)
 
 # 化学仿真
 - [蛋白质](https://fold.it/)
