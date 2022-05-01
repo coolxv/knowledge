@@ -77,7 +77,6 @@ conda update anaconda
 - [miniconda](https://conda.io/en/latest/miniconda.html)[ | Conda vs. Miniconda vs. Anaconda](https://www.quora.com/What-is-miniconda3)
 - [miniforge](https://github.com/conda-forge/miniforge)
 - [poetry](https://python-poetry.org/)
-- [beeware | 打包工具](https://github.com/beeware)
 - [pdm](https://github.com/pdm-project/pdm/)[ | pdm 使用精要](https://aber.sh/articles/pdm/)
 - [pipx](https://github.com/pypa/pipx)
 - [Binder | 免费的Jupyter](https://mybinder.org/)
@@ -88,7 +87,13 @@ conda update anaconda
 - [cython | AOT](https://cython.org/)
 - [Pyjion  | JIT](https://github.com/tonybaloney/Pyjion)
 - [pyright | 静态检测](https://github.com/microsoft/pyright)
-
+## 打包工具
+- [nuitka](https://nuitka.net/)
+- [pyinstaller](https://www.pyinstaller.org/)
+- [pyarmor | 代码混淆打包](https://github.com/dashingsoft/pyarmor)
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer)
+- [py2exe](http://www.py2exe.org/)
+- [beeware | 打包工具](https://github.com/beeware)
 # 关键点
 - [非package下的源文件导入模块的顺序](https://www.letianbiji.com/python/python-module.html)[ | Python3相对导入变化](https://stackoverflow.com/questions/12172791/changes-in-import-statement-python3)[ | 使用相对路径名导入包中子模块](https://python3-cookbook.readthedocs.io/zh_CN/latest/c10/p03_import_submodules_by_relative_names.html)
 
