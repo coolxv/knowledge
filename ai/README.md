@@ -405,9 +405,11 @@
 - [OTA](https://github.com/Megvii-BaseDetection/OTA)
 - [YOLObile](https://github.com/nightsnack/YOLObile)
 - [OWOD](https://github.com/JosephKJ/OWOD)
-
+# NLP
+- [funNLP](https://github.com/fighting41love/funNLP)
 # OCR
-
+- [mmocr](https://github.com/open-mmlab/mmocr)
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
@@ -442,6 +444,7 @@
 - [mup](https://github.com/microsoft/mup)
 - [DETR | End-to-End Object Detection With Transformers](https://alcinos.github.io/detr_page/)
 - [composer](https://github.com/mosaicml/composer)
+- [EasyCV](https://github.com/alibaba/EasyCV)
 
 # 强化学习框架
 - [trfl](https://github.com/deepmind/trfl)
@@ -494,6 +497,7 @@
 - [kubric | 用于创建半真实感合成多对象视频的数据生成管道](https://github.com/google-research/kubric)
 - [encoder4editing | 用于StyleGAN图像处理的编码器](https://github.com/omertov/encoder4editing)
 - [ML x ART](https://mlart.co/)
+- [incoder | 代码补全](https://github.com/dpfried/incoder)
 ## 代码转换应用
 - [TransCoder](https://github.com/facebookresearch/TransCoder)
 - 
@@ -635,4 +639,6 @@
 - [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co)
 - [CV-Surveys | 机器视觉相关综述](https://github.com/52CV/CV-Surveys)
 - [CVPR2022-Papers-with-Code | CVPR 2022 论文和开源项目合集](https://github.com/amusi/CVPR2022-Papers-with-Code)
+- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 
