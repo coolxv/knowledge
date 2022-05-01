@@ -43,6 +43,7 @@
 - [DevToys](https://github.com/veler/DevToys)
 - [notepad++](https://notepad-plus-plus.org/)
 - [everything](https://www.voidtools.com/zh-cn/)
+- [listary](https://www.listary.com/)
 - [git](https://git-scm.com/)
 - [tortoisegit](https://tortoisegit.org/)
 - [tortoisesvn](https://tortoisesvn.net/index.zh.html)
@@ -51,6 +52,8 @@
 - [lnmp](https://lnmp.org/install.html)
 - [oneinstack lnmp](https://github.com/oneinstack/lnmp)[ | 官网](https://oneinstack.com/)
 - [Yank Note | 是一款面向程序员的本地 Markdown 笔记应用](https://github.com/purocean/yn)
+- [lite-xl](https://github.com/lite-xl/lite-xl)
+
 
 # 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
