@@ -1,0 +1,38 @@
+
+none.o:
+	gcc -g -c none.c -fPIC
+libnone.a:none.o
+	ar -r $@  $^ 
+all.o:
+	gcc -g -c all.c -fPIC
+liball.a:all.o
+	ar -r $@  $^ 
+add.o:
+	gcc -g -c add.c -fPIC
+libadd.a:add.o
+	ar -r $@  $^ 
+sub.o:
+	gcc -g -c sub.c -fPIC
+libsub.a:sub.o
+	ar -r $@  $^ 
+mul.o:
+	gcc -g -c mul.c -fPIC
+libmul.a:mul.o
+	ar -r $@  $^ 
+libdiv.o:
+	gcc -g -c div.c -fPIC
+libdiv.a:div.o
+	ar -r $@  $^
+# main.o:
+# 	gcc -g -c main.c -fPIC -DPIE
+#libop.so:main.o liball.a libnone.a libmul.a libdiv.a  libadd.a libsub.a
+#	gcc -g -fPIC -shared -pie -o $@   -L./ -Wl,-E -Wl,--whole-archive $^ -Wl,--no-whole-archive -ldl
+
+libop.so: liball.a libnone.a libmul.a libdiv.a  libadd.a libsub.a
+	gcc -g -fPIC -shared -o $@   -L./ -Wl,-e,my_main -Wl,--whole-archive $^ -Wl,--no-whole-archive -ldl
+
+
+ 
+clean:
+	rm -rf main *.o *.a *.so
+ 

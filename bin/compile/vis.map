@@ -1,0 +1,12 @@
+VER_1.0 {
+    global:
+        my_add;
+    local:
+        *;
+};
+
+VER_1.1 {
+  global:
+        my_all;
+} VER_1.0;
+
