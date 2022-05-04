@@ -43,7 +43,6 @@
 - [glText](https://github.com/vallentin/glText)
 - [Razix](https://github.com/Pikachuxxxx/Razix)
 
-
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
 - [ZENO | 一个面向高性能物理计算而研发的可视化编程系统和平台](https://github.com/zenustech/zeno)
@@ -58,6 +57,7 @@
 - [PositionBasedDynamics | 用于刚体、可变形固体和流体的物理模拟。](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
 - [qu3e | 轻量级和简单的3D开源物理引擎在C++](https://github.com/RandyGaul/qu3e)
 - [Physics3D](https://github.com/ThePhysicsGuys/Physics3D)
+
 # 渲染引擎
 - [Ray Tracing Gems II](https://github.com/Apress/Ray-Tracing-Gems-II)
 - [filament | 一个基于物理的实时渲染引擎](https://github.com/google/filament)
@@ -70,6 +70,8 @@
 - [lighthouse2 | 用于实时光线追踪的框架](https://github.com/jbikker/lighthouse2)
 - [bgfx | 跨平台的渲染库](https://github.com/bkaradzic/bgfx)
 - [LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)
+- [Atlas-Engine](https://github.com/tippesi/Atlas-Engine)
+
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
 - [Rootex](https://github.com/sdslabs/Rootex)
@@ -80,7 +82,7 @@
 - [RaZ](https://github.com/Razakhel/RaZ)
 - [godot](https://github.com/godotengine/godot)
 - [GDevelop](https://github.com/4ian/GDevelop)
-- [C++ 纸牌游戏引擎](https://github.com/WagicProject/wagic)
+- [C++纸牌游戏引擎](https://github.com/WagicProject/wagic)
 - [KlayGE](https://github.com/gongminmin/KlayGE)
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE)
 - [eva.js | web](https://github.com/eva-engine/eva.js)
