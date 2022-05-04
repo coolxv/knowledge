@@ -43,6 +43,7 @@
 - [glText](https://github.com/vallentin/glText)
 - [Razix](https://github.com/Pikachuxxxx/Razix)
 - [island](https://github.com/tgfrerer/island)
+- [SoftGLRender](https://github.com/keith2018/SoftGLRender)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
