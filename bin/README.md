@@ -29,6 +29,7 @@
 - [ellcc | 主要重点是为嵌入式系统创建一个易于使用的多目标交叉编译环境](http://ellcc.org/)
 - [基于LLVM的前端列表](https://llvm.org/ProjectsWithLLVM/)
 - [Learn LLVM 12中文翻译](https://github.com/xiaoweiChen/Learn-LLVM-12)
+- [写给入门者的LLVM介绍](https://zhuanlan.zhihu.com/p/472813616)
 - [CompilerGym | Facebook 使用机器学习优化编译器](https://github.com/facebookresearch/CompilerGym)
 - [ABI Compliance Checker | ABI兼容检查器](https://lvc.github.io/abi-compliance-checker/)
 - [ORC | 一个在OSX工具链上发现违反C++的一个定义规则的工具](https://github.com/adobe/orc)
