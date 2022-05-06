@@ -224,7 +224,6 @@ G --> H[start_thread]
 - 如果需要装入解释器，那么使用解释器映像的入口地址。这样返回用户空间时先执行解析器程序。
 - 若不需要装入解释器，那么这个入口地址就使用映像本身的入口地址。
 
-![](pic/mm_struct.png)
 
 ## 用户态部分
 ![](pic/callgraph.png)
@@ -362,6 +361,7 @@ lib lib_destructor101
 ```
 # 内存布局
 ![](pic/layout.jpg)
+![](pic/mm_struct.png)
 ```
 cat /proc/pid/maps
 ```
