@@ -32,6 +32,7 @@
 - Logic 部分才是真正有意义的（What）；Control 部分只是影响 Logic 部分的效率（How）
 
 ## 原则、模式、库、框架
+![](pic/arch.jpg)
 - 原则胜过模式，模式胜过库，库胜过框架
 
 ## 结构化方法（SA/SD/SP）
