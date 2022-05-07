@@ -1,11 +1,25 @@
-# 语言
+# 语言趋势
 
 ![](pic/software.png)
 - 技术在进步，思想在轮回，感觉编程也像服装、发型一样，潮流几年一轮回
 - 编程语言会更加声明式，需要设法引入一些如元编程、函数编程的能力。并且让用户能够扩展语法，使他们可以构造特定领域语言。
 
-# 计算思维
-## 编程范式
+# 语言转换
+- Eiffel
+- Forth
+- dart
+- typescript
+- [haxe](https://try.haxe.org/)
+- [onelang](https://ide.onelang.io/)
+- go+
+- Kotlin 
+- [gccxml](http://gccxml.github.io/HTML/Running.html)
+- [TransCoder](https://github.com/facebookresearch/TransCoder)
+- graalvm
+- webassembly
+
+# 计算思维 vs 工程思维
+## 范式、原则、模式、库、框架
 - 范式（paradigm）可查托马斯·库恩（Thomas Kuhn）在《科学革命的结构》(The Structure of Scientific Revolutions)中的论述。
 他认为范式是一个共同体成员所共享的信仰、价值、技术等等的集合。 
 - 1976 年，瑞士计算机科学家，Algol W，Modula，Oberon 和 Pascal 语言的设计师 Niklaus Emil Wirth写了一本非常经典的书《Algorithms + Data Structures = Programs》（链接为 1985 年版） ，即算法 + 数据结构 = 程序。
@@ -32,30 +46,17 @@
 - 编程范式的本质：有效地分离 Logic、Control 和 Data 是写出好程序的关键所在！
 - Logic 部分才是真正有意义的（What）；Control 部分只是影响 Logic 部分的效率（How）
 
-## 原则、模式、库、框架
 ![](pic/arch.jpg)
 - 原则胜过模式，模式胜过库，库胜过框架
 
-# 工程思维
+
 ## 结构化方法（SA/SD/SP）
 结构化方法是一种传统的软件开发方法，它是由结构化分析、结构化设计和结构化程序设计三部分有机组合而成的。它的基本思想：把一个复杂问题的求解过程分阶段进行，而且这种分解是自顶向下，逐层分解，使得每个阶段处理的问题都控制在人们容易理解和处理的范围内。
 
 ## 面向对象方法（OOA/OOD/OOP）
 面向对象方法是基于对象概念,以对象为中心,以类和继承为构造机制,来认识,理解,刻画客观世界和设计,构建相应的软件系统的一门方法
 
-## 工程化方法
 
 
-# 语言转换
-- Eiffel
-- Forth
-- dart
-- typescript
-- [haxe](https://try.haxe.org/)
-- [onelang](https://ide.onelang.io/)
-- go+
-- Kotlin 
-- [gccxml](http://gccxml.github.io/HTML/Running.html)
-- [TransCoder](https://github.com/facebookresearch/TransCoder)
-- graalvm
-- webassembly
+
+
