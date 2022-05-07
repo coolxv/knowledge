@@ -18,7 +18,8 @@
 - graalvm
 - webassembly
 
-# 计算思维 vs 工程思维
+# 计算思维 vs 工程思维（编程、做饭、数学）
+
 ## 范式、原则、模式、库、框架
 - 范式（paradigm）可查托马斯·库恩（Thomas Kuhn）在《科学革命的结构》(The Structure of Scientific Revolutions)中的论述。
 他认为范式是一个共同体成员所共享的信仰、价值、技术等等的集合。 
