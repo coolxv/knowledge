@@ -24,3 +24,5 @@ gcc res.o  strings.o -o res
 # Qemu 
 qemu-system-mips64el -M malta -cpu MIPS64R2-generic -m 2G -append 'root=/dev/vda console=ttyS0 mem=2048m net.ifnames=0 nokaslr' -netdev user,id=user.0  -device virtio-net,netdev=user.0 -serial stdio -device usb-kbd -device usb-tablet -kernel .\vmlinux-4.14.0-3-5kc-malta.mips64el.buster -initrd .\initrd.img-4.14.0-3-5kc-malta.mips64el.buster -drive file=$(echo .\debian-buster-mips64el.qcow2),if=virtio
 # Valgrind
+
+# Wine
