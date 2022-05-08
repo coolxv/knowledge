@@ -6,6 +6,7 @@
 - 你（coder）简单了，我（compiler）就复杂了。
 - 语言混合或转换：
   - PyScript
+  - goscript
   - Eiffel
   - Forth
   - dart
