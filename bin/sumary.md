@@ -6,7 +6,7 @@
 - [程序](program.md)
 - [打桩](stub.md)
 - [语言](language.md)
-- [二进制](bin.md)
+- [工具](bin.md)
 
 # 案例
 - [交易系统API SafeEngine和openssl1.1.1符号冲突](symbolic.md)
