@@ -35,6 +35,15 @@ gcc res.o  strings.o -o res
 
 # pmap
 
+# pstatck
+
+# strace 
+# ltrace
+
+# ftrace
+
+# ptrace 函数
+
 # patchelf
 - 设置 interpreter
 - 设置 soname
