@@ -45,6 +45,7 @@
 - [island](https://github.com/tgfrerer/island)
 - [SoftGLRender](https://github.com/keith2018/SoftGLRender)
 - [Tempest](https://github.com/Try/Tempest)
+- [GTR_Framework | 用于OpenGL C++框架的实时渲染课程](https://github.com/jagenjo/GTR_Framework)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
