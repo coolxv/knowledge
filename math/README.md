@@ -5,6 +5,7 @@
 - [SciPy Lecture Notes 中文版](https://wizardforcel.gitbooks.io/scipy-lecture-notes/content/index.html)
 - [EssentialMath](https://github.com/yangyutu/EssentialMath)
 - [休闲数学](https://beltoforion.de/en/index.php)
+- [群论彩图版](https://zh.usa1lib.org/book/19241362/fbd415)[ | 配套网站](http://www.math.clemson.edu/~macaule/classes/m19_math4120/)
 
 # 期刊
 - [数学年刊：Annals of Mathematics](https://annals.math.princeton.edu/)
