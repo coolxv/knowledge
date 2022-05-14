@@ -75,6 +75,7 @@
 - 《领域驱动设计:软件核心复杂性应对之道》
 - 《 重构：改善既有代码的设计》
 - 《设计模式：可复用面向对象软件的基础》
+- [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
 
 
 
