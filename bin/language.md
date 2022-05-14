@@ -4,23 +4,8 @@
 - 技术在进步，思想在轮回，感觉编程也像服装、发型一样，潮流几年一轮回。
 - 编程语言会更加声明式，需要设法引入一些如元编程、函数编程的能力。并且让用户能够扩展语法，使他们可以构造特定领域语言。
 - 你（coder）简单了，我（compiler）就复杂了。
-- 语言混合或转换：
-  - PyScript
-  - goscript
-  - Eiffel
-  - Forth
-  - dart
-  - typescript
-  - [haxe](https://try.haxe.org/)
-  - [onelang](https://ide.onelang.io/)
-  - go+
-  - Kotlin 
-  - [gccxml](http://gccxml.github.io/HTML/Running.html)
-  - [TransCoder](https://github.com/facebookresearch/TransCoder)
-  - graalvm
-  - webassembly
 
-# 概念的本质
+# 编程的本质
 ## 计算思维 vs 工程思维（编程、做饭、数学）
 
 ## 具体(问题)到抽象(程序)
