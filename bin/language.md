@@ -86,7 +86,7 @@
 - 《设计模式：可复用面向对象软件的基础》
 - 《Google C++编码规范》
 - [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
-- [编程之道](https://book.douban.com/subject/1899158/)
+- [编程之道](https://github.com/ihaveu/wiki/wiki/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93)
 
 
 
