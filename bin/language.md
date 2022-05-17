@@ -97,6 +97,7 @@
 - [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
 - [编程之道](https://github.com/ihaveu/wiki/wiki/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93)
 - 《编码：隐匿在计算机软硬件背后的语言》
+- [编程语言理论(Programming language theory)](https://github.com/PLT-zh)
 
 
 
