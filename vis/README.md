@@ -19,6 +19,7 @@
 - [mesa3d | OpenGL的开源实现](https://www.mesa3d.org/)
 - [VulkanDemos](https://github.com/BobLChen/VulkanDemos)
 - [Vulkan-Hpp | Vulkan的C++封装](https://github.com/KhronosGroup/Vulkan-Hpp)
+- [Vulkan-Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 - [SimpleHydrology | 水文/河流/湖泊模拟](https://github.com/weigert/SimpleHydrology)
 - [PBR | 在D3D11, D3D12, Vulkan和OpenGL 4中实现基于物理的阴影和基于图像的照明](https://github.com/Nadrin/PBR)
 - [learning-directx-12](https://www.3dgep.com/learning-directx-12-1/)[ | 源码](https://github.com/jpvanoosten/LearningDirectX12)
