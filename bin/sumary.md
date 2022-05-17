@@ -14,7 +14,7 @@
 - 六期itas向交易系统注入动态库，支持查询内存数据
 - 信创并行编译问题，导致TE程序运行异常
 - 出入金低版本预编译库在高版本编译运行异常
-- [交易系统升级红帽8 libstdc++ 库中的 std::string 和 std::list 类的应用程序二进制接口(ABI)在 RHEL 7(GCC 4.8)和 RHEL 8(GCC 8)之间有所改变，以符合 C++11 标准](http://zh0ngtian.tech/posts/7055c679.html)
+- [交易系统升级红帽8 libstdc++ 库中的 std::string 和 std::list 类的应用程序二进制接口(ABI)在 RHEL 7(GCC 4.8)和 RHEL 8(GCC 8)之间有所改变，以符合 C++11 标准](https://gcc.gnu.org/onlinedocs/gcc-5.2.0/libstdc++/manual/manual/using_dual_abi.html)
 - GCC -O2时对一个函数符号产生了两个符号一个全局一个局部符号，导致stub时失败。通过加上-fno-inline解决
 - 仿真红帽6.6的服务器上编译aicp程序，报错找不到符号，原因是升级libm，但没有升级libc
 
