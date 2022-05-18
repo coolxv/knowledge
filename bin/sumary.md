@@ -23,4 +23,5 @@
 - [Data Models](https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_models)
 - [Memory Models](https://en.wikipedia.org/wiki/Intel_Memory_Model)
 - [API/ABI changes review for glibc](https://abi-laboratory.pro/?view=timeline&l=glibc)
+- [Linux and glibc API changes](https://man7.org/tlpi/api_changes/)
 - [Linux Foundation Referenced Specifications](https://refspecs.linuxfoundation.org/)
