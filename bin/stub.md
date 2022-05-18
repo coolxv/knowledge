@@ -15,8 +15,10 @@
 ## Mips64 跳转指令
 ![](pic/mips64.png)
 
-# 接口介绍
+# 调用约定
+![](pic/calling.png)
 
+# 接口介绍
 ## stub.h
 ```
 Stub stub
@@ -58,7 +60,6 @@ int get_weak_func_addr_dynsym(std::string func_name_regex_str, std::map<std::str
 AddrAny any //for all
 int get_func_addr(std::string func_name, std::map<std::string,void*>& result)
 ```
-
 
 # 接口使用示例
 
