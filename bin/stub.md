@@ -1,8 +1,15 @@
 
 # 原理介绍
+- 如何获取原函数的地址(addr_pri.h、addr_any.h)
+- 如何用桩函数替换原函数(stub.h)
 
+
+## inlinehook
 ![](pic/inline.png)
 
+## 动态打桩
+- dyninst
+- pin
 ## X86/X64 跳转指令
 ![](pic/intel.png)
 
