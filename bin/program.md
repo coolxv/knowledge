@@ -2,19 +2,20 @@
 # 程序组成
 ![](pic/compile.jpg)
 - gcc 是一个驱动式的程序. 它调用其它程序来依次进行编译, 汇编和链接。GCC 分析命令行参数, 然后决定该调用哪一个子程序, 哪些参数应该传递给子程序。所有这些行为都是由 SPEC 字符串(spec strings)来控制的. 通常情况下, 每一个 GCC 可以调用的子程序都对应着一个 SPEC 字符串, 不过有少数的子程序需要多个 SPEC 字符串来控制他们的行为。spec strings控制crt1.o, crti.o, crtbegin.o, crtend.o, crtn.o 等目标文件和hello.o链接成一个执行文件。前面这5个目标文件的作用分别是启动、初始化、构造、析构和结束，它们通常会被自动链接到应用程序中。
-  + asm          传递给汇编器的选项
-  + asm_final    传递给汇编后处理器的选项
+  + predefines   传递给 C 预处理器的宏定义
+  + signed_char  传递给 CPP 的用于说明 char 默认是否是有符号类型的宏
   + cpp          传递给 C 预处理器的选项
   + cc1          传递给 C 编译器的选项
   + cc1plus      传递给 C++ 编译器的选项
-  + endfile      链接的最后需要包含的目标文件
+  + asm          传递给汇编器的选项
+  + asm_final    传递给汇编后处理器的选项
   + link         传递给链接器的选项
+  + linker       设置链接器的名字
   + lib          命令行传递给链接器的要包含的库
   + libgcc       决定给链接器传递哪个 GCC 支持库
-  + linker       设置链接器的名字
-  + predefines   传递给 C 预处理器的宏定义
-  + signed_char  传递给 CPP 的用于说明 char 默认是否是有符号类型的宏
+  + endfile      链接的最后需要包含的目标文件
   + startfile    一开始就需要传递给链接器的目标文件
+
 - ld script是ld提供的操作界面，用以对链接过程进行精确把控。使用ld linker script可以控制段的合并顺序、地址空间分配和链接符号导出。
   + .interp
   + .note.gnu.build-i
