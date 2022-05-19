@@ -298,10 +298,10 @@ readelf -d libop.so
 - 静态程序分析
 
 ## 确定性构建(Deterministic Build)
-
+可再现构建，也称为确定性编译，是一个编译软件的过程，以确保生成的二进制代码可以被再现。使用确定性编译的源代码将始终输出相同的二进制文件
 
 ## 增量编译(Incremental Compiler)
-
+只重新编译程序修改过的那部分代码
 ## IR(Intermediate Representation)
 ### 虚拟机/模拟器/仿真机 IR
 - Qemu TCG，Qemu的中端MIR称为TCG，Qemu已经有20种处理器二进制代码转化成TCG，有5种还有64位的，因此Qemu有25种前端HIR转化成中端MIR的源码实现。
