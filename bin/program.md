@@ -180,7 +180,7 @@ libthread_db.so：包含了方便构建多线程程序调试工具的函数
 libutil.{a,so}：包含各种 Unix 应用程序中用到的“标准” 函数的代码
 ```
 ## 依赖关系
-- GLIBC对BinUtil、BISON、Python、GCC、linux kernel header有依赖
+- GLIBC对BinUtil、BISON、Python、GCC、linux kernel header有依赖，
 使用高版本内核头文件编译的Glibc二进制文件完全可以运行在较低版本的内核上，并且当你升级内核后新内核的特性仍然可以得到充分发挥而无需重新编译Glibc。但是如果编译时使用的头文件的版本较低，那么运行在更高版本的内核上时，新内核的特性就不能得到充分发挥。
 ```mermaid
 graph BT
