@@ -25,13 +25,16 @@
     - -mcmodel=medium
     - -mcmodel=large
 - [Data Models](https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_models)
+
 |  Data Model | short | int | long | long long | pointer|
 | --- | --- | --- |--- | --- | --- |
 | LLP64 | 16 | 32| 32| 64 | 64|
 | LP64 | 16 | 32| 64| 64 | 64|
 | ILP32 | 16 | 32| 32| 64 | 32|
 | ILP64 | 16 | 64| 64| 64 | 64|
- [Memory Models](https://colobu.com/2021/06/30/hwmm/)
+
+- [Memory Models](https://colobu.com/2021/06/30/hwmm/)
+
 |  内存乱序行为|    x86 |      arm |
 | --- | --- | --- |
 | 读-读乱序 |             不允许 |  允许 |
@@ -39,6 +42,7 @@
 | 写-读乱序   |           允许 |   允许 |
 | 写-写乱序    |          不允许|  允许 |
 | 原子操作-读写乱序 |      不允许 | 允许 |
+
 - [API/ABI changes review for glibc](https://abi-laboratory.pro/?view=timeline&l=glibc)
 - [Linux and glibc API changes](https://man7.org/tlpi/api_changes/)
 - [Linux Foundation Referenced Specifications](https://refspecs.linuxfoundation.org/)
