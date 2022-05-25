@@ -26,6 +26,7 @@ gcc res.o  strings.o -o res
 # windmc | A Windows compatible message compiler.
 # windres | A compiler for Windows resource files.
 # Amalgamate | C++头文件合并
+# [cpp_rsc](https://github.com/orex/cpp_rsc)
 # e9patch | 一个强大的静态二进制重写工具
 # retdec | 一个基于LLVM的可重定向机器代码反编译器
 # bin2vex | 使用pyvex提供的C接口将二进制文件转换为VEX IR
