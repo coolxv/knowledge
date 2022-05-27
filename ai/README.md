@@ -596,6 +596,7 @@
 - [microsoft ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 - [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
 - [深度学习百科及面试资源](https://paddlepedia.readthedocs.io/en/latest/index.html)
+- [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
