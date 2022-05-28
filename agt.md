@@ -3,7 +3,9 @@
 
 
 # 图片输入输出
-
+## obs
+- [obs-deps](https://github.com/obsproject/obs-deps)
+- [obs-studio](https://github.com/obsproject/obs-studio)
 
 
 # 动作输出
