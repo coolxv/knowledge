@@ -190,7 +190,7 @@ A --> D[Python]
 A --> E[GCC]
 A --> F[Linux Kernel Header]
 ```
-- GCC依赖
+- [GCC依赖](https://gcc.gnu.org/install/prerequisites.html)
   - GMP：GNU多精度算术库
   - MPFR：GNU多精度浮点舍入库
   - MPC：GNU多精度C库
