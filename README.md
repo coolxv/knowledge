@@ -53,6 +53,7 @@
 - [oneinstack lnmp](https://github.com/oneinstack/lnmp)[ | 官网](https://oneinstack.com/)
 - [Yank Note | 是一款面向程序员的本地 Markdown 笔记应用](https://github.com/purocean/yn)
 - [lite-xl](https://github.com/lite-xl/lite-xl)
+- [ksnip](https://github.com/ksnip/ksnip)
 
 
 # 有用软件
