@@ -78,6 +78,7 @@
 - [bgfx | 跨平台的渲染库](https://github.com/bkaradzic/bgfx)
 - [LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)
 - [Atlas-Engine](https://github.com/tippesi/Atlas-Engine)
+- [kajiya | rust](https://github.com/EmbarkStudios/kajiya)
 
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
