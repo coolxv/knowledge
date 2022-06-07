@@ -21,6 +21,7 @@
 - [Simd | 图像处理和机器学习库的使用SIMD](https://github.com/ermig1979/Simd)
 - [simdjson | 每秒解析十亿字节的JSON](https://github.com/simdjson/simdjson)
 - [xsimd | C++包装SIMD](https://github.com/xtensor-stack/xsimd)
+- [highway](https://github.com/google/highway)
 
 # 框架
 - [idle | 一个异步且可热加载的C++动态组件框架](https://github.com/Naios/idle)
