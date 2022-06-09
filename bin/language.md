@@ -110,6 +110,7 @@
 - [范畴论](https://segmentfault.com/t/%E8%8C%83%E7%95%B4%E8%AE%BA/blogs)
 - [类型论](https://rqy.moe/Type-Theory/TT1/)
 - [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+- [现代C++白皮书(C++ 2006-2020)](https://dirtysalt.github.io/html/thriving-in-crowded-and-changing-world-cpp.html)[ | Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
 
 
 
