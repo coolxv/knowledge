@@ -100,6 +100,8 @@
 - [MoravaEngine](https://github.com/dtrajko/MoravaEngine)
 - [pyxel](https://github.com/kitao/pyxel)
 - [nunuStudio | 基于Web跨平台3D, WebXR游戏引擎](https://github.com/tentone/nunuStudio)
+- [pixijs | HTML5创造引擎](https://github.com/pixijs/pixijs)
+
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
 - [AMD FidelityFX Super Resolution (FSR) | AMD](https://github.com/GPUOpen-Effects/FidelityFX-FSR)
