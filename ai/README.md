@@ -456,6 +456,9 @@
 - [北大《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
 - [EasyRL李宏毅老师的《深度强化学习》](https://datawhalechina.github.io/easy-rl/#/)[ | alibaba](https://github.com/alibaba/EasyRL)
 - [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+- [reinforcement-learning | 强化学习算法的实现](https://github.com/dennybritz/reinforcement-learning)
+- [深度强化学习实验室](http://www.deeprlhub.com/)
+- [知乎-强化学习怎么入门好？](https://www.zhihu.com/question/277325426)
 
 # 对抗学习
 - [《GAN实战》](https://zh.u1lib.org/book/18061346/085194)
@@ -511,7 +514,7 @@
 - [incoder | 代码补全](https://github.com/dpfried/incoder)
 ## 代码转换应用
 - [TransCoder](https://github.com/facebookresearch/TransCoder)
-- 
+
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
 ## 微积分
