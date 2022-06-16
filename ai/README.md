@@ -447,11 +447,21 @@
 - [composer](https://github.com/mosaicml/composer)
 - [EasyCV](https://github.com/alibaba/EasyCV)
 
-# 强化学习框架
+# 强化学习
 - [trfl](https://github.com/deepmind/trfl)
 - [dopamine](https://github.com/google/dopamine)
 - [ReAgent](https://github.com/facebookresearch/ReAgent)
 - [TextWorld](https://github.com/microsoft/TextWorld)
+- [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
+- [北大《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
+- [EasyRL李宏毅老师的《深度强化学习》](https://datawhalechina.github.io/easy-rl/#/)[ | alibaba](https://github.com/alibaba/EasyRL)
+- [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
+
+# 对抗学习
+- [《GAN实战》](https://zh.u1lib.org/book/18061346/085194)
+- [《GAN：实战生成对抗网络》](https://zh.u1lib.org/book/17072439/34b350)
+- [《生成对抗网络入门指南》](https://zh.u1lib.org/book/16999357/966ef7?dsource=recommend)
+- [《PyTorch生成对抗网络编程》](https://zh.u1lib.org/book/17455686/782d45?dsource=recommend)
 
 # 对话类框架
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
@@ -546,12 +556,7 @@
 - [周志华《机器学习》的《机器学习公式详解》](https://zh.u1lib.org/book/12287266/166029?dsource=recommend)
 - [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
 - [百度《零基础实践深度学习》](https://www.paddlepaddle.org.cn/tutorials/projectdetail/3465990)
-- [强化学习导论](https://rl.qiwihui.com/zh_CN/latest/)
-- [《深度强化学习：基础、研究与应用》](https://deepreinforcementlearningbook.org/)
-- [《GAN实战》](https://zh.u1lib.org/book/18061346/085194)
-- [《GAN：实战生成对抗网络》](https://zh.u1lib.org/book/17072439/34b350)
-- [《生成对抗网络入门指南》](https://zh.u1lib.org/book/16999357/966ef7?dsource=recommend)
-- [《PyTorch生成对抗网络编程》](https://zh.u1lib.org/book/17455686/782d45?dsource=recommend)
+
 - [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu/)
 - [深度学习 | 花书](https://github.com/exacity/deeplearningbook-chinese)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
@@ -564,7 +569,6 @@
 - [practicalAI 中文版](https://github.com/MLEveryday/practicalAI-cn)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
 - [interviews.ai | AI面试宝典](https://github.com/BoltzmannEntropy/interviews.ai)[ | AI面试宝典中文](https://github.com/lcylmhlcy/Awesome-algorithm-interview)
-- [EasyRL李宏毅老师的《深度强化学习》](https://datawhalechina.github.io/easy-rl/#/)[ | alibaba](https://github.com/alibaba/EasyRL)
 - [玩机器学习的张北海](https://tjxj.github.io/)
 - [AiLearning](https://github.com/apachecn/AiLearning)
 - [《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现](https://github.com/MingchaoZhu/DeepLearning)
@@ -583,7 +587,6 @@
 - [《20天吃掉那只Pytorch》](https://github.com/lyhue1991/eat_pytorch_in_20_days)
 - [《30天吃掉那只TensorFlow2》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - [目标检测度量解释](https://github.com/rafaelpadilla/Object-Detection-Metrics)
-- [reinforcement_learning_course_materials](https://github.com/upb-lea/reinforcement_learning_course_materials)
 - [《机器翻译：基础与模型》肖桐 朱靖波 著](https://github.com/NiuTrans/MTBook)
 - [我复现了LeCun 33年前的神经网络](https://karpathy.github.io/2022/03/14/lecun1989/)
 - [Stanford CS229:机器学习](https://github.com/cycleuser/Stanford-CS-229-CN)[ | 机器学习2](https://github.com/learning511/Stanford-Machine-Learning-camp)
