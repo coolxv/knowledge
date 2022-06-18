@@ -93,15 +93,15 @@
 ## 参考概念
 - **类属**是一种参数多态的机制，一个类属类是关于一组类的一个特性抽象，它强调的是这些类的成员特征中与具体类型无关的那些部分，而用变元来表示与具体类型相关的那些部分。
 ## 参考资料
-- 《群论彩图版》
-- 《编程原本》
-- 《UNIX编程艺术》
-- 《C++语言的设计和演化》
+- 《群论彩图版》、《简明抽象代数》
+- 《编程原本》、《数学与泛型编程》
+- 《C++语言的设计和演化》、[《C++现代白皮书》(C++ 2006-2020)](https://github.com/Cpp-Club/Cxx_HOPL4_zh)[ | Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
 - 《C++函数式编程》
+- 《Google C++编码规范》
+- 《UNIX编程艺术》
 - 《领域驱动设计:软件核心复杂性应对之道》
 - 《 重构：改善既有代码的设计》
 - 《设计模式：可复用面向对象软件的基础》
-- 《Google C++编码规范》
 - [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
 - [编程之道](https://github.com/ihaveu/wiki/wiki/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93)
 - 《编码：隐匿在计算机软硬件背后的语言》
@@ -110,7 +110,7 @@
 - [范畴论](https://segmentfault.com/t/%E8%8C%83%E7%95%B4%E8%AE%BA/blogs)
 - [类型论](https://rqy.moe/Type-Theory/TT1/)
 - [Homotopy Type Theory](https://homotopytypetheory.org/book/)
-- [现代C++白皮书(C++ 2006-2020)](https://github.com/Cpp-Club/Cxx_HOPL4_zh)[ | Thriving in a Crowded and Changing World: C++ 2006–2020](https://www.stroustrup.com/hopl20main-p5-p-bfc9cd4--final.pdf)
+
 
 
 
