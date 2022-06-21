@@ -10,6 +10,7 @@
 - [算法](algorithmica.md)
 - [量化交易](quant.md)
 - [游戏自动化](agt.md)
+- [异构编程](hp.md)
 - [3D](3d.md)
 - [UI](ui.md)
 - [USB](usb.md)
