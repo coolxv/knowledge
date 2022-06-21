@@ -120,7 +120,7 @@
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
 - [GCC IR | GCC的GENERIC和GIMPLE参考手册](https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html)[ | GCC Wiki上GIMPLE介绍](https://gcc.gnu.org/wiki/GIMPLE)
-- [LLVM IR | LLVM IR参考手册](https://llvm.org/docs/LangRef.html)
+- [LLVM IR | LLVM IR参考手册](https://llvm.org/docs/LangRef.html)[ | MIR](https://llvm.org/docs/MIRLangRef.html)
 - [ELVM IR | ELVM IR 参考手册](https://github.com/shinh/elvm/blob/master/ELVM.md)
 - [MLIR | Multi-Level Intermediate Representation](https://mlir.llvm.org/)
 - [Maple IR | 方舟编译器 IR](https://gitee.com/openarkcompiler/OpenArkCompiler/blob/master/doc/en/MapleIRDesign.md#virtualcall)
