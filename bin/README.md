@@ -133,6 +133,7 @@
 - [VTIL | VTIL(虚拟机翻译中间语言)项目是一组可以用于二进制去混淆和去虚拟化的工具](https://github.com/vtil-project)
 - [IREE](https://google.github.io/iree/#key-features)
 - [WHIRL | Open64编译器中间表示](https://www.mcs.anl.gov/OpenAD/open64A.pdf)
+- [CIR | Clang IR](https://github.com/facebookincubator/clangir)
 
 # 外挂技术
 - [csgo-imgui-sdk](https://github.com/bruhmoment21/csgo-imgui-sdk)
