@@ -84,6 +84,7 @@
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
+- [TerraForge3D | 地形生成和纹理工具](https://github.com/Jaysmito101/TerraForge3D)
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
@@ -121,11 +122,16 @@
 - [psi4  | 量子化学计算库](https://github.com/psi4/psi4)
 - [pcmsolver | 极化连续介质模型(PCM)](https://github.com/PCMSolver/pcmsolver)
 
+# 单片机仿真
+- [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
+
 # 音频软件
 - [BespokeSynth | 模块化的数字音频工作站](https://github.com/awwbees/BespokeSynth)
 - [audacity | 音频编辑器](https://github.com/audacity/audacity)
 - [Qmmp | 音乐播放器](https://sourceforge.net/projects/qmmp-dev/)
 - [flac](https://xiph.org/flac/index.html)
+- [libmidi](https://github.com/tanluteam/libmidi)
+- [utracker](https://github.com/immortalx74/utracker)
 
 # 视频软件
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
@@ -140,6 +146,7 @@
 - [GIMP | 图像编辑器](https://www.gimp.org/)
 - [darktable | 照片管理](https://github.com/darktable-org/darktable)
 - [Cascade | 基于节点的图形编辑器与GPU加速](https://github.com/ttddee/Cascade)
+- [t3 | 创建实时运动图形](https://github.com/still-scene/t3/)
 
 # Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
