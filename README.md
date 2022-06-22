@@ -102,7 +102,9 @@
 - [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
 - [gba-mu | GBA模拟器](https://github.com/rlintott/gba-mu)
 - [cemu | Wii U 模拟器](https://cemu.info/)
-
+# 模拟器
+- [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
+- [PDP11 模拟器](https://github.com/simh/simh)
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
 - [solvespace | 参数化2D / 3D CAD](https://github.com/solvespace/solvespace)
@@ -124,6 +126,36 @@
 
 # 单片机仿真
 - [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
+
+# 虚拟机
+- [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
+- [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
+- [qemu | 一种通用的开源计算机仿真器和虚拟器](https://www.qemu.org/)
+- [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
+- [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
+- [wasmer | 基于 WebAssembly 的超轻量级容器，其可以在任何地方运行](https://github.com/wasmerio/wasmer)
+- [wasm3 | 最快的WebAssembly解释器和最通用的运行时](https://github.com/wasm3/wasm3)
+- [WAVM | WAVM是一个WebAssembly虚拟机，设计用于非web应用程序](https://github.com/WAVM/WAVM)
+- [lucet | Lucet是一个本地WebAssembly编译器和运行时。它的设计目的是在应用程序中安全地执行不受信任的WebAssembly程序](https://github.com/bytecodealliance/lucet)
+- [WasmEdge | WasmEdge(以前称为SSVM)是为硬件优化的高性能WebAssembly VM](https://github.com/WasmEdge/WasmEdge)
+- [wasm-micro-runtim | WebAssembly Micro Runtime (WAMR)是一个独立的WebAssembly (WASM)运行时，占用空间很小](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [wasmi | Wasm解释器](https://github.com/paritytech/wasmi)
+- [wabt | WebAssembly二进制工具包](https://github.com/WebAssembly/wabt)
+- [VMIR | VMIR是一个用C语言编写的独立库，可以解析和执行:WebAssembly .wasm 和LLVM Bitcode .bc ](https://github.com/andoma/vmir)
+- [graalVM | GraalVM是一个通用虚拟机，用于运行用JavaScript、Python、Ruby、R、基于jvm的语言(如Java、Scala、Clojure、Kotlin)和基于llvm的语言(如C和c++)编写的应用程序。](https://github.com/oracle/graal)
+- [VMPROTECT | 基于虚拟机的代码混淆](https://github.com/eaglx/VMPROTECT)
+- [V8 | V8是谷歌的开源高性能JavaScript和WebAssembly引擎，用C++编写。它在Chrome和Node.js中被使用](https://v8.dev/)
+- [box86 | Box86允许在ARM等非x86 Linux系统上运行x86 Linux程序](https://box86.org/)
+- [Wine | 是一个能够在多种 POSIX-compliant 操作系统上运行 Windows 应用的兼容层](https://www.winehq.org/)
+- [virtualbox | 基于x86 and AMD64/Intel64的虚拟机](https://www.virtualbox.org/)
+- [bochs | Bochs是一个用C++编写的高度可移植的开源IA-32 (x86) PC模拟器](https://bochs.sourceforge.io/)
+- [v86 | 浏览器中的X86虚拟化，在运行时重新编译X86](https://github.com/copy/v86)
+- [minivm | MiniVM足够小，足够灵活，可以运行任何语言(假设你已经花时间为它编写了编译器)。我们尝试过的前端包括Lua、Scheme、Paka等.](https://github.com/FastVM/minivm)
+- [MiniVM | 一个执行Eeyore/Tigger IR的虚拟机，是为北京大学编译器课程而设计的。](https://github.com/pku-minic/MiniVM)
+- [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
+- [lc3-vm](https://github.com/nomemory/lc3-vm)
+- [libriscv](https://github.com/fwsGonzo/libriscv)
+
 
 # 音频软件
 - [BespokeSynth | 模块化的数字音频工作站](https://github.com/awwbees/BespokeSynth)
