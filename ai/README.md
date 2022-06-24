@@ -283,7 +283,7 @@
 - [datacentricai | 以数据为中心的AI](https://datacentricai.org/)
 # 大模型
 - [GPT-NeoX-20B](https://mystic.the-eye.eu/public/AI/models/GPT-NeoX-20B/)[ | GPT-NeoX](https://github.com/EleutherAI/gpt-neox)
-
+- [YaLM-100B](https://github.com/yandex/YaLM-100B)
 # 模型 Zoo
 - [onnx models](https://github.com/onnx/models)
 - [nnef models](https://github.com/KhronosGroup/NNEF-Tools/tree/master/models#nnef-model-zoo)
