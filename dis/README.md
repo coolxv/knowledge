@@ -3,6 +3,7 @@
 - [drogon | 基于C++14/17的Http应用框架](https://github.com/an-tao/drogon)
 - [Disruptor-cpp | LMAX Disruptor C++ 实现](https://github.com/Abc-Arbitrage/Disruptor-cpp)
 - [seastar | 用于现代硬件上的高性能服务器应用程序的C++框架](http://seastar.io/)
+- [libhv](https://github.com/ithewei/libhv)
 
 # 数据库
 - [CacheLib | 可插拔的进程内缓存引擎，以构建和扩展高性能服务](https://github.com/facebook/CacheLib)
