@@ -80,7 +80,7 @@
 - [OpenTTD | 是一个基于运输大亨豪华的开源模拟游戏](https://github.com/OpenTTD/OpenTTD)
 - [Plants-vs.-Zombies-Online-Battle | 植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)
 - [a-little-game-called-mario | 马里奥小游戏](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
-- [golly | 生命游戏，自动细胞机](https://conwaylife.com/)[| conwaylife](https://conwaylife.com/)
+- [golly | 生命游戏，自动细胞机](https://conwaylife.com/)[| conwaylife](https://conwaylife.com/)[ | Game-of-Life](https://github.com/MC-DeltaT/Game-of-Life)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
