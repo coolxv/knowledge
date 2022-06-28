@@ -5,6 +5,9 @@
 - [seastar | 用于现代硬件上的高性能服务器应用程序的C++框架](http://seastar.io/)
 - [libhv](https://github.com/ithewei/libhv)
 
+# 模板
+- [inja](https://github.com/pantor/inja)
+
 # 数据库
 - [CacheLib | 可插拔的进程内缓存引擎，以构建和扩展高性能服务](https://github.com/facebook/CacheLib)
 - [DataFrame | 用于统计、金融和ML分析的c++ DataFrame](https://github.com/hosseinmoein/DataFrame)
