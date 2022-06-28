@@ -87,6 +87,7 @@
 - [maat | 符号执行](https://github.com/trailofbits/maat)
 - [raw_pdb | 读取Microsoft Program DataBase PDB文件](https://github.com/MolecularMatters/raw_pdb)
 - [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
+- [goblin | 基于Rust](https://github.com/m4b/goblin)
 
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
