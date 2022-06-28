@@ -55,6 +55,7 @@
 - [Yank Note | 是一款面向程序员的本地 Markdown 笔记应用](https://github.com/purocean/yn)
 - [lite-xl | 代码编辑器](https://github.com/lite-xl/lite-xl)
 - [lapce | 代码编辑器](https://github.com/lapce/lapce)
+- [codelite | 代码编辑器](https://github.com/eranif/codelite)
 - [ksnip](https://github.com/ksnip/ksnip)
 
 
