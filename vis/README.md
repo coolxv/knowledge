@@ -50,6 +50,7 @@
 - [vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute)
 - [OpenGL-Renderer](https://github.com/htmlboss/OpenGL-Renderer)
 - [Cluster](https://github.com/pezcode/Cluster)
+- [autoremesher](https://github.com/huxingyi/autoremesher)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
