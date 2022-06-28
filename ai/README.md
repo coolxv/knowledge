@@ -650,4 +650,5 @@
 - [CVPR2022-Papers-with-Code | CVPR 2022 论文和开源项目合集](https://github.com/amusi/CVPR2022-Papers-with-Code)
 - [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+- [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention)
 
