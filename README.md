@@ -56,6 +56,7 @@
 - [lite-xl | 代码编辑器](https://github.com/lite-xl/lite-xl)
 - [lapce | 代码编辑器](https://github.com/lapce/lapce)
 - [codelite | 代码编辑器](https://github.com/eranif/codelite)
+- [geany | 代码编辑器](https://github.com/geany/geany)
 - [ksnip](https://github.com/ksnip/ksnip)
 
 
