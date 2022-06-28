@@ -40,6 +40,7 @@
 - [winmerge](https://winmerge.org/)
 - [Wireshark](https://www.wireshark.org/)
 - [mobaxterm](https://mobaxterm.mobatek.net/)
+- [WindTerm](https://github.com/kingToolbox/WindTerm)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
 - [notepad++](https://notepad-plus-plus.org/)
