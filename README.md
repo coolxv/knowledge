@@ -44,6 +44,7 @@
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
 - [notepad++](https://notepad-plus-plus.org/)
+- [NotepadNext](https://github.com/dail8859/NotepadNext)
 - [everything](https://www.voidtools.com/zh-cn/)
 - [listary](https://www.listary.com/)
 - [git](https://git-scm.com/)
