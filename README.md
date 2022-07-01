@@ -103,12 +103,20 @@
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis)
 - [tprPix | 跨平台2D生存沙盒游戏项目](https://github.com/turesnake/tprPix)
 - [OpenSkyscraper | 模拟塔游戏](https://github.com/fabianschuiki/OpenSkyscraper)
+- [Crafterra](https://github.com/AsPJT/Crafterra)
 
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
 - [TerraForge3D | 地形生成和纹理工具](https://github.com/Jaysmito101/TerraForge3D)
 - [tiled | 地图编辑器](https://github.com/mapeditor/tiled)
+- [aseprite | 动画精灵编辑器和像素美术工具](https://github.com/aseprite/aseprite)
+- [slate](https://github.com/mitchcurtis/slate)
+- [dpixel](https://github.com/marcoc2/dpixel)
+- [Animera](https://github.com/indianakernick/Animera)
+- [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
+
+
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
