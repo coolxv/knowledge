@@ -83,11 +83,23 @@
 - [Cytopia | 城市模拟](https://github.com/CytopiaTeam/Cytopia)
 - [cdogs-sdl | 跑动和射击游戏](https://github.com/cxong/cdogs-sdl)
 - [OpenTTD | 是一个基于运输大亨豪华的开源模拟游戏](https://github.com/OpenTTD/OpenTTD)
-- [Plants-vs.-Zombies-Online-Battle | 植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)
+- [Plants-vs.-Zombies-Online-Battle | 植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)[ | PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies)
 - [a-little-game-called-mario | 马里奥小游戏](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
 - [golly | 生命游戏，自动细胞机](https://conwaylife.com/)[| conwaylife](https://conwaylife.com/)[ | Game-of-Life](https://github.com/MC-DeltaT/Game-of-Life)
 - [minetest | 体素游戏](https://github.com/minetest/minetest)
 - [OpenRCT2 | 过山车](https://github.com/OpenRCT2/OpenRCT2)
+- [wesnoth | 奇幻主题的开源回合制策略游戏](https://github.com/wesnoth/wesnoth)
+- [endless-sky | 太空类游戏](https://github.com/endless-sky/endless-sky)
+- [warzone2100 | 关于在人类几乎被核导弹摧毁后，指挥“计划”的力量重建世界。一个100%免费和开源的实时策略游戏](https://github.com/Warzone2100/warzone2100)
+- [2048](https://github.com/plibither8/2048.cpp)
+- [supertux | 跳跃奔跑游戏](https://github.com/SuperTux/supertux)
+- [fheroes2 | 魔法门英雄2复刻版](https://github.com/ihhub/fheroes2)
+- [pioneer | 孤独的太空冒险游戏](https://github.com/pioneerspacesim/pioneer)
+- [openspades | 第一人称射击游戏](https://github.com/yvt/openspades)
+- [colobot | 机甲远征队](https://github.com/colobot/colobot)
+- [OneLife | 一个养育和文明建设的多人生存游戏](https://github.com/jasonrohrer/OneLife)
+- [OpenLoco | 一款模拟运输公司运营的建筑和管理模拟视频游戏](https://github.com/OpenLoco/OpenLoco)
+- [ArxLibertatis](https://github.com/arx/ArxLibertatis)
 
 
 # 游戏创建
@@ -114,6 +126,7 @@
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
+- [MetroBoy](https://github.com/aappleby/MetroBoy)
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
 - [solvespace | 参数化2D / 3D CAD](https://github.com/solvespace/solvespace)
