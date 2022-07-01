@@ -16,6 +16,7 @@
 - [vmulti](https://github.com/djpnewton/vmulti)
 - [keyboard python](https://github.com/boppreh/keyboard)
 - [mouse python](https://github.com/boppreh/mouse)
+- [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
 
 ## 单片机烧入方式
 - ICP(In Circuit Programing)在电路编程：使用SWD接口进行烧录，如J-Link烧录器和J-Flash软件配合使用。
