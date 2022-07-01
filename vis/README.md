@@ -104,6 +104,8 @@
 - [nunuStudio | 基于Web跨平台3D, WebXR游戏引擎](https://github.com/tentone/nunuStudio)
 - [pixijs | HTML5创造引擎](https://github.com/pixijs/pixijs)
 - [Urho3D](https://github.com/urho3d/Urho3D)
+- [toy | 小的游戏引擎](https://github.com/hugoam/toy)
+- [Acid  | 一个高速的c++ 17 Vulkan游戏引擎](https://github.com/EQMG/Acid)
 
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
