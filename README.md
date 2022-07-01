@@ -87,10 +87,13 @@
 - [a-little-game-called-mario | 马里奥小游戏](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
 - [golly | 生命游戏，自动细胞机](https://conwaylife.com/)[| conwaylife](https://conwaylife.com/)[ | Game-of-Life](https://github.com/MC-DeltaT/Game-of-Life)
 - [minetest | 体素游戏](https://github.com/minetest/minetest)
+- [OpenRCT2 | 过山车](https://github.com/OpenRCT2/OpenRCT2)
+
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
 - [TerraForge3D | 地形生成和纹理工具](https://github.com/Jaysmito101/TerraForge3D)
+- [tiled | 地图编辑器](https://github.com/mapeditor/tiled)
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
