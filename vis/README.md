@@ -51,6 +51,7 @@
 - [OpenGL-Renderer](https://github.com/htmlboss/OpenGL-Renderer)
 - [Cluster](https://github.com/pezcode/Cluster)
 - [autoremesher](https://github.com/huxingyi/autoremesher)
+- [magnum | 轻量级和模块化的c++ 11图形中间件，用于游戏和数据可视化](https://github.com/mosra/magnum)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
@@ -102,6 +103,7 @@
 - [pyxel](https://github.com/kitao/pyxel)
 - [nunuStudio | 基于Web跨平台3D, WebXR游戏引擎](https://github.com/tentone/nunuStudio)
 - [pixijs | HTML5创造引擎](https://github.com/pixijs/pixijs)
+- [Urho3D](https://github.com/urho3d/Urho3D)
 
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
