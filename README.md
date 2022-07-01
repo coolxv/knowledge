@@ -41,6 +41,7 @@
 - [Wireshark](https://www.wireshark.org/)
 - [mobaxterm](https://mobaxterm.mobatek.net/)
 - [WindTerm](https://github.com/kingToolbox/WindTerm)
+- [wezterm](https://github.com/wez/wezterm)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
 - [notepad++](https://notepad-plus-plus.org/)
