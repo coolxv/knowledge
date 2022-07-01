@@ -134,7 +134,7 @@
 - [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
 - [gba-mu | GBA模拟器](https://github.com/rlintott/gba-mu)
 - [cemu | Wii U 模拟器](https://cemu.info/)
-- [gameboy](https://github.com/mohanson/gameboy）
+- [gameboy](https://github.com/mohanson/gameboy)
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
