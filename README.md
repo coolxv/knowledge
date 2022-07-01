@@ -100,6 +100,8 @@
 - [OneLife | 一个养育和文明建设的多人生存游戏](https://github.com/jasonrohrer/OneLife)
 - [OpenLoco | 一款模拟运输公司运营的建筑和管理模拟视频游戏](https://github.com/OpenLoco/OpenLoco)
 - [ArxLibertatis](https://github.com/arx/ArxLibertatis)
+- [tprPix | 跨平台2D生存沙盒游戏项目](https://github.com/turesnake/tprPix)
+- [OpenSkyscraper | 模拟塔游戏](https://github.com/fabianschuiki/OpenSkyscraper)
 
 
 # 游戏创建
@@ -123,6 +125,7 @@
 - [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
 - [gba-mu | GBA模拟器](https://github.com/rlintott/gba-mu)
 - [cemu | Wii U 模拟器](https://cemu.info/)
+- [gameboy](https://github.com/mohanson/gameboy）
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
