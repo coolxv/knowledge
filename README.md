@@ -117,6 +117,7 @@
 - [dpixel](https://github.com/marcoc2/dpixel)
 - [Animera](https://github.com/indianakernick/Animera)
 - [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
+- [AsLib](https://github.com/AsPJT/AsLib)
 
 
 # 游戏机仿真
