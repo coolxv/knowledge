@@ -105,6 +105,7 @@
 - [OpenSkyscraper | 模拟塔游戏](https://github.com/fabianschuiki/OpenSkyscraper)
 - [Crafterra](https://github.com/AsPJT/Crafterra)
 - [StarRuler2-Source](https://github.com/BlindMindStudios/StarRuler2-Source)
+- [zemeroth | rust开发一款极简的2D回合制策略游戏](https://github.com/ozkriff/zemeroth)
 
 
 # 游戏创建
