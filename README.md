@@ -155,6 +155,7 @@
 - [simulIDE | 适合学习和实验简单的电子电路和微控制器，支持PIC, AVR和Arduino](https://www.simulide.com/)
 - [wokwi | 在浏览器中模拟物联网项目](https://wokwi.com/)
 - [eetree | 在浏览器中模拟常见的电路](https://www.eetree.cn/war/circuitjs.html?lang=zh)
+- [logisim | 设计和模拟数字逻辑电路的教育工具](http://www.cburch.com/logisim/)
 # 物理仿真
 - [precice | 多物理仿真库](https://github.com/precice/precice)
 - [webots | 机器人模拟器](https://github.com/cyberbotics/webots)
