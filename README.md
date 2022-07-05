@@ -120,6 +120,7 @@
 - [Animera](https://github.com/indianakernick/Animera)
 - [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
 - [AsLib](https://github.com/AsPJT/AsLib)
+- [piskel](https://github.com/piskelapp/piskel)
 
 
 # 游戏机仿真
