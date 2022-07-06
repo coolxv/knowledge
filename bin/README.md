@@ -89,6 +89,10 @@
 - [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
 - [goblin | 基于Rust](https://github.com/m4b/goblin)
 
+# 二进制库
+- [iced | 基于Rust](https://github.com/icedland/iced)
+- [xed | x86编码器译码器](https://github.com/intelxed/xed)
+
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
 - [GCC IR | GCC的GENERIC和GIMPLE参考手册](https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html)[ | GCC Wiki上GIMPLE介绍](https://gcc.gnu.org/wiki/GIMPLE)
