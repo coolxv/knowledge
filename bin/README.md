@@ -60,8 +60,6 @@
 - [ghidra | NSA开源逆向工程工具](https://github.com/NationalSecurityAgency/ghidra)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
-- [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)[ | 基于capstone工具](http://www.capstone-engine.org/showcase.html)
-- [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
 - [miasm | Python 中的逆向工程框架](https://github.com/cea-sec/miasm)
 - [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
 - [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
@@ -92,6 +90,9 @@
 # 二进制库
 - [iced | 基于Rust](https://github.com/icedland/iced)
 - [xed | x86编码器译码器](https://github.com/intelxed/xed)
+- [Triton](https://github.com/jonathansalwan/Triton)
+- [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)[ | 基于capstone工具](http://www.capstone-engine.org/showcase.html)
+- [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
 
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
