@@ -147,6 +147,8 @@
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
 - [MetroBoy](https://github.com/aappleby/MetroBoy)
+- [NoobBoy](https://github.com/Mika412/NoobBoy)
+
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
 - [solvespace | 参数化2D / 3D CAD](https://github.com/solvespace/solvespace)
