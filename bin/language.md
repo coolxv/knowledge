@@ -102,7 +102,6 @@
 - 《领域驱动设计:软件核心复杂性应对之道》
 - 《 重构：改善既有代码的设计》
 - 《设计模式：可复用面向对象软件的基础》
-- [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
 - [编程之道](https://github.com/ihaveu/wiki/wiki/%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93)
 - 《编码：隐匿在计算机软硬件背后的语言》
 - [编程语言理论(Programming language theory)](https://github.com/PLT-zh)
@@ -110,6 +109,9 @@
 - [范畴论](https://segmentfault.com/t/%E8%8C%83%E7%95%B4%E8%AE%BA/blogs)
 - [类型论](https://rqy.moe/Type-Theory/TT1/)
 - [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+- [Papers for Software Engineers](https://github.com/facundoolano/software-papers)
+- [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
+- [科学革命的结构(第四版).托马斯.库恩](https://github.com/holyshell/Books/blob/master/%5B%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E7%9A%84%E7%BB%93%E6%9E%84%5D(%E7%AC%AC%E5%9B%9B%E7%89%88).%E6%89%98%E9%A9%AC%E6%96%AF.%E5%BA%93%E6%81%A9.pdf)
 
 
 
