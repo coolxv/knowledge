@@ -30,6 +30,7 @@
 - [typescript](ts.md)
 - [css](css.md)
 - [html](html.md)
+- [bash](sh.md)
 # 记录
 - [概念](concepts.md)
 - [课程](cs.md)
