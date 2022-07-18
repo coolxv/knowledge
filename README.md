@@ -14,6 +14,7 @@
 - [3D](3d.md)
 - [UI](ui.md)
 - [USB](usb.md)
+- [NFC](nfc.md)
 - [Bluetooth](bt.md)
 - [electronjs](electronjs.md)
 - [dlib](dlib.md)
