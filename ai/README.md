@@ -652,4 +652,5 @@
 - [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention)
+- [Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 
