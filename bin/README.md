@@ -38,7 +38,8 @@
 - [cranlift | 是WebAssembly的一个低级的可重定向代码生成器。它将与目标无关的中间表示转换为可执行的机器码](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)
 - [llvm-crash-analyzer](https://github.com/cisco-open/llvm-crash-analyzer)
 - [nvc | VHDL compiler and simulator](https://github.com/nickg/nvc)
-- [cling | C++解释器](https://github.com/vgvassilev/cling/)
+- [carbon-lang | C+++的继承者(实验性)](https://github.com/carbon-language/carbon-lang)
+- [rvcc1](https://github.com/sunshaoce/rvcc)[ | rvcc2](https://github.com/mausimus/rvcc)
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
 
