@@ -40,6 +40,7 @@
 - [nvc | VHDL compiler and simulator](https://github.com/nickg/nvc)
 - [carbon-lang | C+++的继承者(实验性)](https://github.com/carbon-language/carbon-lang)
 - [rvcc1](https://github.com/sunshaoce/rvcc)[ | rvcc2](https://github.com/mausimus/rvcc)
+- [一个由布尔表达式组成的非常简单的语言的微型编译器](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
 
