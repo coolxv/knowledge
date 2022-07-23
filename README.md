@@ -15,6 +15,7 @@
 - [UI](ui.md)
 - [USB](usb.md)
 - [NFC](nfc.md)
+- [CPU](CPU.md)
 - [Bluetooth](bt.md)
 - [electronjs](electronjs.md)
 - [dlib](dlib.md)
