@@ -221,6 +221,7 @@
 - [OpenShot | 视频编辑](https://github.com/OpenShot)
 - [VLC](https://www.videolan.org/index.zh.html)
 - [ffmpeg](https://ffmpeg.org/)
+- [gstreamer](https://gstreamer.freedesktop.org/)
 
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
