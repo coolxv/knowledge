@@ -43,6 +43,7 @@
 - [一个由布尔表达式组成的非常简单的语言的微型编译器](https://gist.github.com/p4bl0-/9f4e950e6c06fbba7e168097d89b0e46)
 - [xy-compiler | 一个玩家编译器](https://github.com/shdxiang/xy-compiler)
 - [Kaileidoscope: LLVM Tutorial Chinese version(中文版)](https://kaleidoscope-llvm-tutorial-zh-cn.readthedocs.io/zh_CN/latest/)
+- [TinyCompiler](https://github.com/stardust95/TinyCompiler)
 
 
 # 链接器
