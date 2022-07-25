@@ -215,6 +215,13 @@
 - [libmidi](https://github.com/tanluteam/libmidi)
 - [utracker](https://github.com/immortalx74/utracker)
 - [mixxx | DJ mix](https://github.com/mixxxdj/mixxx)
+- [surge-synthesizer |  是一款开源的混合减法音乐合成器](https://surge-synthesizer.github.io/)
+- [lmms |  是一款跨平台的音乐制作软件](https://lmms.io/lsp/)
+- [giada | 是一个开源、简约的硬核音乐制作工具](https://github.com/monocasual/giada)
+- [yoshimi | 是从 ZynAddSubFx 派生的音频软件合成器](https://github.com/Yoshimi/yoshimi)
+- [ardour | 是一款兼顾了音频录制、音频编辑、混音和音视频调整的跨平台数字音频工作站](https://ardour.org/)
+- [musescore | 是非常老牌的开源编曲软件](https://musescore.org/zh-hans)
+- [lilypond  | 是一个音乐雕版印刷程序，用于在计算机上输出高质量的五线谱音乐，它把传统音乐雕版印刷的美学带到计算机打印输出系统](http://lilypond.org/)
 
 # 视频软件
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
