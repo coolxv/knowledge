@@ -1,2 +1,4 @@
 - [constexpr-everything](https://github.com/trailofbits/constexpr-everything)
 - [awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security)
+- [Tutorial: Creating an LLVM Backend for the Cpu0 Architecture](https://jonathan2251.github.io/lbd/)
+- [Learn-LLVM-Core-Libraries-Second-Edition](https://github.com/PacktPublishing/Learn-LLVM-Core-Libraries-Second-Edition)
