@@ -46,6 +46,7 @@
 - [TinyCompiler](https://github.com/stardust95/TinyCompiler)
 - [《LLVM Techniques, Tips, and Best Practices》](https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies)[ | 源码](https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries)
 - [clang-llvm-tutorial](https://github.com/lijiansong/clang-llvm-tutorial)
+- [手撸解释器教程《Crafting Interpreters》中文翻译](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 
 
 # 链接器
