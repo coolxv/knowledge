@@ -114,6 +114,7 @@
 - [zemeroth | rust开发一款极简的2D回合制策略游戏](https://github.com/ozkriff/zemeroth)
 - [xonotic | 射击游戏](https://xonotic.org/)
 - [TankWar | 坦克大战](https://github.com/dingfen/TankWar)
+- [devilutionX | 暗黑破坏神](https://github.com/diasurgical/devilutionX)
 
 
 # 游戏创建
@@ -176,6 +177,7 @@
 
 # 单片机仿真
 - [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
+- [stm32-emulator](https://github.com/nviennot/stm32-emulator)
 
 # 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
