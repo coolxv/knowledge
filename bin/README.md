@@ -28,7 +28,7 @@
 - [vitis hls | 赛灵思FPGA编译前端](https://github.com/Xilinx/HLS)
 - [ellcc | 主要重点是为嵌入式系统创建一个易于使用的多目标交叉编译环境](http://ellcc.org/)
 - [基于LLVM的前端列表](https://llvm.org/ProjectsWithLLVM/)
-- [Learn LLVM 12中文翻译](https://github.com/xiaoweiChen/Learn-LLVM-12)
+- [《Learn LLVM 12》](https://github.com/xiaoweiChen/Learn-LLVM-12)[ | 源码](https://github.com/PacktPublishing/Learn-LLVM-12)
 - [写给入门者的LLVM介绍](https://zhuanlan.zhihu.com/p/472813616)
 - [CompilerGym | Facebook 使用机器学习优化编译器](https://github.com/facebookresearch/CompilerGym)
 - [ABI Compliance Checker | ABI兼容检查器](https://lvc.github.io/abi-compliance-checker/)
@@ -44,6 +44,7 @@
 - [xy-compiler | 一个玩家编译器](https://github.com/shdxiang/xy-compiler)
 - [Kaileidoscope: LLVM Tutorial Chinese version(中文版)](https://kaleidoscope-llvm-tutorial-zh-cn.readthedocs.io/zh_CN/latest/)
 - [TinyCompiler](https://github.com/stardust95/TinyCompiler)
+- [《LLVM Techniques, Tips, and Best Practices》](https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies)[ | 源码](https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries)
 
 
 # 链接器
