@@ -45,6 +45,7 @@
 - [Kaileidoscope: LLVM Tutorial Chinese version(中文版)](https://kaleidoscope-llvm-tutorial-zh-cn.readthedocs.io/zh_CN/latest/)
 - [TinyCompiler](https://github.com/stardust95/TinyCompiler)
 - [《LLVM Techniques, Tips, and Best Practices》](https://github.com/xiaoweiChen/LLVM-Techniques-Tips-and-Best-Practies)[ | 源码](https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries)
+- [clang-llvm-tutorial](https://github.com/lijiansong/clang-llvm-tutorial)
 
 
 # 链接器
