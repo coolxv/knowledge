@@ -208,6 +208,7 @@
 - [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
 - [lc3-vm](https://github.com/nomemory/lc3-vm)
 - [libriscv](https://github.com/fwsGonzo/libriscv)
+- [FEX](https://github.com/FEX-Emu/FEX)
 
 
 # 音频软件
