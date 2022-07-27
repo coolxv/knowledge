@@ -411,6 +411,7 @@
 # OCR
 - [mmocr](https://github.com/open-mmlab/mmocr)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [cnocr](https://github.com/breezedeus/cnocr)
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
