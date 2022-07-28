@@ -129,6 +129,7 @@
 - [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
 - [AsLib](https://github.com/AsPJT/AsLib)
 - [piskel](https://github.com/piskelapp/piskel)
+- [gb-studio](https://github.com/chrismaltby/gb-studio)
 
 
 # 游戏机仿真
