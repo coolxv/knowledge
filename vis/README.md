@@ -117,6 +117,7 @@
 - [blend2d | 由JIT编译器驱动的2D矢量图形引擎](https://github.com/blend2d/blend2d)
 - [skia | 2D图形库](https://skia.org/)
 - [libcg | 2D计算机图形的C语言小库](https://gitee.com/xboot/libcg)
+- [libvips | 一个低内存需求的快速图像处理库](https://github.com/libvips/libvips)
 
 
 # Web 引擎
