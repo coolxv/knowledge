@@ -153,6 +153,7 @@
 - [cemu | Wii U 模拟器](https://cemu.info/)
 - [gameboy](https://github.com/mohanson/gameboy)
 - [Supermodel | 世嘉Model 3街机模拟器](https://github.com/trzy/Supermodel)
+- [openFPGA-GB-GBC](https://github.com/spiritualized1997/openFPGA-GB-GBC)
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
