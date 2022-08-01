@@ -67,6 +67,7 @@
 - [helix | 代码编辑器](https://github.com/helix-editor/helix)
 - [ksnip](https://github.com/ksnip/ksnip)
 - [neovim](https://neovim.io/)
+- [ImHex](https://github.com/WerWolv/ImHex)
 
 
 # 有用软件
