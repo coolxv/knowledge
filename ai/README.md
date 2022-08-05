@@ -562,7 +562,7 @@
 - [周志华《机器学习》的《机器学习公式详解》](https://zh.u1lib.org/book/12287266/166029?dsource=recommend)
 - [邱锡鹏《神经网络与深度学习》 | 蒲公英书](https://nndl.github.io/)
 - [百度《零基础实践深度学习》](https://www.paddlepaddle.org.cn/tutorials/projectdetail/3465990)
-
+- [快速上手Ai理论及应用实战](https://github.com/ben1234560/AiLearning-Theory-Applying)
 - [微软人工智能教育与学习共建社区](https://github.com/microsoft/ai-edu/)
 - [深度学习 | 花书](https://github.com/exacity/deeplearningbook-chinese)
 - [深度学习经典、新论文逐段精读](https://github.com/mli/paper-reading)
