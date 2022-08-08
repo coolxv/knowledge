@@ -2,6 +2,7 @@
 - [GacUI ](https://github.com/vczh-libraries)
 - [imgui](https://github.com/ocornut/imgui)
 - [RmlUi](https://github.com/mikke89/RmlUi)
+- [PurC](https://github.com/HVML/PurC)
 
 # CUI、TUI
 - [FTXUI | C++](https://github.com/ArthurSonzogni/FTXUI)
