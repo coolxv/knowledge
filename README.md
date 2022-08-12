@@ -163,6 +163,7 @@
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
 - [solvespace | 参数化2D / 3D CAD](https://github.com/solvespace/solvespace)
+- [engine-sim | 内燃机模拟](https://github.com/ange-yaghi/engine-sim)
 
 # 电路仿真
 - [ahkab | 用Python编写的类似SPICE的电子电路模拟器](https://github.com/ahkab/ahkab)
