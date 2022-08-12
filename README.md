@@ -213,6 +213,8 @@
 - [lc3-vm](https://github.com/nomemory/lc3-vm)
 - [libriscv](https://github.com/fwsGonzo/libriscv)
 - [FEX](https://github.com/FEX-Emu/FEX)
+- [quickemu](https://github.com/quickemu-project/quickemu)
+
 
 
 # 音频软件
