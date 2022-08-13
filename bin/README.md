@@ -49,6 +49,7 @@
 - [手撸解释器教程《Crafting Interpreters》中文翻译](https://github.com/GuoYaxiang/craftinginterpreters_zh)
 - [mini-c](https://github.com/Fedjmike/mini-c)
 - [SmallerC](https://github.com/alexfru/SmallerC)
+- [cheerp-meta](https://github.com/leaningtech/cheerp-meta)
 
 
 # 链接器
