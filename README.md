@@ -46,6 +46,7 @@
 - [mobaxterm](https://mobaxterm.mobatek.net/)
 - [WindTerm](https://github.com/kingToolbox/WindTerm)
 - [wezterm](https://github.com/wez/wezterm)
+- [zellij](https://github.com/zellij-org/zellij)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
 - [notepad++](https://notepad-plus-plus.org/)
