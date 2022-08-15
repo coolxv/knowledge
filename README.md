@@ -253,8 +253,11 @@
 - [t3 | 创建实时运动图形](https://github.com/still-scene/t3/)
 
 # Awesome
-- [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
-- [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
+- [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
+- [awesome-c](https://github.com/oz123/awesome-c)
+- [awesome-wasm](https://github.com/mbasso/awesome-wasm)[ | awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
+- [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 
 # 项目
 - [stb](https://github.com/nothings/stb)
