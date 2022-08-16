@@ -131,6 +131,9 @@
 - [CIR | Clang IR](https://github.com/facebookincubator/clangir)
 - [SIL | Swift Intermediate Language ](https://github.com/apple/swift/blob/main/docs/SIL.rst)
 - [HIR | Rust IR](https://rustc-dev-guide.rust-lang.org/hir.html)[ | MIR](https://rustc-dev-guide.rust-lang.org/mir/index.html)
+- [CIRCT | Circuit IR Compilers and Tools](https://github.com/llvm/circt)
+- [SPIR–V ](https://www.khronos.org/spir/)
+
 
 # 外挂技术
 - [csgo-imgui-sdk](https://github.com/bruhmoment21/csgo-imgui-sdk)
