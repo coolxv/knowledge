@@ -132,6 +132,7 @@
 - [SIL | Swift Intermediate Language ](https://github.com/apple/swift/blob/main/docs/SIL.rst)
 - [HIR | Rust IR](https://rustc-dev-guide.rust-lang.org/hir.html)[ | MIR](https://rustc-dev-guide.rust-lang.org/mir/index.html)
 - [CIRCT | Circuit IR Compilers and Tools](https://github.com/llvm/circt)
+- [FIRRTL | Flexible Internal Representation for RTL](https://www.chisel-lang.org/firrtl/)
 - [SPIR–V ](https://www.khronos.org/spir/)
 
 
