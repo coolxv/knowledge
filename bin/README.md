@@ -101,6 +101,8 @@
 - [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
 - [goblin | 基于Rust](https://github.com/m4b/goblin)
 - [reko | 二进制编译器](https://github.com/uxmal/reko)
+- [bloaty | 查看代码的膨胀程度](https://github.com/google/bloaty)
+- [BOLT | 二进制优化](https://github.com/facebookincubator/BOLT)
 
 # 二进制库
 - [iced | 基于Rust](https://github.com/icedland/iced)
