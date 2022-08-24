@@ -118,6 +118,9 @@
 - [TankWar | 坦克大战](https://github.com/dingfen/TankWar)
 - [devilutionX | 暗黑破坏神](https://github.com/diasurgical/devilutionX)
 - [CrazyCar | 基于C#](https://github.com/TastSong/CrazyCar)
+- [0ad | 公元0](https://github.com/0ad/0ad)
+- [OpenRA | 基于C#](https://github.com/OpenRA/OpenRA)
+- [Mindustry | 基于Java](https://github.com/Anuken/Mindustry)
 
 
 # 游戏创建
@@ -145,22 +148,44 @@
 - [RPCS3 | Playstation 3模拟器](https://github.com/RPCS3/rpcs3)
 - [ps4emurepo | Playstation 4模拟器](https://github.com/ps4emurepo)
 - [PSemuX | Playstation 5模拟器](https://psemux.com/)
+- [Kyty | PS4和PS5模拟器](https://github.com/InoriRus/Kyty)
 - [Cxbx-Reloaded | Xbox模拟器](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
 - [xemu | 可模拟原始 Microsoft Xbox 游戏机](https://github.com/mborgerson/xemu)
+- [xenia | Xbox 360模拟器](https://github.com/xenia-project/xenia)
+- [xqemu | Xbox模拟器](https://github.com/xqemu/xqemu)
 - [punes | puNES 是基于 Qt 的任天堂娱乐系统模拟器和 NSF/NSFe 音乐播放器](https://gitee.com/mirrors/punes)
 - [yuzu | Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 - [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
+- [Ryujinx | Nintendo Switch 模拟器](https://github.com/Ryujinx/Ryujinx)
+- [citra | 一个任天堂3DS模拟器](https://github.com/citra-emu/citra)
+- [project64 | 任天堂64模拟器](https://github.com/project64/project64)
+- [m64p | 任天堂64模拟器](https://github.com/m64p/m64p)
+- [GLideN64 | 任天堂64模拟器](https://github.com/gonetz/GLideN64)
+- [desmume | Nintendo DS模拟器](https://github.com/TASEmulators/desmume)
+- [snes9x | 便携式超级任天堂娱乐系统(TM)模拟器](https://github.com/snes9xgit/snes9x)
+- [bsnes | a Super Nintendo (SNES)模拟器](https://github.com/bsnes-emu/bsnes)
 - [gba-mu | GBA模拟器](https://github.com/rlintott/gba-mu)
 - [cemu | Wii U 模拟器](https://cemu.info/)
+- [dolphin | GameCube和Wii模拟器 ](https://github.com/dolphin-emu/dolphin)
 - [gameboy](https://github.com/mohanson/gameboy)
 - [Supermodel | 世嘉Model 3街机模拟器](https://github.com/trzy/Supermodel)
 - [openFPGA-GB-GBC](https://github.com/spiritualized1997/openFPGA-GB-GBC)
-- [Kyty | PS4和PS5模拟器](https://github.com/InoriRus/Kyty)
+- [flycast | Sega Dreamcast, Naomi, Naomi 2模拟器](https://github.com/flyinghead/flycast)
+- [Genesis-Plus-GX | 世嘉8/16位模拟器](https://github.com/ekeeke/Genesis-Plus-GX)
+- [mgba | mGBA Game Boy高级模拟器](https://github.com/mgba-emu/mgba)
+
+
+
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
 - [PDP11 模拟器](https://github.com/simh/simh)
 - [MetroBoy](https://github.com/aappleby/MetroBoy)
 - [NoobBoy](https://github.com/Mika412/NoobBoy)
+- [higan | 多系统模拟](https://github.com/higan-emu/higan)
+- [BizHawk | 多系统模拟](https://github.com/TASEmulators/BizHawk)
+- [ares | 多系统模拟](https://github.com/ares-emulator/ares)
+- [mame | 多用仿真框架](https://github.com/mamedev/mame)
+- [jsemu | js模拟器列表](https://github.com/fcambus/jsemu)
 
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
