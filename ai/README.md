@@ -267,6 +267,7 @@
 - [VGG（VIA）](https://www.robots.ox.ac.uk/~vgg/software/via/)
 - [coco-annotator](https://github.com/jsbroks/coco-annotator)
 - [label-studio](https://github.com/heartexlabs/label-studio)
+- [PaddleLabel](https://github.com/PaddleCV-SIG/PaddleLabel)
 
 # 数据集
 - [汽车行业 Cityscapes](https://www.cityscapes-dataset.com/)[ | Mapillary Vistas ](https://www.mapillary.com/dataset/vistas)[ | Kitti Dataset ](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php)
