@@ -8,6 +8,7 @@
 - [matplotlib速查表](https://github.com/matplotlib/cheatsheets)
 - [infographics数据科学信息图](https://github.com/dataprofessor/infographic)
 - [awesome-datascience](https://github.com/academic/awesome-datascience)
+- [麻省理工的15.003数据科学工具](https://github.com/shervinea/mit-15-003-data-science-tools)
 
 # 项目
 - [rapidsai](https://github.com/rapidsai)
