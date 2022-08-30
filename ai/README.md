@@ -558,6 +558,7 @@
 
 # 资料
 - [李沐《动手学深度学习》](http://zh.d2l.ai/)
+- [《机器学习系统：设计和实现》](https://github.com/openmlsys/openmlsys-zh)
 - [吴恩达-deeplearning.ai深度学习课程视频](https://study.163.com/provider/2001053000/course.htm)[ | 笔记1](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)[ | 笔记2](https://github.com/fengdu78/deeplearning_ai_books)[ | deeplearning.ai](deeplearning.ai)
 - [李宏毅《机器学习》笔记](https://github.com/datawhalechina/leeml-notes)
 - [周志华《机器学习》的学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
