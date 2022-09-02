@@ -65,6 +65,7 @@
 - [yasm](https://github.com/yasm/yasm)
 - [SASM | ASM IDE](https://github.com/Dman95/SASM)
 
+
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
 - [c2go | 将C代码迁移到Go](https://github.com/elliotchance/c2go)[ | c2go](https://github.com/goplus/c2go)
@@ -82,8 +83,6 @@
 - [cutter | 由rizin提供动力的免费开源逆向工程平台](https://github.com/rizinorg/cutter)
 - [radare2 | 一个逆向工程命令行集和框架](https://github.com/radareorg/radare2)
 - [ghidra | NSA开源逆向工程工具](https://github.com/NationalSecurityAgency/ghidra)
-- [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
-- [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
 - [miasm | Python 中的逆向工程框架](https://github.com/cea-sec/miasm)
 - [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
 - [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
@@ -120,6 +119,8 @@
 - [Triton](https://github.com/jonathansalwan/Triton)
 - [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)[ | 基于capstone工具](http://www.capstone-engine.org/showcase.html)
 - [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
+- [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
+- [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
 
 # 二进制转换
 - [ProjectChampollion | 在M1 Mac上反向工程Rosetta 2](https://github.com/FFRI/ProjectChampollion)
