@@ -10,14 +10,14 @@
 - [算法](algorithmica.md)
 - [量化交易](quant.md)
 - [游戏自动化](agt.md)
+- [自制游戏机](cg.md)
 - [异构编程](hp.md)
 - [3D](3d.md)
 - [UI](ui.md)
 - [USB](usb.md)
 - [NFC](nfc.md)
 - [CPU](CPU.md)
-- [Bluetooth](bt.md)
-- [electronjs](electronjs.md)
+- [BlueTooth](bt.md)
 - [dlib](dlib.md)
 - [opencv](opencv.md)
 
@@ -35,6 +35,7 @@
 # 记录
 - [概念](concepts.md)
 - [课程](cs.md)
+- [网站](url.md)
 - [2021](2021-log.md)
 - [2022](2022-log.md)
 
