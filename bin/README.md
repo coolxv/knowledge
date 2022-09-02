@@ -1,5 +1,5 @@
 # 编译器
-- [GCC | GNU编译器项目](https://gcc.gnu.org/)
+- [GCC | GNU编译器项目](https://gcc.gnu.org/)[ | 代码](https://github.com/gcc-mirror/gcc)
 - [LLVM | LLVM是一套编译器基础设施项目](https://llvm.org/)
 - [ELVM | ELVM类似于LLVM，但专门用于深奥语言](https://github.com/shinh/elvm)
 - [OpenArkCompiler | 华为方舟编译器](https://gitee.com/openarkcompiler/OpenArkCompiler)
@@ -55,6 +55,15 @@
 
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
+
+# 汇编器
+- [asmrepl](https://github.com/tenderlove/asmrepl)
+- [nasm](https://github.com/netwide-assembler/nasm)
+- [masm](https://docs.microsoft.com/en-us/cpp/assembler/masm/masm-for-x64-ml64-exe?view=msvc-170)
+- [gas](https://tldp.org/HOWTO/Assembly-HOWTO/gas.html)
+- [fasm](https://github.com/tgrysztar/fasm)
+- [yasm](https://github.com/yasm/yasm)
+- [SASM | ASM IDE](https://github.com/Dman95/SASM)
 
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
