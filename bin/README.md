@@ -55,7 +55,8 @@
 
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
-
+- [lld | llvm的链接器](https://lld.llvm.org/)
+- [ld | the GNU linker](https://www.gnu.org/software/binutils/)[ | Link Options](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html)
 # 汇编器
 - [asmrepl](https://github.com/tenderlove/asmrepl)
 - [nasm](https://github.com/netwide-assembler/nasm)
