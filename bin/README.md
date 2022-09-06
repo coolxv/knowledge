@@ -51,6 +51,7 @@
 - [SmallerC](https://github.com/alexfru/SmallerC)
 - [cheerp-meta](https://github.com/leaningtech/cheerp-meta)
 - [ccc | 100天开发c编译器](https://github.com/iiicp/ccc)
+- [mlir-playground](https://github.com/MLIR-China/mlir-playground)
 
 
 # 链接器
