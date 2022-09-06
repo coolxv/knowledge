@@ -122,8 +122,6 @@
 - [Triton](https://github.com/jonathansalwan/Triton)
 - [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)[ | 基于capstone工具](http://www.capstone-engine.org/showcase.html)
 - [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
-- [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
-- [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
 
@@ -152,7 +150,7 @@
 - [CIRCT | Circuit IR Compilers and Tools](https://github.com/llvm/circt)
 - [FIRRTL | Flexible Internal Representation for RTL](https://www.chisel-lang.org/firrtl/)
 - [SPIR–V ](https://www.khronos.org/spir/)
-# 虚拟机
+# 虚拟机(CPU模拟、PC模拟)
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
 - [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
 - [qemu | 一种通用的开源计算机仿真器和虚拟器](https://www.qemu.org/)
@@ -180,7 +178,9 @@
 - [libriscv](https://github.com/fwsGonzo/libriscv)
 - [FEX](https://github.com/FEX-Emu/FEX)
 - [quickemu](https://github.com/quickemu-project/quickemu)
-
+- [VisUAL2 | ARM汇编器和模拟器](https://github.com/tomcl/V2releases)
+- [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
+- [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
 
 
 # 外挂技术
