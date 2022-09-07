@@ -610,6 +610,8 @@
 - [深度学习百科及面试资源](https://paddlepedia.readthedocs.io/en/latest/index.html)
 - [machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete)
 - [AI算法工程师手册](http://huaxiaozhuan.com/)
+- [EasyCV是一个涵盖多个领域的基于Pytorch的计算机视觉工具箱](https://github.com/alibaba/EasyCV)
+- [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
