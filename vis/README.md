@@ -53,6 +53,7 @@
 - [autoremesher](https://github.com/huxingyi/autoremesher)
 - [magnum | 轻量级和模块化的c++ 11图形中间件，用于游戏和数据可视化](https://github.com/mosra/magnum)
 - [foolrenderer](https://github.com/cadenji/foolrenderer)
+- [HLSLexplorer](https://github.com/astralis3d/HLSLexplorer)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
