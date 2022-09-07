@@ -59,11 +59,16 @@
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
 - [lld | llvm的链接器](https://lld.llvm.org/)
 - [ld | the GNU linker](https://www.gnu.org/software/binutils/)[ | Link Options](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html)
+- [link.exe | MSVC](https://docs.microsoft.com/en-us/cpp/build/reference/linker-options?view=msvc-170)
 # 汇编器
 - [asmrepl](https://github.com/tenderlove/asmrepl)
 - [nasm](https://github.com/netwide-assembler/nasm)
 - [masm](https://docs.microsoft.com/en-us/cpp/assembler/masm/masm-for-x64-ml64-exe?view=msvc-170)
 - [gas](https://tldp.org/HOWTO/Assembly-HOWTO/gas.html)
+- [clang -target armv7a-none-eabi -c   test.s -### (-integrated-as)](https://clang.llvm.org/docs/ClangCommandLineReference.html)[ | CrossCompilation](https://releases.llvm.org/8.0.0/tools/clang/docs/CrossCompilation.html)
+```
+"C:\\tools\\LLVM\\bin\\clang.exe" "-cc1as" "-triple" "armv7-none-unknown-eabi" "-filetype" "obj" "-main-file-name" "test.s" "-target-cpu" "generic" "-target-feature" "+strict-align" "-fdebug-compilation-dir=C:\\work" "-dwarf-debug-producer" "clang version 15.0.0" "-dwarf-version=5" "-mrelocation-model" "static" "-mllvm" "-arm-add-build-attributes" "--mrelax-relocations" "-o" "test.o" "test.s"
+```
 - [fasm](https://github.com/tgrysztar/fasm)
 - [yasm](https://github.com/yasm/yasm)
 - [SASM | ASM IDE](https://github.com/Dman95/SASM)
@@ -116,6 +121,8 @@
 - [reko | 二进制编译器](https://github.com/uxmal/reko)
 - [bloaty | 查看代码的膨胀程度](https://github.com/google/bloaty)
 - [BOLT | 二进制优化](https://github.com/facebookincubator/BOLT)
+- [objconv | 二进制转换](https://github.com/gitGNU/objconv)
+- [XOpcodeCalc](https://github.com/horsicq/XOpcodeCalc)
 
 # 二进制库
 - [iced | 基于Rust](https://github.com/icedland/iced)
