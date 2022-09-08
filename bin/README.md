@@ -193,6 +193,8 @@
 - [asemu | 32-bit x86 emulator using ncurses and capstone/keystone/unicorn](https://github.com/Rewzilla/asemu))
 - [ucui-unicorn | using ncurses and capstone/unicorn](https://github.com/eahlstrom/ucui-unicorn)
 - [ASMOnline](https://github.com/Pusty/ASMOnline)
+- [cemu](https://github.com/hugsy/cemu)
+- [asrepl](https://github.com/enferex/asrepl)
 
 
 # 外挂技术
