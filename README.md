@@ -156,7 +156,7 @@
 - [xemu | 可模拟原始 Microsoft Xbox 游戏机](https://github.com/mborgerson/xemu)
 - [xenia | Xbox 360模拟器](https://github.com/xenia-project/xenia)
 - [xqemu | Xbox模拟器](https://github.com/xqemu/xqemu)
-- [punes | puNES 是基于 Qt 的任天堂娱乐系统模拟器和 NSF/NSFe 音乐播放器](https://gitee.com/mirrors/punes)
+- [punes | puNES 是基于 Qt 的任天堂娱乐系统模拟器和 NSF/NSFe 音乐播放器](https://github.com/punesemu/puNES)
 - [yuzu | Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 - [skyline | Nintendo Switch Emulator](https://github.com/skyline-emu/skyline)
 - [Ryujinx | Nintendo Switch 模拟器](https://github.com/Ryujinx/Ryujinx)
