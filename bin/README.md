@@ -190,6 +190,8 @@
 - [VisUAL2 | ARM汇编器和模拟器](https://github.com/tomcl/V2releases)
 - [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
 - [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
+- [asemu | 32-bit x86 emulator using ncurses and capstone/keystone/unicorn](https://github.com/Rewzilla/asemu))
+- [ucui-unicorn | using ncurses and capstone/unicorn](https://github.com/eahlstrom/ucui-unicorn)
 
 
 # 外挂技术
