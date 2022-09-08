@@ -195,6 +195,8 @@
 - [ASMOnline](https://github.com/Pusty/ASMOnline)
 - [cemu](https://github.com/hugsy/cemu)
 - [asrepl](https://github.com/enferex/asrepl)
+- [unicorn-bios](https://github.com/macmade/unicorn-bios)
+- [ARMStrong](https://github.com/linouxis9/ARMStrong)
 
 
 # 外挂技术
