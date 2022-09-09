@@ -1,3 +1,9 @@
+# 单核CPU性能
+- [CPU 单核性能为什么难以提升？](https://www.zhihu.com/question/365639711)
+- [ 计算机系统性能评价与性能分析](https://foxsen.github.io/archbase/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E8%AF%84%E4%BB%B7%E4%B8%8E%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.html)
+
+
+
 # RISC-V
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
 
