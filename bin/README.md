@@ -136,6 +136,11 @@
 
 # 二进制转换
 - [ProjectChampollion | 在M1 Mac上反向工程Rosetta 2](https://github.com/FFRI/ProjectChampollion)
+- [ExaGear | 将x86的指令在运行时翻译为ARM64指令并执行](https://support.huaweicloud.com/ug-exagear-kunpengdevps/kunpengexagear_06_0003.html)
+- [box86 | Box86允许在ARM等非x86 Linux系统上运行x86 Linux程序](https://box86.org/)
+- [Wine | 是一个能够在多种 POSIX-compliant 操作系统上运行 Windows 应用的兼容层](https://www.winehq.org/)
+- [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
+
 
 # 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
@@ -175,18 +180,14 @@
 - [graalVM | GraalVM是一个通用虚拟机，用于运行用JavaScript、Python、Ruby、R、基于jvm的语言(如Java、Scala、Clojure、Kotlin)和基于llvm的语言(如C和c++)编写的应用程序。](https://github.com/oracle/graal)
 - [VMPROTECT | 基于虚拟机的代码混淆](https://github.com/eaglx/VMPROTECT)
 - [V8 | V8是谷歌的开源高性能JavaScript和WebAssembly引擎，用C++编写。它在Chrome和Node.js中被使用](https://v8.dev/)
-- [box86 | Box86允许在ARM等非x86 Linux系统上运行x86 Linux程序](https://box86.org/)
-- [Wine | 是一个能够在多种 POSIX-compliant 操作系统上运行 Windows 应用的兼容层](https://www.winehq.org/)
 - [virtualbox | 基于x86 and AMD64/Intel64的虚拟机](https://www.virtualbox.org/)
 - [bochs | Bochs是一个用C++编写的高度可移植的开源IA-32 (x86) PC模拟器](https://bochs.sourceforge.io/)
 - [v86 | 浏览器中的X86虚拟化，在运行时重新编译X86](https://github.com/copy/v86)
 - [minivm | MiniVM足够小，足够灵活，可以运行任何语言(假设你已经花时间为它编写了编译器)。我们尝试过的前端包括Lua、Scheme、Paka等.](https://github.com/FastVM/minivm)
 - [MiniVM | 一个执行Eeyore/Tigger IR的虚拟机，是为北京大学编译器课程而设计的。](https://github.com/pku-minic/MiniVM)
-- [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
 - [lc3-vm](https://github.com/nomemory/lc3-vm)
-- [libriscv](https://github.com/fwsGonzo/libriscv)
-- [FEX](https://github.com/FEX-Emu/FEX)
-- [quickemu](https://github.com/quickemu-project/quickemu)
+- [libriscv | C++17 RISC-V RV32/64/128用户空间模拟器库](https://github.com/fwsGonzo/libriscv)
+- [quickemu | 快速创建和运行优化的Windows, macOS和Linux桌面虚拟机。](https://github.com/quickemu-project/quickemu)
 - [VisUAL2 | ARM汇编器和模拟器](https://github.com/tomcl/V2releases)
 - [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
 - [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
