@@ -197,6 +197,7 @@
 - [asrepl](https://github.com/enferex/asrepl)
 - [unicorn-bios](https://github.com/macmade/unicorn-bios)
 - [ARMStrong](https://github.com/linouxis9/ARMStrong)
+- [SDE)| Intel Software Development Emulator ](https://www.intel.com/content/www/us/en/developer/articles/license/pre-release-license-agreement-for-software-development-emulator.html)
 
 
 # 外挂技术
