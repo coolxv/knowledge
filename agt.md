@@ -8,6 +8,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
 - [idb](https://github.com/facebook/idb)
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
 - [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
