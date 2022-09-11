@@ -3,6 +3,12 @@
 
 
 # 图片输入输出
+
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
+- [idb](https://github.com/facebook/idb)
+- [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
