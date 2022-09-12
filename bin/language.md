@@ -12,9 +12,9 @@
 
 
 # 编程思维（编程、做饭、数学、历史）
-- 计算思维 （递归、分治、平衡）
+- [计算思维 （递归、分治、平衡）](http://suquark.github.io/lecture/2016/09/16/computational_thinking.html)
 - 工程思维
-- [数据的编码、解码、表示、状态](http://suquark.github.io/lecture/2017/08/01/cs_from0_state_and_encode.html)
+- [数学思维（数据的编码、解码、表示、状态）](http://suquark.github.io/lecture/2017/08/01/cs_from0_state_and_encode.html)[ | 编码理论（编码理论与信息论、数理统计、概率论、随机过程、线性代数、近世代数、数论、有限几何和组合分析等学科有密切关系，已成为应用数学的一个分支。）](https://www.baike.com/wiki/%E7%BC%96%E7%A0%81%E7%90%86%E8%AE%BA/489899?view_id=x3zmbj0kksg00)
 - [计算机边界](https://www.changhai.org/articles/science/mathematics/hilbert10/1.php)
 - 道、法、术、器
 - 局域性原理（所谓局域性原理，是指的一种时间、空间或者分布上的集中性特征。这是现实中常常会有的情况。之所以称为原理，是因为它不是一种定律，但是却在实际中非常稳定地出现。它告诉了我们 “数学上无解的，现实中总是有解” 的道理）
