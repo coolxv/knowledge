@@ -27,6 +27,9 @@
 # 连续性
 - [连续性](https://baike.baidu.com/item/%E8%BF%9E%E7%BB%AD/6532794)
 
+# 分形和混沌
+- [自然的奥秘：混沌与分形](http://www.global-sci.org/v1/mc/issues/3/no3/pdf/35.pdf?code=cep45xWLCYKaTQI%2BrCodhw%3D%3D)
+- [一堂课讲清非线性动力学、混沌、分形、网络科学、复杂系统的区别和联系](https://swarma.org/?p=12060)
 
 # 范畴论
 - 范畴论是一个关于关系的理论，描述并研究关系的所有可能性质。
