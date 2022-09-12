@@ -97,6 +97,7 @@
 - [Plants-vs.-Zombies-Online-Battle | 植物大战僵尸](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle)[ | PlantsVsZombies](https://github.com/ErLinErYi/PlantsVsZombies)
 - [a-little-game-called-mario | 马里奥小游戏](https://github.com/a-little-org-called-mario/a-little-game-called-mario)
 - [golly | 生命游戏，自动细胞机](https://conwaylife.com/)[| conwaylife](https://conwaylife.com/)[ | Game-of-Life](https://github.com/MC-DeltaT/Game-of-Life)
+- [chaos-game | 混沌游戏](https://github.com/jaybosamiya/chaos-game)
 - [minetest | 体素游戏](https://github.com/minetest/minetest)
 - [OpenRCT2 | 过山车](https://github.com/OpenRCT2/OpenRCT2)
 - [wesnoth | 奇幻主题的开源回合制策略游戏](https://github.com/wesnoth/wesnoth)
