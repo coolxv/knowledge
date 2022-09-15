@@ -215,6 +215,8 @@
 # 物理仿真
 - [precice | 多物理仿真库](https://github.com/precice/precice)
 - [webots | 机器人模拟器](https://github.com/cyberbotics/webots)
+- [The-Powder-Toy | 个经典的“落沙”物理沙盒的桌面版本，它模拟空气压力和速度以及热量](https://github.com/The-Powder-Toy/The-Powder-Toy)
+- [algodoo](http://www.algodoo.com/)
 
 # 化学仿真
 - [蛋白质](https://fold.it/)
