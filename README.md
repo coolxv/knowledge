@@ -14,9 +14,9 @@
 - [UI](ui.md)
 - [USB](usb.md)
 - [NFC](nfc.md)
+- [BlueTooth](bt.md)
 - [CPU](CPU.md)
 - [API](api.md)
-- [BlueTooth](bt.md)
 - [dlib](dlib.md)
 - [opencv](opencv.md)
 
