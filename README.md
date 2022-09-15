@@ -9,8 +9,6 @@
 - [安全](sec.md)
 - [算法](algorithmica.md)
 - [量化交易](quant.md)
-- [游戏自动化](agt.md)
-- [自制游戏机](cg.md)
 - [异构编程](hp.md)
 - [3D](3d.md)
 - [UI](ui.md)
@@ -25,14 +23,17 @@
 # 语言
 - [cpp](cpp.md)
 - [python](py.md)
-- [nodejs](nodejs.md)
 - [go](go.md)
 - [rust](rust.md)
+- [java](java.md)
+- [C#](csharp.md)
+- [nodejs](nodejs.md)
 - [javascript](js.md)
 - [typescript](ts.md)
 - [css](css.md)
 - [html](html.md)
 - [bash](sh.md)
+- [sql](sql.md)
 # 记录
 - [概念](concepts.md)
 - [课程](cs.md)
@@ -40,7 +41,10 @@
 - [2021](2021-log.md)
 - [2022](2022-log.md)
 
-
+# 应用构建
+- [桌面工具](app_desk.md)
+- [游戏自动化](agt.md)
+- [自制游戏机](cg.md)
 # 常用软件
 - [winscp](https://winscp.net/)
 - [winmerge](https://winmerge.org/)
