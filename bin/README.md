@@ -73,6 +73,7 @@
 - [yasm](https://github.com/yasm/yasm)
 - [SASM | ASM IDE](https://github.com/Dman95/SASM)
 - [GoAsm | The Go tools for Windows + Assembler,还包括GoLink.exe、GoRC.exe、GoBug](http://www.godevtool.com/)
+- [xbyak | a JIT assembler for x86(IA-32)/x64(AMD64, x86-64)](https://github.com/herumi/xbyak)
 
 
 # 语言转换
@@ -133,6 +134,7 @@
 - [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
+
 
 # 二进制转换
 - [ProjectChampollion | 在M1 Mac上反向工程Rosetta 2](https://github.com/FFRI/ProjectChampollion)
