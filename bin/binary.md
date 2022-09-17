@@ -18,6 +18,10 @@ gcc res.c -c
 gcc res.o  strings.o -o res
 ```
 # objdump | Displays information from object files.
+```
+gcc hello.c -o hello -g
+objdump -S -l hello > hello.lst
+```
 # ranlib | Generates an index to the contents of an archive.
 # readelf | Displays information from any ELF format object file.
 # size | Lists the section sizes of an object or archive file.
