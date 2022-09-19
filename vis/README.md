@@ -86,6 +86,7 @@
 - [LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)
 - [Atlas-Engine](https://github.com/tippesi/Atlas-Engine)
 - [kajiya | rust](https://github.com/EmbarkStudios/kajiya)
+- [appleseed](https://github.com/appleseedhq/appleseed)
 
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
