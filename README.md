@@ -255,6 +255,7 @@
 - [VLC](https://www.videolan.org/index.zh.html)
 - [ffmpeg](https://ffmpeg.org/)
 - [gstreamer](https://gstreamer.freedesktop.org/)
+- [xbmc](https://github.com/xbmc/xbmc)
 
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
