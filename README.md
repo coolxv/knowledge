@@ -236,6 +236,7 @@
 - [audacity | 音频编辑器](https://github.com/audacity/audacity)
 - [Qmmp | 音乐播放器](https://sourceforge.net/projects/qmmp-dev/)
 - [flac](https://xiph.org/flac/index.html)
+- [pipewire](https://github.com/PipeWire/pipewire)
 - [libmidi](https://github.com/tanluteam/libmidi)
 - [utracker](https://github.com/immortalx74/utracker)
 - [mixxx | DJ mix](https://github.com/mixxxdj/mixxx)
