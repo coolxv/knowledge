@@ -223,6 +223,7 @@
 # 外挂技术
 - [csgo-imgui-sdk](https://github.com/bruhmoment21/csgo-imgui-sdk)
 - [csgo-external-esp](https://github.com/forceinline/csgo-external-esp)
+- [le_chiffre | csgo](https://github.com/Blaumaus/le_chiffre)
 - [External-Apex-Cheat](https://github.com/SurgeGotTappedAgain/External-Apex-Cheat)
 
 # Linux
