@@ -55,6 +55,7 @@
 - [zellij](https://github.com/zellij-org/zellij)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
+- [devtools-x](https://github.com/fosslife/devtools-x)
 - [notepad++](https://notepad-plus-plus.org/)
 - [NotepadNext](https://github.com/dail8859/NotepadNext)
 - [everything](https://www.voidtools.com/zh-cn/)
