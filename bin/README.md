@@ -54,7 +54,22 @@
 - [ccc | 100天开发c编译器](https://github.com/iiicp/ccc)
 - [mlir-playground](https://github.com/MLIR-China/mlir-playground)
 - [CastXML](https://github.com/CastXML/CastXML)
+- [mrustc](https://github.com/thepowersgang/mrustc)
+- [r8cc](https://github.com/r7kamura/r8cc)
 
+# 编译器的编译器
+- lex and yacc
+- flex and  bison
+- [Boost Spirit ](https://www.boost.org/doc/libs/1_79_0/libs/spirit/doc/html/index.html)
+- [langcc](https://github.com/jzimmerman/langcc)
+- [JuCC](https://github.com/TheSYNcoder/JuCC)
+- [ANTLR](https://www.antlr.org/)
+- [JavaCC](https://javacc.github.io/javacc/)
+- [jacc](http://web.cecs.pdx.edu/~mpj/jacc/)
+- [goyacc](https://pkg.go.dev/golang.org/x/tools/cmd/goyacc)
+- [goldparser](http://www.goldparser.org/index.htm)
+- [grammatica](https://github.com/cederberg/grammatica)
+- [Smacc](https://books.pharo.org/booklet-Smacc/)
 
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
@@ -82,6 +97,7 @@
 - [c2go | 将C代码迁移到Go](https://github.com/elliotchance/c2go)[ | c2go](https://github.com/goplus/c2go)
 - [w2c2 | 将WebAssembly代码翻译成C](https://github.com/turbolent/w2c2)
 - [cake | C23到C99转换](https://github.com/thradams/cake)
+- [cc-rs | 编译C/C++ /assembly到Rust库/应用程序](https://github.com/rust-lang/cc-rs)
 
 # 混合编程
 - [xlang | 跨各种编程语言开发Windows应用程序](https://github.com/microsoft/xlang)
