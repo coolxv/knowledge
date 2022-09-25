@@ -9,6 +9,7 @@
 - [textual | python](https://github.com/Textualize/textual)
 - [finalcut | C++](https://github.com/gansm/finalcut)
 - [tui-rs | rust](https://github.com/fdehau/tui-rs)
+- [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
 
 # ICON
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
