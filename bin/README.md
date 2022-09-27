@@ -159,6 +159,7 @@
 - [box86 | Box86允许在ARM等非x86 Linux系统上运行x86 Linux程序](https://box86.org/)
 - [Wine | 是一个能够在多种 POSIX-compliant 操作系统上运行 Windows 应用的兼容层](https://www.winehq.org/)
 - [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
+- [Intel Houdini](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Brian%20Hong%20-%20Sleight%20of%20ARM%20-%20%20Demystifying%20Intel%20Houdini.pdf)
 
 
 # 指令集
@@ -218,6 +219,7 @@
 - [unicorn-bios](https://github.com/macmade/unicorn-bios)
 - [ARMStrong](https://github.com/linouxis9/ARMStrong)
 - [SDE)| Intel Software Development Emulator ](https://www.intel.com/content/www/us/en/developer/articles/license/pre-release-license-agreement-for-software-development-emulator.html)
+- [android-x86](https://www.android-x86.org/)
 
 
 # 外挂技术
