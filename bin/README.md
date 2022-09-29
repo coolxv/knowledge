@@ -56,6 +56,7 @@
 - [CastXML](https://github.com/CastXML/CastXML)
 - [mrustc](https://github.com/thepowersgang/mrustc)
 - [r8cc](https://github.com/r7kamura/r8cc)
+- [scc](https://github.com/8l/scc)
 
 # 编译器的编译器
 - lex and yacc
