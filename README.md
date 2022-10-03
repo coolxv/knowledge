@@ -83,6 +83,7 @@
 - [Remotery | 实时CPU/GPU分析器与远程Web查看器](https://github.com/Celtoys/Remotery)
 - [calculator | 微软自带计算器](https://github.com/Microsoft/calculator)
 - [Amalgamate | C++头文件合并](https://github.com/coolxv/Amalgamate)
+- [cpp-dependencies | C++头文件依赖关系](https://github.com/tomtom-international/cpp-dependencies)
 - [hashcat | 密码破解工具](https://github.com/hashcat/hashcat)
 - [scc | 代码统计](https://github.com/boyter/scc)
 
