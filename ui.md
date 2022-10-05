@@ -34,6 +34,7 @@
 
 # Tauri(RUST)
 - [tauri](https://github.com/tauri-apps/tauri)
+- [OhMyBox](https://github.com/lencx/OhMyBox)
 
 # Wails(GO)
 - [wails](https://github.com/wailsapp/wails)
