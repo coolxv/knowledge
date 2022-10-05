@@ -68,6 +68,7 @@
 - [lnmp](https://lnmp.org/install.html)
 - [oneinstack lnmp](https://github.com/oneinstack/lnmp)[ | 官网](https://oneinstack.com/)
 - [Yank Note | 是一款面向程序员的本地 Markdown 笔记应用](https://github.com/purocean/yn)
+- [notes | 笔记](https://github.com/nuttyartist/notes)
 - [lite-xl | 代码编辑器](https://github.com/lite-xl/lite-xl)
 - [lapce | 代码编辑器](https://github.com/lapce/lapce)
 - [codelite | 代码编辑器](https://github.com/eranif/codelite)
@@ -76,6 +77,7 @@
 - [ksnip](https://github.com/ksnip/ksnip)
 - [neovim](https://neovim.io/)
 - [ImHex](https://github.com/WerWolv/ImHex)
+
 
 
 # 有用软件
