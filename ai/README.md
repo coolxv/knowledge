@@ -662,3 +662,6 @@
 - [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention)
 - [Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 
+
+# Pytorch 相关
+- [pytorch-image-models-image-models](https://github.com/rwightman/pytorch-image-models)
