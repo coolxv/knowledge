@@ -3,6 +3,7 @@
 - [imgui](https://github.com/ocornut/imgui)
 - [RmlUi](https://github.com/mikke89/RmlUi)
 - [PurC](https://github.com/HVML/PurC)
+- [iced | rust](https://github.com/iced-rs/iced)
 
 # CUI、TUI
 - [FTXUI | C++](https://github.com/ArthurSonzogni/FTXUI)
