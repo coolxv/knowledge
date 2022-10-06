@@ -14,4 +14,7 @@
 - [百度学术](https://xueshu.baidu.com/)
 - [谷歌学术](https://scholar.google.com/)
 
+# 教程
+- [UEFI-Lessons](https://github.com/Kostr/UEFI-Lessons)
+
 
