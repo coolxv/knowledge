@@ -38,6 +38,7 @@
 - [概念](concepts.md)
 - [课程](cs.md)
 - [网站](url.md)
+- [技术点](tech.md)
 - [2021](2021-log.md)
 - [2022](2022-log.md)
 
