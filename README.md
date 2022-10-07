@@ -230,6 +230,13 @@
 - [psi4  | 量子化学计算库](https://github.com/psi4/psi4)
 - [pcmsolver | 极化连续介质模型(PCM)](https://github.com/PCMSolver/pcmsolver)
 
+
+# 生物仿真
+
+
+# 宇宙仿真
+- [stellarium](https://github.com/Stellarium/stellarium)
+
 # 单片机仿真
 - [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
 - [stm32-emulator](https://github.com/nviennot/stm32-emulator)
