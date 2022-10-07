@@ -56,7 +56,6 @@
 - [foolrenderer](https://github.com/cadenji/foolrenderer)
 - [HLSLexplorer](https://github.com/astralis3d/HLSLexplorer)
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
-- [stellarium](https://github.com/Stellarium/stellarium)
 - [foton | 使用Vulkan制作的轻型/快速GLSL和HLSL着色器玩具](https://github.com/milkru/foton)
 - [erhe](https://github.com/tksuoran/erhe)
 
