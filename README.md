@@ -284,6 +284,7 @@
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
 - [awesome-c](https://github.com/oz123/awesome-c)
+- [awesome-cpp](https://github.com/uhub/awesome-cpp)
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm)[ | awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 
