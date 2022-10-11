@@ -45,6 +45,7 @@
 - [kokkos-kernels | 数学库，提供BLAS, 稀疏 BLAS 和 Graph Kernels](https://github.com/kokkos/kokkos-kernels)
 - [Trilinos | 以解决大规模、复杂的多重物理量工程和科学问题](https://github.com/trilinos/Trilinos)
 - [hlslpp | 数学库使用hlsl语法与SSE/NEON支持](https://github.com/redorav/hlslpp)
+- [rtm | 实时的数学](https://github.com/nfrechette/rtm)
 # 画图
 - [fooplot](http://www.fooplot.com/)
 - [desmos](https://www.desmos.com/)
