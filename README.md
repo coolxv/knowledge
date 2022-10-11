@@ -266,6 +266,7 @@
 - [obs | 推流软件](https://github.com/obsproject/obs-studio)
 - [shotcut | 视频编辑](https://github.com/mltframework/shotcut)
 - [OpenShot | 视频编辑](https://github.com/OpenShot)
+- [olive | 非线性视频编辑器](https://github.com/olive-editor/olive)
 - [VLC](https://www.videolan.org/index.zh.html)
 - [ffmpeg](https://ffmpeg.org/)
 - [gstreamer](https://gstreamer.freedesktop.org/)
