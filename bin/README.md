@@ -221,6 +221,7 @@
 - [ARMStrong](https://github.com/linouxis9/ARMStrong)
 - [SDE)| Intel Software Development Emulator ](https://www.intel.com/content/www/us/en/developer/articles/license/pre-release-license-agreement-for-software-development-emulator.html)
 - [android-x86](https://www.android-x86.org/)
+- [halfix](https://github.com/nepx/halfix)
 
 
 # 外挂技术
