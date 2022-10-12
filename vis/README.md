@@ -59,6 +59,7 @@
 - [foton | 使用Vulkan制作的轻型/快速GLSL和HLSL着色器玩具](https://github.com/milkru/foton)
 - [erhe](https://github.com/tksuoran/erhe)
 - [realbloom](https://github.com/bean-mhm/realbloom)
+- [glbinding](https://github.com/cginternals/glbinding)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
