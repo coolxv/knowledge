@@ -15,3 +15,4 @@
 - [esp32-nesemu](https://oshwhub.com/micespring/esp32-nesemu)
 - [arduboy](https://www.arduboy.com/)[ | arduboy mini](https://www.hackster.io/news/the-arduboy-mini-coming-soon-efd0286efbb9)
 - [openfpga-pong](https://github.com/agg23/openfpga-pong)
+- [arcade-galaga](https://github.com/opengateware/arcade-galaga)
