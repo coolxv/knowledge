@@ -5,6 +5,7 @@
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [深圳大学CS本科 课程资源共享](https://github.com/Alex-Shen1121/SZU_Learning_Resource)
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+- [计算机技术与科学自学之旅](https://github.com/ossu/computer-science-cn)
 
 # 论文
 - [arxiv](https://arxiv.org/)
