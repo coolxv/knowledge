@@ -185,6 +185,7 @@
 - [CIRCT | Circuit IR Compilers and Tools](https://github.com/llvm/circt)
 - [FIRRTL | Flexible Internal Representation for RTL](https://www.chisel-lang.org/firrtl/)
 - [SPIR–V ](https://www.khronos.org/spir/)
+- [NIR | mesa IR](https://docs.mesa3d.org/nir/index.html)
 # 虚拟机(CPU模拟、PC模拟)
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
 - [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
