@@ -77,7 +77,8 @@
 - [helix | 代码编辑器](https://github.com/helix-editor/helix)
 - [ksnip](https://github.com/ksnip/ksnip)
 - [neovim](https://neovim.io/)
-- [ImHex](https://github.com/WerWolv/ImHex)
+- [ImHex | 二进制编辑](https://github.com/WerWolv/ImHex)
+- [optimizer | Windows 优化](https://github.com/hellzerg/optimizer)
 
 
 
