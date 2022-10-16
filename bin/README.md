@@ -223,6 +223,8 @@
 - [SDE)| Intel Software Development Emulator ](https://www.intel.com/content/www/us/en/developer/articles/license/pre-release-license-agreement-for-software-development-emulator.html)
 - [android-x86](https://www.android-x86.org/)
 - [halfix](https://github.com/nepx/halfix)
+- [ARM Thumb (16-bit) Simulator](https://bkhmsi.github.io/ARMThumb_Sim/#/)
+- [ARM64 Simulator](http://163.238.35.161/~zhangs/arm64simulator/)
 
 
 # 外挂技术
