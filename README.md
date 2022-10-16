@@ -272,6 +272,7 @@
 - [ffmpeg](https://ffmpeg.org/)
 - [gstreamer](https://gstreamer.freedesktop.org/)
 - [xbmc](https://github.com/xbmc/xbmc)
+- [kdenlive](https://kdenlive.org/zh/)
 
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
