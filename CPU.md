@@ -2,15 +2,29 @@
 - [CPU 单核性能为什么难以提升？](https://www.zhihu.com/question/365639711)
 - [ 计算机系统性能评价与性能分析](https://foxsen.github.io/archbase/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E8%AF%84%E4%BB%B7%E4%B8%8E%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.html)
 
-
+# X86
+## 资料
+- 《x64汇编语言：从新手到AVX专家》，基于Intel语法
+- 《汇编语言程序设计》（英文：《Professional Assembly Language》），基于AT&T语法
 
 # RISC-V
+## 资料
+- 《手把手教你设计CPU - RISC-V处理器》
+- 《手把手教你RISC-V CPU（上） 处理器设计》
+- 《手把手教你RISC-V CPU（下） 工程与实践》
+- 《RISC-V架构与嵌入式开发快速入门》
+- [《RISC-V 手册一本开源指令集的指南》](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)
+- [RISC-V Specifications](https://riscv.org/technical/specifications/)
+
+## IP
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
 
 
 
 
 # ARM
+## 资料
+- 《ARM64 体系结构编程与实践》
 ## ARM分类
 - 指令集架构
 ```
@@ -80,4 +94,4 @@ ARMv8拥有两种执行模式（two execution modes）：
 - [ADS](https://developer.arm.com/downloads/-/arm-compiler-for-embedded)
 - IAR 
 - KEIL 
-- 
+
