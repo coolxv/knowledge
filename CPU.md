@@ -20,7 +20,9 @@
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
 
 
-
+# MIPS
+## 资料
+- [MIPS Architectures](https://www.mips.com/products/architectures/)
 
 # ARM
 ## 资料
