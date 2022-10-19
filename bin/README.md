@@ -165,6 +165,7 @@
 - QEMU-user
 - Rosetta 2
 - [instrew](https://github.com/aengelke/instrew)
+- [hqemu](http://csl.iis.sinica.edu.tw/hqemu/)
 
 
 # 指令集
