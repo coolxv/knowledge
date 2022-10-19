@@ -161,6 +161,9 @@
 - [Wine | 是一个能够在多种 POSIX-compliant 操作系统上运行 Windows 应用的兼容层](https://www.winehq.org/)
 - [fex-emu | 在AArch64主机上运行x86和x86-64二进制文件](https://github.com/FEX-Emu/FEX)
 - [Intel Houdini](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Brian%20Hong%20-%20Sleight%20of%20ARM%20-%20%20Demystifying%20Intel%20Houdini.pdf)
+- [Efficient LLVM-based Dynamic Binary Translation](https://home.in.tum.de/~engelke/pubs/2104-vee-slides.pdf)
+- QEMU-user
+- Rosetta 2
 
 
 # 指令集
