@@ -164,6 +164,7 @@
 - [Efficient LLVM-based Dynamic Binary Translation](https://home.in.tum.de/~engelke/pubs/2104-vee-slides.pdf)
 - QEMU-user
 - Rosetta 2
+- [instrew](https://github.com/aengelke/instrew)
 
 
 # 指令集
