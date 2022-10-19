@@ -143,6 +143,7 @@
 - [objconv | 二进制转换](https://github.com/gitGNU/objconv)
 - [XOpcodeCalc](https://github.com/horsicq/XOpcodeCalc)
 - [llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
+- [criu | 热加载技术](https://github.com/checkpoint-restore/criu)
 
 # 二进制库
 - [iced | 基于Rust](https://github.com/icedland/iced)
