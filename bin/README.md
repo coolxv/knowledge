@@ -154,7 +154,7 @@
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
 
 
-# 二进制转换
+# 二进制转换(Dynamic Binary Translation (DBT)、Static Binary Translation (SBT))
 - [ProjectChampollion | 在M1 Mac上反向工程Rosetta 2](https://github.com/FFRI/ProjectChampollion)
 - [ExaGear | 将x86的指令在运行时翻译为ARM64指令并执行](https://support.huaweicloud.com/ug-exagear-kunpengdevps/kunpengexagear_06_0003.html)
 - [box86 | Box86允许在ARM等非x86 Linux系统上运行x86 Linux程序](https://box86.org/)
@@ -166,6 +166,10 @@
 - Rosetta 2
 - [instrew](https://github.com/aengelke/instrew)
 - [hqemu](http://csl.iis.sinica.edu.tw/hqemu/)
+- [ria-jit](https://github.com/ria-jit/ria-jit)
+- [bin2llvm](https://github.com/cojocar/bin2llvm)
+- [llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
+- [revng](https://github.com/revng/revng)
 
 
 # 指令集
@@ -230,6 +234,7 @@
 - [halfix](https://github.com/nepx/halfix)
 - [ARM Thumb (16-bit) Simulator](https://bkhmsi.github.io/ARMThumb_Sim/#/)
 - [ARM64 Simulator](http://163.238.35.161/~zhangs/arm64simulator/)
+- [Zelda.RISCV.Emulator](https://github.com/chillancezen/Zelda.RISCV.Emulator)
 
 
 # 外挂技术
