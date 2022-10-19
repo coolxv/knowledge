@@ -172,6 +172,7 @@
 - [bin2llvm](https://github.com/cojocar/bin2llvm)
 - [llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
 - [revng](https://github.com/revng/revng)
+- [fcd](https://github.com/fay59/fcd)
 
 
 # 指令集
