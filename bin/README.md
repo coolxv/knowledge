@@ -241,6 +241,7 @@
 - [ARM Thumb (16-bit) Simulator](https://bkhmsi.github.io/ARMThumb_Sim/#/)
 - [ARM64 Simulator](http://163.238.35.161/~zhangs/arm64simulator/)
 - [Zelda.RISCV.Emulator](https://github.com/chillancezen/Zelda.RISCV.Emulator)
+- [Simulators 介绍](https://pages.cs.wisc.edu/~arch/www/tools.html)
 
 
 # 外挂技术
