@@ -1,6 +1,10 @@
 # 概念
 - CPU架构：是指CPU指令集体系结构（Instruction Set Architecture，简称ISA），是处理器的一个抽象描述，简称称为架构。
-- 微架构：ISA在处理器中的实现，被称为Microarchitecture（微架构）。
+- CPU微架构：ISA在处理器中的实现，被称为Microarchitecture（微架构）。
+- 计算机的体系架构，英文称为Computer architecture，涉及的工作主要分三部分：
+  + 指令集相当于用户界面，是软件和硬件的接口。
+  + 微架构是指令集的具体实现。
+  + 系统设计主要是支撑微架构的内存、总线、功耗等设计。
 
 
 # 单核CPU性能
