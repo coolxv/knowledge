@@ -36,6 +36,8 @@
 + [photomath数学符号写作](https://photomath.com/)
 + [mathdf在线分步计算器](https://mathdf.com/cn/)
 + [matrixcalc | 在线的矩阵计算器](https://matrixcalc.org/zh/)
++ 目前主要有两大类通用科学软件，第一类是以Mathematica、MAPLE、Axiom等为代表的进行符号运算的计算机代数系统（Computer Algebra System，简称CAS）；第二类则是以MATLAB、Scilab等为代表的进行数值计算的通用数值系统（general purpose numerical system）
+
 # 数值、符号计算
 - [NumCpp | C++版本Numpy](https://github.com/dpilger26/NumCpp)
 - [GSL | Gnu数学库](https://www.gnu.org/software/gsl/)
