@@ -242,6 +242,7 @@
 - [ARM64 Simulator](http://163.238.35.161/~zhangs/arm64simulator/)
 - [Zelda.RISCV.Emulator](https://github.com/chillancezen/Zelda.RISCV.Emulator)
 - [Simulators 介绍](https://pages.cs.wisc.edu/~arch/www/tools.html)
+- [riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim)
 
 
 # 外挂技术
