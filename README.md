@@ -141,6 +141,7 @@
 - [stuntrally](https://github.com/stuntrally/stuntrally)
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished)
 - [uMario_Jakowski | 马里奥](https://github.com/jakowskidev/uMario_Jakowski)
+- [Meridian59](https://github.com/Meridian59/Meridian59)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
