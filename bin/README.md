@@ -243,6 +243,7 @@
 - [Zelda.RISCV.Emulator](https://github.com/chillancezen/Zelda.RISCV.Emulator)
 - [Simulators 介绍](https://pages.cs.wisc.edu/~arch/www/tools.html)
 - [riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim)
+- [emux | 物联网模拟](https://github.com/therealsaumil/emux)
 
 
 # 外挂技术
