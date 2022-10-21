@@ -14,3 +14,7 @@
 
 # mips
 - [QEMU-4-MIPS](https://github.com/PaulTomchik/QEMU-4-MIPS)
+- [QEMU MIPS](https://gist.github.com/sergev/1cb8abf6d64c63378cca1bed00bdd4d2)
+
+# ppc
+- [qemu-ppc-boot](https://github.com/legoater/qemu-ppc-boot)
