@@ -57,6 +57,7 @@
 - [mrustc](https://github.com/thepowersgang/mrustc)
 - [r8cc](https://github.com/r7kamura/r8cc)
 - [scc](https://github.com/8l/scc)
+- [gmqcc](https://github.com/graphitemaster/gmqcc)
 
 # 编译器的编译器
 - lex and yacc
@@ -304,7 +305,5 @@
 - [le_chiffre | csgo](https://github.com/Blaumaus/le_chiffre)
 - [External-Apex-Cheat](https://github.com/SurgeGotTappedAgain/External-Apex-Cheat)
 
-# Linux
-- [kernel_new_features | 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等](https://github.com/0voice/kernel_new_features)
 
-# Windows
+
