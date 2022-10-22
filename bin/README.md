@@ -71,6 +71,7 @@
 - [goldparser](http://www.goldparser.org/index.htm)
 - [grammatica](https://github.com/cederberg/grammatica)
 - [Smacc](https://books.pharo.org/booklet-Smacc/)
+- [ply](http://www.dabeaz.com/ply/)
 
 # 链接器
 - [mold | 一个现代的链接器](https://github.com/rui314/mold)
