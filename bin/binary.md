@@ -38,6 +38,8 @@ objdump -S -l hello > hello.lst
 # pin | Pin是Intel公司开发的动态二进制插桩框架，可以用于创建基于动态程序分析工具
 # binary_bakery | 将二进制文件(图像、字体等)转换成c++源代码，并在编译或运行时访问该数据
 
+# [incbin | Include binary files in C/C++](https://github.com/graphitemaster/incbin)
+
 # pmap
 
 # pstatck
