@@ -12,13 +12,11 @@
 - [异构编程](hp.md)
 - [3D](3d.md)
 - [UI](ui.md)
+- [API](api.md)
 - [USB](usb.md)
 - [NFC](nfc.md)
-- [BlueTooth](bt.md)
+- [BT](bt.md)
 - [CPU](CPU.md)
-- [API](api.md)
-- [dlib](dlib.md)
-- [opencv](opencv.md)
 
 # 系统
 - [Windows](windows.md)
@@ -27,6 +25,10 @@
 - [Android](android.md)
 - [IOS](ios.md)
 - [HarmonyOS](harmonyos.md)
+
+# 项目
+- [dlib](dlib.md)
+- [opencv](opencv.md)
 
 # 语言
 - [cpp](cpp.md)
@@ -54,6 +56,7 @@
 - [桌面工具](app_desk.md)
 - [游戏自动化](agt.md)
 - [自制游戏机](cg.md)
+- [单元测试自动化](aut.md)
 # 常用软件
 - [winscp](https://winscp.net/)
 - [winmerge](https://winmerge.org/)
