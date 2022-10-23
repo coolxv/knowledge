@@ -615,6 +615,7 @@
 - [EasyCV是一个涵盖多个领域的基于Pytorch的计算机视觉工具箱](https://github.com/alibaba/EasyCV)
 - [深度学习在图像处理中的应用教程](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
