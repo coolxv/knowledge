@@ -2,6 +2,7 @@
 # qemu
 - [User space emulator](https://www.qemu.org/docs/master/user/main.html)
 - [System Emulation](https://www.qemu.org/docs/master/system/index.html)
+- [qemu-user-static](https://github.com/multiarch/qemu-user-static)
 
 # arm
 - [clfs-arm | 预编译系统](https://github.com/LeeKyuHyuk/clfs-arm)
