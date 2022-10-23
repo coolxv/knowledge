@@ -18,6 +18,7 @@
 - [ECMAScript Next 系列教程](https://github.com/zerolab-fe/esnext-book)[ | JavaScript from ES5 to ESNext](https://flaviocopes.com/page/list-subscribed/)[ | 中文](https://juejin.cn/post/6844903799736238094)
 - [小程序白皮书](https://segmentfault.com/a/1190000020895758)
 - [tc39提案](https://github.com/tc39/proposals)[ | ecma262](https://tc39.es/ecma262/)
+- [现代 JavaScript 教程](https://github.com/javascript-tutorial/zh.javascript.info)
 # 基础库
 - [lodashjs](https://www.lodashjs.com/)
 - [underscorejs](https://www.underscorejs.com.cn/)
