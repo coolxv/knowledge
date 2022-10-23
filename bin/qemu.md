@@ -1,4 +1,7 @@
 
+# qemu
+- [User space emulator](https://www.qemu.org/docs/master/user/main.html)
+- [System Emulation](https://www.qemu.org/docs/master/system/index.html)
 
 # arm
 - [clfs-arm | 预编译系统](https://github.com/LeeKyuHyuk/clfs-arm)
