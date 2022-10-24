@@ -120,6 +120,9 @@
 - [The-Powder-Toy | 个经典的“落沙”物理沙盒的桌面版本，它模拟空气压力和速度以及热量](https://github.com/The-Powder-Toy/The-Powder-Toy)
 - [algodoo](http://www.algodoo.com/)
 
+# 机器人仿真
+- [webots](https://github.com/cyberbotics/webots)
+
 # 化学仿真
 - [蛋白质](https://fold.it/)
 - [psi4  | 量子化学计算库](https://github.com/psi4/psi4)
