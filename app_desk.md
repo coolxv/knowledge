@@ -35,6 +35,7 @@
 + [WGestures](https://github.com/yingDev/WGestures)
 + [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
 + [flameshot](https://github.com/flameshot-org/flameshot)
++ [rubick | 替换utools](https://github.com/rubickCenter/rubick)
 
 
 参考技术
