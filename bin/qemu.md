@@ -6,6 +6,7 @@
 - [DebianOnQEMU](https://github.com/wtdcode/DebianOnQEMU)
 - [qemu虚拟镜像文件格式：raw、qcow2](https://access.redhat.com/documentation/zh-cn/red_hat_virtualization/4.0/html/technical_reference/qcow2)
 - [cloud-image-ubuntu-from-scratch](https://github.com/mvallim/cloud-image-ubuntu-from-scratch)
+- [initramfs 与 initrd](https://zh.wikipedia.org/wiki/Initrd)
 
 # arm
 - [clfs-arm | 预编译系统](https://github.com/LeeKyuHyuk/clfs-arm)
