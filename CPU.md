@@ -24,9 +24,11 @@
 - 《RISC-V架构与嵌入式开发快速入门》
 - [《RISC-V 手册一本开源指令集的指南》](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)
 - [RISC-V Specifications](https://riscv.org/technical/specifications/)
+- [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)[ | 环境搭建](https://zhuanlan.zhihu.com/p/537461426)
 
 ## IP
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
+
 
 
 # MIPS
