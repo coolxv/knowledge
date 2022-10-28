@@ -38,6 +38,8 @@
 # MIPS
 ## 资料
 - [MIPS Architectures](https://www.mips.com/products/architectures/)
+- [Debian MIPS Port](https://wiki.debian.org/MIPSPort)
+- [mips64r2含义](https://sourceware.org/binutils/docs-2.39/as.html#MIPS-ISA)
 
 # ARM
 ## 资料
