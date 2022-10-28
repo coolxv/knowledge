@@ -24,6 +24,7 @@
 - [QEMU-4-MIPS](https://github.com/PaulTomchik/QEMU-4-MIPS)
 - [QEMU MIPS](https://gist.github.com/sergev/1cb8abf6d64c63378cca1bed00bdd4d2)
 - [protocol-debian-mips64el](https://gist.github.com/sergev/1cb8abf6d64c63378cca1bed00bdd4d2)
+- [qemu-mips](https://people.debian.org/~jcowgill/qemu-mips/)
 ```
 qemu-system-mips64el -cpu 5KEf -M malta -m 1024 -kernel ./vmlinuz-5.10.0-18-5kc-malta -initrd ./initrd.img-5.10.0-18-5kc-malta  -hda ./debian-bullseye-mips64el-malta.qcow2 -append "console=ttyS0 debug root=/dev/sda net.ifnames=0"  -nographic -nic user,model=virtio-net-pci,hostfwd=tcp::5555-:22
 
