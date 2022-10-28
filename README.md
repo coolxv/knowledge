@@ -90,6 +90,7 @@
 - [neovim](https://neovim.io/)
 - [ImHex | 二进制编辑](https://github.com/WerWolv/ImHex)
 - [optimizer | Windows 优化](https://github.com/hellzerg/optimizer)
+- [Wiz](https://diskanalyzer.com/)
 
 
 
