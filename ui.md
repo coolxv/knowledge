@@ -11,6 +11,7 @@
 - [finalcut | C++](https://github.com/gansm/finalcut)
 - [tui-rs | rust](https://github.com/fdehau/tui-rs)
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
+- [sclui](https://github.com/0x3alex/sclui)
 
 # ICON
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
