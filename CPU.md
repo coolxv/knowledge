@@ -42,6 +42,9 @@
 - [Debian MIPS Port](https://wiki.debian.org/MIPSPort)
 - [mips64r2含义](https://sourceware.org/binutils/docs-2.39/as.html#MIPS-ISA)
 
+# PowerPC
+- [Power Instruction Set Architecture (ISA)](https://www-50.ibm.com/systems/power/openpower/posting.xhtml?postingId=01F8EF905EC4A2CD85257EAF0069612D)
+
 # ARM
 ## 资料
 - 《ARM64 体系结构编程与实践》
