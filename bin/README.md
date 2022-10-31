@@ -248,6 +248,7 @@
 - [riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim)
 - [emux | 物联网模拟](https://github.com/therealsaumil/emux)
 - [ScottyCPU](https://github.com/ThenTech/ScottyCPU)[ | scott-cpu-assembler](https://github.com/alxyng/scott-cpu-assembler)[ | MCBE-Scott-CPU](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU)
+- [PowerPC64Simulator](https://github.com/umedaikiti/PowerPC64Simulator)
 
 
 # 模拟器
