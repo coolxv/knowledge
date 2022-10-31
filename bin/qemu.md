@@ -39,3 +39,4 @@ apt-get install manpages-dev
 ```
 # ppc
 - [qemu-ppc-boot](https://github.com/legoater/qemu-ppc-boot)
+- [debian powerpc](https://www.debian.org/ports/powerpc/)
