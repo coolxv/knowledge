@@ -43,7 +43,9 @@
 - [mips64r2含义](https://sourceware.org/binutils/docs-2.39/as.html#MIPS-ISA)
 
 # PowerPC
-- [Power Instruction Set Architecture (ISA)](https://www-50.ibm.com/systems/power/openpower/posting.xhtml?postingId=01F8EF905EC4A2CD85257EAF0069612D)
+## 资料
+- [Instruction Set Architecture (ISA) | IBM](https://www-50.ibm.com/systems/power/openpower/posting.xhtml?postingId=01F8EF905EC4A2CD85257EAF0069612D)
+- [Instruction Set Architecture | OpenPOWER](https://openpowerfoundation.org/specifications/isa/)
 
 # ARM
 ## 资料
