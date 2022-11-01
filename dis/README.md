@@ -31,3 +31,8 @@
 # 框架
 - [idle | 一个异步且可热加载的C++动态组件框架](https://github.com/Naios/idle)
 - [efsw | 跨平台文件监视通知库](https://github.com/SpartanJ/efsw/)
+
+
+# 性能
+- [pcm | Intel性能计数器监视器](https://github.com/intel/pcm)
+- [CoreFreq | 是一款为64位处理器设计的CPU监控软件](https://github.com/cyring/CoreFreq)
