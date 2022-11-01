@@ -265,6 +265,7 @@
 - [JsSpim | MIPS32 ](https://github.com/ShawnZhong/JsSpim)
 - [eurorack-cpu](https://github.com/katef/eurorack-cpu)
 - [cpu-emulator | 微型x86 CPU模拟器](https://github.com/tuz358/cpu-emulator)
+- [nand-2-tetris](https://github.com/ghaiklor/nand-2-tetris)
 
 
 # 模拟器
