@@ -25,6 +25,7 @@
 - [potato | 用于FPGA设计的一个简单的RISC-V处理器](https://github.com/skordal/potato)
 - [forth-cpu | 基于J1的第四种基于VHDL语言的CPU和芯片上系统](https://github.com/howerj/forth-cpu)
 - [microwatt | 一个用VHDL 2008编写的小型Open POWER ISA软内核](https://github.com/antonblanchard/microwatt)
+- [SRP16](https://github.com/RainingComputers/SRP16)
 
 # 单核CPU性能
 - [CPU 单核性能为什么难以提升？](https://www.zhihu.com/question/365639711)
