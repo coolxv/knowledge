@@ -250,6 +250,7 @@
 - [ScottyCPU](https://github.com/ThenTech/ScottyCPU)[ | scott-cpu-assembler](https://github.com/alxyng/scott-cpu-assembler)[ | MCBE-Scott-CPU](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU)
 - [PowerPC64Simulator](https://github.com/umedaikiti/PowerPC64Simulator)
 - [riscv-rust | 用Rust+WASM编写的RISC-V处理器仿真器](https://github.com/takahirox/riscv-rust)
+- [Kite | RISC-V指令集的体系结构模拟器](https://github.com/yonsei-icsl/Kite)
 
 
 # 模拟器
