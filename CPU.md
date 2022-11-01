@@ -12,6 +12,15 @@
   + 数据从内存单元传输到计算单元需要的功耗是计算本身的约200倍，因此真正用于计算的能耗和时间占比很低，数据在存储器与处理器之间的频繁迁移带来严重的传输功耗问题，称为“功耗墙”。
   + 打破两堵墙，存算一体芯片、光子芯片、量子芯片，未来可期。
 - 链接寄存器（Link Register,LR)当调用一个函数时，返回地址被自动保存到链接寄存器，在函数返回时有效。这使得快速进入和返回“叶”函数（不调用其它函数的函数）成为可能。如果函数是分支的一部分（即函数中又调用另一个函数），则链接寄存器必须入栈。
+- 7类指令集
+  + Reduced Instruction Set Computer (RISC)， 它的每条指令周期(CPI)比复杂指令集计算机(CISC)少。
+  + Complex Instruction Set Computer (CISC)，它比精简指令集计算机(RISC)每个程序的指令数更少。
+  + Minimal instruction set computers (MISC)，最小指令集计算机(MISC)是一种具有少量基本指令操作和相应操作码的处理器体系结构，其结果是更小的指令集，更小且更快的指令集解码单元，以及更快的单个指令的操作。缺点是较小的指令集总是有更多的顺序依赖性，减少了指令级的并行性。
+  + Very long instruction word (VLIW)，超长指令字(VLIW)是一种用于利用指令级并行(ILP)的指令集体系结构。
+  + Explicitly parallel instruction computing (EPIC)，显式并行指令计算(EPIC)是一种指令集，它允许微处理器通过编译器而不是复杂的模上电路来控制并行指令的执行，从而并行地执行软件指令。
+  + One instruction set computer (OISC)，单指令集计算机(OISC)是一种抽象机器，它只使用一条指令，不需要机器语言操作码，OISCs已被推荐为计算机体系结构教学指南，并已被用于结构计算研究的计算模型。
+  + Zero instruction set computer (ZISC)，零指令集计算机(ZISC)是传统意义上基于模式匹配和无(微)指令的计算机体系结构，这些芯片因其“突触”和“神经元”的数量被认为可与市场上的神经网络相媲美而闻名。
+
 # 单核CPU性能
 - [CPU 单核性能为什么难以提升？](https://www.zhihu.com/question/365639711)
 - [ 计算机系统性能评价与性能分析](https://foxsen.github.io/archbase/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E8%AF%84%E4%BB%B7%E4%B8%8E%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90.html)
