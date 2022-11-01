@@ -249,6 +249,7 @@
 - [emux | 物联网模拟](https://github.com/therealsaumil/emux)
 - [ScottyCPU](https://github.com/ThenTech/ScottyCPU)[ | scott-cpu-assembler](https://github.com/alxyng/scott-cpu-assembler)[ | MCBE-Scott-CPU](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU)
 - [PowerPC64Simulator](https://github.com/umedaikiti/PowerPC64Simulator)
+- [riscv-rust | 用Rust+WASM编写的RISC-V处理器仿真器](https://github.com/takahirox/riscv-rust)
 
 
 # 模拟器
