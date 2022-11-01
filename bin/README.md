@@ -251,6 +251,20 @@
 - [PowerPC64Simulator](https://github.com/umedaikiti/PowerPC64Simulator)
 - [riscv-rust | 用Rust+WASM编写的RISC-V处理器仿真器](https://github.com/takahirox/riscv-rust)
 - [Kite | RISC-V指令集的体系结构模拟器](https://github.com/yonsei-icsl/Kite)
+- [Ripes | RISC-V ISA的图形处理器模拟器和汇编编辑器](https://github.com/mortbopet/Ripes)
+- [mipt-mips](https://github.com/MIPT-ILab/mipt-mips)
+- [DRAMSim2](https://github.com/umd-memsys/DRAMSim2)
+- [rsm](https://github.com/rsms/rsm)
+- [RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator)
+- [mos6502](https://github.com/gianlucag/mos6502)
+- [Z80](https://github.com/redcode/Z80)
+- [6502](https://github.com/redcode/6502)
+- [qtrvsim | RISC-V CPU](https://github.com/cvut/qtrvsim)
+- [8086-emulator](https://github.com/ZubinGou/8086-emulator)
+- [Moira | Motorola 68000](https://github.com/dirkwhoffmann/Moira)
+- [JsSpim | MIPS32 ](https://github.com/ShawnZhong/JsSpim)
+- [eurorack-cpu](https://github.com/katef/eurorack-cpu)
+- [cpu-emulator | 微型x86 CPU模拟器](https://github.com/tuz358/cpu-emulator)
 
 
 # 模拟器
@@ -263,6 +277,7 @@
 - [ares | 多系统模拟](https://github.com/ares-emulator/ares)
 - [mame | 多用仿真框架](https://github.com/mamedev/mame)
 - [jsemu | js模拟器列表](https://github.com/fcambus/jsemu)
+- [Astro8-Computer](https://github.com/sam-astro/Astro8-Computer)
 
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
