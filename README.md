@@ -154,11 +154,6 @@
 # 宇宙仿真
 - [stellarium](https://github.com/Stellarium/stellarium)
 
-# 单片机仿真
-- [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
-- [stm32-emulator](https://github.com/nviennot/stm32-emulator)
-- [INO3D](https://github.com/everaldojunior98/INO3D)
-- [8bitworkshop](https://github.com/sehugg/8bitworkshop)
 
 
 
