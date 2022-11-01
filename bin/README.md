@@ -298,6 +298,7 @@
 - [Genesis-Plus-GX | 世嘉8/16位模拟器](https://github.com/ekeeke/Genesis-Plus-GX)
 - [mgba | mGBA Game Boy高级模拟器](https://github.com/mgba-emu/mgba)
 - [ppsspp | PSP 模拟器](https://github.com/hrydgard/ppsspp)
+- [mame](https://github.com/mamedev/mame)
 
 
 
