@@ -280,6 +280,15 @@
 - [jsemu | js模拟器列表](https://github.com/fcambus/jsemu)
 - [Astro8-Computer](https://github.com/sam-astro/Astro8-Computer)
 
+
+
+# 单片机仿真
+- [8085_emulator](https://github.com/FunIsDangerous/8085_emulator)
+- [stm32-emulator](https://github.com/nviennot/stm32-emulator)
+- [INO3D](https://github.com/everaldojunior98/INO3D)
+- [8bitworkshop](https://github.com/sehugg/8bitworkshop)
+- [v6502r](https://github.com/floooh/v6502r)
+
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
