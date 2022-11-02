@@ -21,6 +21,15 @@
   + One instruction set computer (OISC)，单指令集计算机(OISC)是一种抽象机器，它只使用一条指令，不需要机器语言操作码，OISCs已被推荐为计算机体系结构教学指南，并已被用于结构计算研究的计算模型。
   + Zero instruction set computer (ZISC)，零指令集计算机(ZISC)是传统意义上基于模式匹配和无(微)指令的计算机体系结构，这些芯片因其“突触”和“神经元”的数量被认为可与市场上的神经网络相媲美而闻名。
 
+- 多核处理器分类
+  + 运行模式
+    + AMP(非对称多处理)
+    + SMP(对称多理器)
+    + BMP(受约束多处理)
+  + 架构上
+    + 同构多核
+    + 异构多核(ARM9+DSP、Cortex-A9+FPGA……) 
+
 # 硬件
 - [potato | 用于FPGA设计的一个简单的RISC-V处理器](https://github.com/skordal/potato)
 - [forth-cpu | 基于J1的第四种基于VHDL语言的CPU和芯片上系统](https://github.com/howerj/forth-cpu)
