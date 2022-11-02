@@ -149,7 +149,7 @@
 
 
 # 生物仿真
-
+- [PhysarumSim | 绒泡菌模拟](https://github.com/PetrFlajsingr/PhysarumSim)
 
 # 宇宙仿真
 - [stellarium](https://github.com/Stellarium/stellarium)
