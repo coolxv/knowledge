@@ -261,6 +261,7 @@
 - [6502](https://github.com/redcode/6502)
 - [qtrvsim | RISC-V CPU](https://github.com/cvut/qtrvsim)
 - [8086-emulator](https://github.com/ZubinGou/8086-emulator)
+- [i8080](https://github.com/mohanson/i8080)
 - [Moira | Motorola 68000](https://github.com/dirkwhoffmann/Moira)
 - [JsSpim | MIPS32 ](https://github.com/ShawnZhong/JsSpim)
 - [eurorack-cpu](https://github.com/katef/eurorack-cpu)
