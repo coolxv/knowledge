@@ -29,7 +29,8 @@
   + 架构上
     + 同构多核
     + 异构多核(ARM9+DSP、Cortex-A9+FPGA……) 
-
+- 半导体晶体管及集成技术是计算机发展的物质基础, 布尔代数与图灵机通用计算模型成为计算机系统的理论基础, 冯 · 诺依曼 (von
+Neumann) 计算机结构为现代计算机设计奠定了技术基础。
 # 硬件
 - [potato | 用于FPGA设计的一个简单的RISC-V处理器](https://github.com/skordal/potato)
 - [forth-cpu | 基于J1的第四种基于VHDL语言的CPU和芯片上系统](https://github.com/howerj/forth-cpu)
