@@ -280,6 +280,7 @@
 - [mame | 多用仿真框架](https://github.com/mamedev/mame)
 - [jsemu | js模拟器列表](https://github.com/fcambus/jsemu)
 - [Astro8-Computer](https://github.com/sam-astro/Astro8-Computer)
+- [awesome-list](https://github.com/eiroca/awesome-list)
 
 
 
