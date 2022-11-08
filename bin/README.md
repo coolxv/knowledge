@@ -156,6 +156,7 @@
 - [keystone | 多平台多架构汇编器](https://github.com/keystone-engine/keystone)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
+- [AntiDBG | Windows反调试库](https://github.com/HackOvert/AntiDBG)
 
 
 # 二进制转换(Dynamic Binary Translation (DBT)、Static Binary Translation (SBT))
