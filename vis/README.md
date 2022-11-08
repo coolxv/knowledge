@@ -190,6 +190,7 @@
 - [Unvanquished](https://github.com/Unvanquished/Unvanquished)
 - [uMario_Jakowski | 马里奥](https://github.com/jakowskidev/uMario_Jakowski)
 - [Meridian59](https://github.com/Meridian59/Meridian59)
+- [awesome-game-remakes | 积极维护开源游戏的重制](https://github.com/radek-sprta/awesome-game-remakes)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
