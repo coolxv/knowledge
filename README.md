@@ -198,6 +198,7 @@
 
 # Awesome
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
+- [single_file_libs](https://github.com/nothings/single_file_libs)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
 - [awesome-c](https://github.com/oz123/awesome-c)
 - [awesome-cpp](https://github.com/uhub/awesome-cpp)
