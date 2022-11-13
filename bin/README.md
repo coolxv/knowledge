@@ -282,6 +282,7 @@
 - [jsemu | js模拟器列表](https://github.com/fcambus/jsemu)
 - [Astro8-Computer](https://github.com/sam-astro/Astro8-Computer)
 - [awesome-list](https://github.com/eiroca/awesome-list)
+- [apple2emu](https://github.com/allender/apple2emu)
 
 
 
