@@ -294,6 +294,8 @@
 - [8bitworkshop](https://github.com/sehugg/8bitworkshop)
 - [v6502r](https://github.com/floooh/v6502r)
 - [ImChip8](https://github.com/uafio/ImChip8)
+- [8080Emu](https://github.com/jdryg/8080Emu)
+- [RISCVEmu](https://github.com/jdryg/RISCVEmu)
 
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
