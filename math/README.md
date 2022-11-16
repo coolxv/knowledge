@@ -48,6 +48,7 @@
 - [Trilinos | 以解决大规模、复杂的多重物理量工程和科学问题](https://github.com/trilinos/Trilinos)
 - [hlslpp | 数学库使用hlsl语法与SSE/NEON支持](https://github.com/redorav/hlslpp)
 - [rtm | 实时的数学](https://github.com/nfrechette/rtm)
+- [eigen | 线性代数](https://gitlab.com/libeigen/eigen)
 # 画图
 - [fooplot](http://www.fooplot.com/)
 - [desmos](https://www.desmos.com/)
