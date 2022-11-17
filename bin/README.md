@@ -284,6 +284,7 @@
 - [awesome-list](https://github.com/eiroca/awesome-list)
 - [apple2emu](https://github.com/allender/apple2emu)
 - [caio](https://github.com/cdio/caio)
+- [DRAMsim3](https://github.com/umd-memsys/DRAMsim3)
 
 
 
