@@ -337,6 +337,7 @@
 - [ppsspp | PSP 模拟器](https://github.com/hrydgard/ppsspp)
 - [mame](https://github.com/mamedev/mame)
 - [Vita3K](https://github.com/Vita3K/Vita3K)
+- [boytacean](https://github.com/joamag/boytacean)
 
 
 
