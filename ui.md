@@ -37,7 +37,11 @@
 # Tauri(RUST)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [OhMyBox](https://github.com/lencx/OhMyBox)
-
+- [awesome-tauri](https://github.com/tauri-apps/awesome-tauri#open-source)
+- [wikit](https://github.com/ikey4u/wikit)
+- [Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App)
+# dioxus(RUST)
+- [dioxus](https://github.com/DioxusLabs/dioxus)
 # Wails(GO)
 - [wails](https://github.com/wailsapp/wails)
 # go-astilectron(GO)
