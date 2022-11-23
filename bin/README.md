@@ -79,6 +79,7 @@
 - [lld | llvm的链接器](https://lld.llvm.org/)
 - [ld | the GNU linker](https://www.gnu.org/software/binutils/)[ | Link Options](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html)
 - [link.exe | MSVC](https://docs.microsoft.com/en-us/cpp/build/reference/linker-options?view=msvc-170)
+- [从零开始实现链接器](https://ksco.cc/rvld/)
 # 汇编器
 - [asmrepl](https://github.com/tenderlove/asmrepl)
 - [nasm](https://github.com/netwide-assembler/nasm)
