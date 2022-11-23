@@ -368,6 +368,7 @@
 - [mlir-hlo](https://github.com/tensorflow/mlir-hlo)
 - [marian](https://github.com/marian-nmt/marian)
 - [tpu-mlir](https://github.com/sophgo/tpu-mlir)
+- [iree](https://github.com/iree-org/iree)
 # 模型推理
 - [TensorRT | 英伟达的推理引擎](https://github.com/NVIDIA/TensorRT)[ | TPAT](https://github.com/Tencent/TPAT)
 - [armnn | ARM嵌入式设备的inference框架](https://github.com/ARM-software/armnn)
