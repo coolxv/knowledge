@@ -93,7 +93,7 @@
 - 原则胜过模式，模式胜过库，库胜过框架
 - 解决复杂度，就是解决依赖和模糊
 ### 原则
-- [关注点分离](https://www.oschina.net/translate/art-of-separation-of-concerns?print)
+- [分而治之](https://www.oschina.net/translate/art-of-separation-of-concerns?print)
 - [化繁为简](https://tech.meituan.com/2019/09/19/common-method-of-reduce-complexity.html)
 
 
