@@ -58,6 +58,7 @@
 - [r8cc](https://github.com/r7kamura/r8cc)
 - [scc](https://github.com/8l/scc)
 - [gmqcc](https://github.com/graphitemaster/gmqcc)
+- [parsing-techniques | 解析技术》](https://github.com/duguying/parsing-techniques)
 
 # 编译器的编译器
 - lex and yacc
