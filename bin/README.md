@@ -76,7 +76,7 @@
 - [ply](http://www.dabeaz.com/ply/)
 
 # 链接器
-- [mold | 一个现代的链接器](https://github.com/rui314/mold)
+- [mold | 一个现代的链接器](https://github.com/rui314/mold)[ | sold](https://github.com/bluewhalesystems/sold)
 - [lld | llvm的链接器](https://lld.llvm.org/)
 - [ld | the GNU linker](https://www.gnu.org/software/binutils/)[ | Link Options](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html)
 - [link.exe | MSVC](https://docs.microsoft.com/en-us/cpp/build/reference/linker-options?view=msvc-170)
@@ -103,6 +103,7 @@
 - [w2c2 | 将WebAssembly代码翻译成C](https://github.com/turbolent/w2c2)
 - [cake | C23到C99转换](https://github.com/thradams/cake)
 - [cc-rs | 编译C/C++ /assembly到Rust库/应用程序](https://github.com/rust-lang/cc-rs)
+- [c99-to-c89](https://github.com/libav/c99-to-c89)
 
 # 混合编程
 - [xlang | 跨各种编程语言开发Windows应用程序](https://github.com/microsoft/xlang)
