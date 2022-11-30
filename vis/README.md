@@ -63,6 +63,7 @@
 - [ToyPathTracer](https://github.com/aras-p/ToyPathTracer)
 - [bigger](https://github.com/yuki-koyama/bigger)
 - [oryol](https://github.com/floooh/oryol)
+- [antons_opengl_tutorials_book](https://github.com/capnramses/antons_opengl_tutorials_book)
 
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
