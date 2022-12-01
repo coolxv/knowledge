@@ -271,7 +271,7 @@
 - [eurorack-cpu](https://github.com/katef/eurorack-cpu)
 - [cpu-emulator | 微型x86 CPU模拟器](https://github.com/tuz358/cpu-emulator)
 - [nand-2-tetris](https://github.com/ghaiklor/nand-2-tetris)
-
+- [CPM-Emulator](https://github.com/Marcussacapuces91/CPM-Emulator)
 
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
