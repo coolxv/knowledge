@@ -301,6 +301,7 @@
 - [ImChip8](https://github.com/uafio/ImChip8)
 - [8080Emu](https://github.com/jdryg/8080Emu)
 - [RISCVEmu](https://github.com/jdryg/RISCVEmu)
+- [crab-8](https://github.com/h-arry-smith/crab-8)
 
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
