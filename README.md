@@ -196,6 +196,7 @@
 - [Cascade | 基于节点的图形编辑器与GPU加速](https://github.com/ttddee/Cascade)
 - [t3 | 创建实时运动图形](https://github.com/still-scene/t3/)
 - [PhotoDemon | 便携式照片编辑器](https://github.com/tannerhelland/PhotoDemon)
+- [geometrize](https://github.com/Tw1ddle/geometrize)
 
 # Awesome
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
