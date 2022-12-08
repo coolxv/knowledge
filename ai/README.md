@@ -477,7 +477,8 @@
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
 
-
+# 图像生成
+- [stable-diffusion](https://github.com/CompVis/stable-diffusion)
 
 # 玩游戏
 - [malmo我的世界](https://github.com/microsoft/malmo)
