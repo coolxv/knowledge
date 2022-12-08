@@ -475,6 +475,7 @@
 
 # 对话类框架
 - [ParlAI](https://github.com/facebookresearch/ParlAI)
+- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
 
 
 
