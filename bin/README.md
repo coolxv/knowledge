@@ -59,6 +59,7 @@
 - [scc](https://github.com/8l/scc)
 - [gmqcc](https://github.com/graphitemaster/gmqcc)
 - [parsing-techniques | 解析技术》](https://github.com/duguying/parsing-techniques)
+- [codon](https://github.com/exaloop/codon)
 
 # 编译器的编译器
 - lex and yacc
