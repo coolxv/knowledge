@@ -180,13 +180,14 @@
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
 - [obs | 推流软件](https://github.com/obsproject/obs-studio)
 - [shotcut | 视频编辑](https://github.com/mltframework/shotcut)
-- [OpenShot | 视频编辑](https://github.com/OpenShot)
+- [OpenShot | 视频编辑](https://github.com/OpenShot)[ | openshot-qt](https://github.com/OpenShot/openshot-qt)
 - [olive | 非线性视频编辑器](https://github.com/olive-editor/olive)
 - [VLC](https://www.videolan.org/index.zh.html)
 - [ffmpeg](https://ffmpeg.org/)
 - [gstreamer](https://gstreamer.freedesktop.org/)
 - [xbmc](https://github.com/xbmc/xbmc)
 - [kdenlive](https://kdenlive.org/zh/)
+
 
 # 图像软件
 - [krita | 位图图像处理，代替PS](https://krita.org/zh/)
