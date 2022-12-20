@@ -69,6 +69,9 @@
 - [sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
 - [wxShade](https://github.com/aiekick/wxShade)
 
+# 着色器编译器
+- [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
+
 # 物理引擎
 - [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
 - [ZENO | 一个面向高性能物理计算而研发的可视化编程系统和平台](https://github.com/zenustech/zeno)
