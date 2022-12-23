@@ -68,6 +68,7 @@
 - [RapidGL](https://github.com/Shot511/RapidGL)
 - [sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter)
 - [wxShade](https://github.com/aiekick/wxShade)
+- [OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
