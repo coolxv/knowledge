@@ -58,7 +58,8 @@
 - [r8cc](https://github.com/r7kamura/r8cc)
 - [scc](https://github.com/8l/scc)
 - [gmqcc](https://github.com/graphitemaster/gmqcc)
-- [parsing-techniques | 解析技术》](https://github.com/duguying/parsing-techniques)
+- [parsing-techniques | 《解析技术》](https://github.com/duguying/parsing-techniques)
+- [tinyexpr](https://github.com/codtinyexpreplea/tinyexpr)[ | tinyexpr-plusplus](https://github.com/Blake-Madden/tinyexpr-plusplus)
 - [codon](https://github.com/exaloop/codon)
 
 # 编译器的编译器
