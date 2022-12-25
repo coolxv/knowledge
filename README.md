@@ -176,6 +176,7 @@
 - [lilypond  | 是一个音乐雕版印刷程序，用于在计算机上输出高质量的五线谱音乐，它把传统音乐雕版印刷的美学带到计算机打印输出系统](http://lilypond.org/)
 - [Mosaic](https://github.com/d3cod3/Mosaic)
 - [afx](https://github.com/viluon/afx)
+- [libnyquist](https://github.com/ddiakopoulos/libnyquist)
 
 # 视频软件
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
