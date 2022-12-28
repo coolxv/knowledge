@@ -216,3 +216,5 @@
 - [sleef](https://sleef.org/)
 - [coost](https://github.com/idealvin/coost)
 - [boost](https://www.boost.org/)
+- [gsl-lite](https://github.com/gsl-lite/gsl-lite)
+- [gsl](https://github.com/microsoft/gsl)
