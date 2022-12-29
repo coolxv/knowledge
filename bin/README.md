@@ -110,9 +110,18 @@
 # 混合编程
 - [xlang | 跨各种编程语言开发Windows应用程序](https://github.com/microsoft/xlang)
 
+# PE工具
+- [Pepper](https://github.com/jovibor/Pepper)
+- [pe-bear | PE格式分析工具](https://github.com/hasherezade/pe-bear-releases)
+- [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
+
+# ELF工具
+- [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
+# Mach-O工具
+
 # 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
-- [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
+
 - [poke | 可扩展的结构化二进制数据编辑器](http://www.jemarch.net/poke)
 - [ImHex | 一个适合逆向工程师的十六进制编辑器](https://github.com/WerWolv/ImHex)
 - [cutter | 由rizin提供动力的免费开源逆向工程平台](https://github.com/rizinorg/cutter)
@@ -130,7 +139,6 @@
 - [dynamorio | 动态二进制检测框架，用于开发动态程序分析工具](https://github.com/DynamoRIO/dynamorio)
 - [dyninst | 用于二进制检测、分析和修改的工具](https://github.com/dyninst/dyninst)
 - [pin | Pin是Intel公司开发的动态二进制插桩框架，可以用于创建基于动态程序分析工具](https://software.intel.com/content/www/us/en/develop/articles/pin-a-binary-instrumentation-tool-downloads.html)
-- [pe-bear | PE格式分析工具](https://github.com/hasherezade/pe-bear-releases)
 - [dll_to_exe | 转换DLL为EXE工具](https://github.com/hasherezade/dll_to_exe)
 - [binary_bakery | 将二进制文件(图像、字体等)转换成c++源代码，并在编译或运行时访问该数据](https://github.com/s9w/binary_bakery)
 - [elfparser | ELF分析工具](https://github.com/jacob-baines/elfparser/)
@@ -142,7 +150,6 @@
 - [PDBRipper | 从pdb文件中提取信息](https://github.com/horsicq/PDBRipper)
 - [maat | 符号执行](https://github.com/trailofbits/maat)
 - [raw_pdb | 读取Microsoft Program DataBase PDB文件](https://github.com/MolecularMatters/raw_pdb)
-- [TotalPE | PE文件查看器](https://github.com/zodiacon/TotalPE)
 - [goblin | 基于Rust](https://github.com/m4b/goblin)
 - [reko | 二进制编译器](https://github.com/uxmal/reko)
 - [bloaty | 查看代码的膨胀程度](https://github.com/google/bloaty)
