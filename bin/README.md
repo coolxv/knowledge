@@ -312,6 +312,7 @@
 - [8080Emu](https://github.com/jdryg/8080Emu)
 - [RISCVEmu](https://github.com/jdryg/RISCVEmu)
 - [crab-8](https://github.com/h-arry-smith/crab-8)
+- [tinyriscv](https://github.com/liangkangnan/tinyriscv)
 
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
