@@ -1,6 +1,7 @@
 # 算法资料
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [2021_algorithm_intern_information](https://github.com/HarleysZhang/2021_algorithm_intern_information)
+- [《A Complete Guide to Standard C++ Algorithms》](https://github.com/HappyCerberus/book-cpp-algorithms)
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
