@@ -93,6 +93,7 @@
 - [optimizer | Windows 优化](https://github.com/hellzerg/optimizer)
 - [Wiz](https://diskanalyzer.com/)
 - [Setzer](https://github.com/cvfosammmm/Setzer)
+- [pan-light](https://github.com/peterq/pan-light)
 
 
 
