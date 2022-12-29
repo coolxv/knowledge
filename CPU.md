@@ -77,6 +77,7 @@ Neumann) 计算机结构为现代计算机设计奠定了技术基础。如果�
 # ARM
 ## 资料
 - 《ARM64 体系结构编程与实践》
+- [《A Gentle Introduction to Assembly Language Programming》](https://github.com/pkivolowitz/asm_book)
 ## ARM分类
 - 指令集架构
 ```
