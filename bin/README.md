@@ -118,7 +118,7 @@
 # ELF工具
 - [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
 # Mach-O工具
-
+- [MachO-Kit](https://github.com/DeVaukz/MachO-Kit)
 # 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
 
