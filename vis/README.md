@@ -70,6 +70,7 @@
 - [wxShade](https://github.com/aiekick/wxShade)
 - [OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton)
 - [globjects](https://github.com/cginternals/globjects)
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
