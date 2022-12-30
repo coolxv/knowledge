@@ -18,4 +18,5 @@
 - Wgpu：是 WebGPU API 标准的 Rust 实现。WebGPU 是由 W3C 发布的规范，目标是让网页代码能安全可靠地访问 GPU 功能。其实现方式借鉴了 Vulkan API，会翻译到宿主硬件所用的各式 API（如 DirectX、Metal、Vulkan 等）上执行。
 - Bevy：基于 Rust 语言开发，数据驱动的游戏引擎。同时支持 2D 和 3D 图形渲染，以及图可视化的渲染。
 - Cube.js: cube.js 是开源的 BI 分析工具框架，其中的 Cube Store 用于分析查询的性能优化以及通过跨数据库连接的数据联合等附加功能，就是由 Rust 来实现的。
+- [rustviz](https://github.com/rustviz/rustviz)
 
