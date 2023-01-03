@@ -139,6 +139,7 @@
 - [《复杂性思维》](https://wizardforcel.gitbooks.io/think-comp-2e/content/1.html)
 - [科学革命的结构(第四版).托马斯.库恩](https://github.com/holyshell/Books/blob/master/%5B%E7%A7%91%E5%AD%A6%E9%9D%A9%E5%91%BD%E7%9A%84%E7%BB%93%E6%9E%84%5D(%E7%AC%AC%E5%9B%9B%E7%89%88).%E6%89%98%E9%A9%AC%E6%96%AF.%E5%BA%93%E6%81%A9.pdf)
 - 《计算之魂》
+- [《编程的本质》笔记](https://qiankunli.github.io/2018/07/14/nature_of_code.html)
 
 
 
