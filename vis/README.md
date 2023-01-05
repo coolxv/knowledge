@@ -71,6 +71,7 @@
 - [OpenGL_CMake_Skeleton](https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton)
 - [globjects](https://github.com/cginternals/globjects)
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
+- [godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
