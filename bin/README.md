@@ -100,6 +100,10 @@
 - [GoAsm | The Go tools for Windows + Assembler,还包括GoLink.exe、GoRC.exe、GoBug](http://www.godevtool.com/)
 - [xbyak | a JIT assembler for x86(IA-32)/x64(AMD64, x86-64)](https://github.com/herumi/xbyak)
 
+# 调式器
+- [BugChecker](https://github.com/vitoplantamura/BugChecker)
+- [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
+- [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
 
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
@@ -123,15 +127,12 @@
 - [MachO-Kit](https://github.com/DeVaukz/MachO-Kit)
 # 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
-
 - [poke | 可扩展的结构化二进制数据编辑器](http://www.jemarch.net/poke)
 - [ImHex | 一个适合逆向工程师的十六进制编辑器](https://github.com/WerWolv/ImHex)
 - [cutter | 由rizin提供动力的免费开源逆向工程平台](https://github.com/rizinorg/cutter)
 - [radare2 | 一个逆向工程命令行集和框架](https://github.com/radareorg/radare2)
 - [ghidra | NSA开源逆向工程工具](https://github.com/NationalSecurityAgency/ghidra)
 - [miasm | Python 中的逆向工程框架](https://github.com/cea-sec/miasm)
-- [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
-- [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
 - [pwndbg | 轻松利用GDB开发和逆向工程](https://github.com/pwndbg/pwndbg)
 - [microsoft-pdb | Microsoft关于PDB格式的信息](https://github.com/microsoft/microsoft-pdb)
 - [patchkit | 二进制打补丁](https://github.com/lunixbochs/patchkit)
