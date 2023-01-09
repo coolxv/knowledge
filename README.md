@@ -44,6 +44,12 @@
 - [html](html.md)
 - [bash](sh.md)
 - [sql](sql.md)
+
+# 未来语言
+- [carbon-lang](https://github.com/carbon-language/carbon-lang)
+- [val](https://github.com/val-lang/val)
+- [cppfront](https://github.com/hsutter/cppfront)
+
 # 记录
 - [概念](concepts.md)
 - [课程](cs.md)
