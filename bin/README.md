@@ -191,6 +191,7 @@
 - [llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
 - [revng](https://github.com/revng/revng)
 - [fcd](https://github.com/fay59/fcd)
+- [dynarmic](https://github.com/merryhime/dynarmic)
 
 
 # 指令集
