@@ -562,6 +562,7 @@
 ## 运动学分析
 
 # 资料
+- [鸢尾花书：从加减乘除到机器学习，全套7册](https://github.com/Visualize-ML)
 - [李沐《动手学深度学习》](http://zh.d2l.ai/)
 - [《机器学习系统：设计和实现》](https://github.com/openmlsys/openmlsys-zh)
 - [吴恩达-deeplearning.ai深度学习课程视频](https://study.163.com/provider/2001053000/course.htm)[ | 笔记1](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)[ | 笔记2](https://github.com/fengdu78/deeplearning_ai_books)[ | deeplearning.ai](deeplearning.ai)
