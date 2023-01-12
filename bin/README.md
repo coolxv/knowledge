@@ -63,6 +63,7 @@
 - [codon](https://github.com/exaloop/codon)
 - [tinylisp](https://github.com/Robert-van-Engelen/tinylisp)
 - [c0](https://github.com/gingerBill/c0)
+- [clang_libraries_companion](https://github.com/mdadams/clang_libraries_companion)
 
 # 编译器的编译器
 - lex and yacc
