@@ -18,3 +18,4 @@
 - [openfpga-SNES](https://github.com/agg23/openfpga-SNES)
 - [arcade-galaga](https://github.com/opengateware/arcade-galaga)
 - [esplay_micro_hardware](https://github.com/pebri86/esplay_micro_hardware)
+- [MDEC](https://github.com/Laxer3a/MDEC)
