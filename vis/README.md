@@ -107,6 +107,7 @@
 - [kajiya | rust](https://github.com/EmbarkStudios/kajiya)
 - [appleseed](https://github.com/appleseedhq/appleseed)
 - [Castle-Engine](https://github.com/benanil/Castle-Engine)
+- [pbrt-v4](https://github.com/mmp/pbrt-v4)
 
 # 游戏引擎
 - [Overload](https://github.com/adriengivry/Overload)
