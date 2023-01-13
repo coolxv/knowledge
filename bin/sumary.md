@@ -43,7 +43,7 @@
 | 写-写乱序    |          不允许|  允许 |
 | 原子操作-读写乱序 |      不允许 | 允许 |
 
-- IEEE 754、原码、补码、阶码、移码
+- 编码的三大错觉，我懂浮点数、我懂Unicode、我懂时区。IEEE 754、原码、补码、阶码、移码
 - [API/ABI changes review for glibc](https://abi-laboratory.pro/?view=timeline&l=glibc)
 - [Linux and glibc API changes](https://man7.org/tlpi/api_changes/)
 - [Linux Foundation Referenced Specifications](https://refspecs.linuxfoundation.org/)
