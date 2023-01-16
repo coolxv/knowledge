@@ -60,8 +60,10 @@ Neumann) 计算机结构为现代计算机设计奠定了技术基础。如果�
 
 ## IP
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
+- [VeriGPU](https://github.com/hughperkins/VeriGPU)
 
-
+## 工具
+- [force-riscv](https://github.com/openhwgroup/force-riscv)
 
 # MIPS
 ## 资料
