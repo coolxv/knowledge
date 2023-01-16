@@ -288,6 +288,7 @@
 - [CPM-Emulator](https://github.com/Marcussacapuces91/CPM-Emulator)
 - [blink](https://github.com/jart/blink)
 - [ntvcm](https://github.com/davidly/ntvcm)
+- [rvemu-for-book](https://github.com/d0iasm/rvemu-for-book)
 
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
