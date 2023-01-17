@@ -622,6 +622,7 @@
 - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)
 - [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem)
+- [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
