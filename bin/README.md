@@ -306,6 +306,7 @@
 - [caio](https://github.com/cdio/caio)
 - [DRAMsim3](https://github.com/umd-memsys/DRAMsim3)
 - [6502-micro](https://github.com/patrickgue/6502-micro)
+- [wine-ce](https://github.com/fan-wenjie/wine-ce)
 
 
 
