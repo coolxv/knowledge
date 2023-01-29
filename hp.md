@@ -1,1 +1,2 @@
 - [Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
+- [GeometricTools](https://github.com/davideberly/GeometricTools)
