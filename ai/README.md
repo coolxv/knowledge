@@ -623,6 +623,8 @@
 - [AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)
 - [DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem)
 - [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained)
+- [KuiperInfer](https://github.com/zjhellofss/KuiperInfer)
+- [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
