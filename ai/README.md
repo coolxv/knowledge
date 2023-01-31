@@ -422,6 +422,7 @@
 # 视频提取文字
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 - [RapidVideOCR](https://github.com/SWHL/RapidVideOCR)
+- [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
