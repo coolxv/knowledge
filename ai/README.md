@@ -625,6 +625,7 @@
 - [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [KuiperInfer](https://github.com/zjhellofss/KuiperInfer)
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
