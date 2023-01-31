@@ -423,6 +423,7 @@
 - [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
 - [RapidVideOCR](https://github.com/SWHL/RapidVideOCR)
 - [Text-Grab](https://github.com/TheJoeFin/Text-Grab)
+- [video2pdf](https://github.com/kaushikj/video2pdf)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
