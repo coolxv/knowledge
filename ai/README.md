@@ -528,6 +528,7 @@
 - [ML x ART](https://mlart.co/)
 - [incoder | 代码补全](https://github.com/dpfried/incoder)
 - [lego_release | 拼乐高](https://github.com/Relento/lego_release)
+- [paper2gui](https://github.com/Baiyuetribe/paper2gui)
 ## 代码转换应用
 - [TransCoder](https://github.com/facebookresearch/TransCoder)
 
