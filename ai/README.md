@@ -626,6 +626,7 @@
 - [KuiperInfer](https://github.com/zjhellofss/KuiperInfer)
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+- [tuning_playbook](https://github.com/google-research/tuning_playbook)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
