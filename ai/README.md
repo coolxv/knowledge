@@ -418,6 +418,10 @@
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [cnocr](https://github.com/breezedeus/cnocr)
 - [awesome-ocr](https://github.com/wanghaisheng/awesome-ocr)
+
+# 视频提取文字
+- [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)
+- [RapidVideOCR](https://github.com/SWHL/RapidVideOCR)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
