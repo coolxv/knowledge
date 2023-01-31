@@ -79,7 +79,7 @@
 - [devtools-x](https://github.com/fosslife/devtools-x)
 - [notepad++](https://notepad-plus-plus.org/)
 - [NotepadNext](https://github.com/dail8859/NotepadNext)
-- [everything](https://www.voidtools.com/zh-cn/)
+- [everything](https://www.voidtools.com/zh-cn/)[ | EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 - [listary](https://www.listary.com/)
 - [git](https://git-scm.com/)
 - [tortoisegit](https://tortoisegit.org/)
