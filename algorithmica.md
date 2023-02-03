@@ -3,6 +3,7 @@
 - [2021_algorithm_intern_information](https://github.com/HarleysZhang/2021_algorithm_intern_information)
 - [《A Complete Guide to Standard C++ Algorithms》](https://github.com/HappyCerberus/book-cpp-algorithms)
 - [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+- [Doocs](https://github.com/doocs)
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
