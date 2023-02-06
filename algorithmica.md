@@ -4,6 +4,7 @@
 - [《A Complete Guide to Standard C++ Algorithms》](https://github.com/HappyCerberus/book-cpp-algorithms)
 - [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 - [Doocs](https://github.com/doocs)
+- [algorithm-stone](https://github.com/acm-clan/algorithm-stone)
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
