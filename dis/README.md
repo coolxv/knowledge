@@ -4,6 +4,8 @@
 - [Disruptor-cpp | LMAX Disruptor C++ 实现](https://github.com/Abc-Arbitrage/Disruptor-cpp)
 - [seastar | 用于现代硬件上的高性能服务器应用程序的C++框架](http://seastar.io/)
 - [libhv](https://github.com/ithewei/libhv)
+- [xdp-project](https://github.com/xdp-project)
+- [dpdk](https://www.dpdk.org/)
 
 # 模板
 - [inja](https://github.com/pantor/inja)
