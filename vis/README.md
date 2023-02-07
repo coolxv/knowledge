@@ -72,6 +72,7 @@
 - [globjects](https://github.com/cginternals/globjects)
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
 - [godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter)
+- [Audio-Visualizer](https://github.com/indrajithi/Audio-Visualizer)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
