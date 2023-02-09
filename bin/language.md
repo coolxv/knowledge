@@ -19,12 +19,13 @@ graph TB
 A[数学思维] --> B[计算思维]
 A --> C[工程思维]
 A --> D[系统思维]
-
+A --> E[设计思维]
 ```
 - [数学思维（数据的编码、解码、表示、状态）](http://suquark.github.io/lecture/2017/08/01/cs_from0_state_and_encode.html)[ | 编码理论（编码理论与信息论、数理统计、概率论、随机过程、线性代数、近世代数、数论、有限几何和组合分析等学科有密切关系，已成为应用数学的一个分支。）](https://www.baike.com/wiki/%E7%BC%96%E7%A0%81%E7%90%86%E8%AE%BA/489899?view_id=x3zmbj0kksg00)
 - [计算思维 （递归、分治、平衡）](http://suquark.github.io/lecture/2016/09/16/computational_thinking.html)[  | 2](http://suquark.github.io/lecture/2016/09/16/computational_thinking.html)[ | 3](http://suquark.github.io/lecture/2017/08/15/the_computational_thinking.html)[ | 4 ](https://developer.aliyun.com/article/988716)[ | 5 ](https://www.cnblogs.com/LittleHann/p/15739802.html)
-- 工程思维，是一种实践思想，例如基础学科中的物理化学，都是依托工程思维衍生而来的。从实践中发现理论，证明理论。
-- 系统思维
+- [工程思维](https://www.developers.pub/article/1095524)，是一种实践思想，例如基础学科中的物理化学，都是依托工程思维衍生而来的。从实践中发现理论，证明理论。
+- [系统思维](https://www.woshipm.com/pd/995831.html)
+- [设计思维](https://cloud.tencent.com/developer/article/2113755)
 - [计算机思维和数学思维的本质区别](https://developer.aliyun.com/article/988716)
 - [计算机边界](https://www.changhai.org/articles/science/mathematics/hilbert10/1.php)
 - 道、法、术、器
