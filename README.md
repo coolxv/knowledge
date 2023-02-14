@@ -114,6 +114,9 @@
 - [hashcat | 密码破解工具](https://github.com/hashcat/hashcat)
 - [scc | 代码统计](https://github.com/boyter/scc)
 
+# 工业辅助
+- [kicad | 开源电子设计自动化 (EDA) 套件](https://www.kicad.org/download/)
+
 # 机械仿真
 - [Pyslvs-UI | 连杆运动仿真](https://github.com/KmolYuan/Pyslvs-UI)
 - [solvespace | 参数化2D / 3D CAD](https://github.com/solvespace/solvespace)
