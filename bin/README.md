@@ -110,6 +110,7 @@
 
 # 预处理
 - [simplecpp](https://github.com/danmar/simplecpp)
+- [macros](https://github.com/blackhole89/macros)
 
 # 语言转换
 - [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
