@@ -137,6 +137,7 @@
 - [irrlicht](https://github.com/minetest/irrlicht)
 - [Fyrox](https://github.com/FyroxEngine/Fyrox)
 - [gamestudio](https://github.com/ensisoft/gamestudio)
+- [Ambient](https://github.com/AmbientRun/Ambient)
 
 # 图形处理
 - [Nvidia Image Scaling（NIS） | 英伟达开发的图像缩放技术](https://github.com/NVIDIAGameWorks/NVIDIAImageScaling)
