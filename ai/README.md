@@ -682,6 +682,8 @@
 - [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
 - [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention)
 - [Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 
 # Pytorch 相关
