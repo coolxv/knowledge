@@ -215,6 +215,9 @@
 - [geometrize](https://github.com/Tw1ddle/geometrize)
 - [Pinta](https://github.com/PintaProject/Pinta)
 
+# 排版软件
+- [typst](https://github.com/typst/typst)
+
 # Awesome
 - [awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 - [single_file_libs](https://github.com/nothings/single_file_libs)
