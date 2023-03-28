@@ -38,3 +38,7 @@
 # 性能
 - [pcm | Intel性能计数器监视器](https://github.com/intel/pcm)
 - [CoreFreq | 是一款为64位处理器设计的CPU监控软件](https://github.com/cyring/CoreFreq)
+
+
+# 资料
+- [高并发的哲学原理](https://github.com/johnlui/PPHC)
