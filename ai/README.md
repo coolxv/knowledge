@@ -690,6 +690,7 @@
 - [Physics-Based-Deep-Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
 
 
 # Pytorch 相关
