@@ -555,6 +555,7 @@
 - [《机器学习：概率视角》 | MLAPP](https://github.com/qiguming/MLAPP_CN_CODE)
 - [《统计学习基础》 | ESL](https://github.com/szcf-weiya/ESL-CN/)
 - [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
+- [数理统计讲义-何志坚](https://bookdown.org/hezhijian/book/intro.html)
 
 ## 最优化方法
 ### 凸优化
