@@ -125,7 +125,7 @@
 此外，AI还涉及到一个关键因素，就是如何实现最优的智能决策（例如AI打游戏）。一些理论和实证研究已经发现，神经网络就非常善于在复杂的条件下做出最优的决策。神经网络也不是统计学范畴。
 应该说，统计学是人工智能若干重要基础之一，但远不是全部。AI的核心能力还来自于数学（博弈论、数值分析、逻辑学等）、运筹学（优化）、计算机科技（分布式计算、并行计算、CPU、NPU）、神经科学，甚至心理学。
 - 人工智能的历史与未来划分为了三个阶段：手工知识（Handcrafted Knowledge）阶段、 统计学习（Statistical Learning）阶段、语境顺应（Contextual Adaptation）阶段
-
+- 已知一个数据产生过程（随机分布，随机过程，...）对观测数据作出推测的是概率学。已知观测数据（样本）对数据产生过程作出推测的是统计学。数理统计可以理解为统计里的数学部分，即是理论基础。
 # 技术平台
 - [AMD ROCm | HIP](https://www.amd.com/zh-hans/graphics/servers-solutions-rocm-hpc)
 - [Intel oneAPI toolkit | DPC++](https://software.intel.com/content/www/us/en/develop/articles/installation-guide-for-intel-oneapi-toolkits.html)
