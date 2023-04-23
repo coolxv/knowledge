@@ -13,3 +13,4 @@
 
 # 项目
 - [rapidsai](https://github.com/rapidsai)
+- [polars](https://github.com/pola-rs/polars)
