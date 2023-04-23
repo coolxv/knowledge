@@ -79,6 +79,7 @@ conda update anaconda
 - [poetry](https://python-poetry.org/)
 - [pdm](https://github.com/pdm-project/pdm/)[ | pdm 使用精要](https://aber.sh/articles/pdm/)
 - [pipx](https://github.com/pypa/pipx)
+- [rye](https://github.com/mitsuhiko/rye)
 - [Binder | 免费的Jupyter](https://mybinder.org/)
 - [nbviewer | 免费的Jupyter](https://nbviewer.org/)
 - [Numba | 局部JIT](https://numba.pydata.org/)
