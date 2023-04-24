@@ -68,7 +68,6 @@
 # 常用软件
 - [winscp](https://winscp.net/)
 - [winmerge](https://winmerge.org/)
-- [Wireshark](https://www.wireshark.org/)
 - [mobaxterm](https://mobaxterm.mobatek.net/)
 - [WindTerm](https://github.com/kingToolbox/WindTerm)
 - [wezterm](https://github.com/wez/wezterm)
@@ -103,7 +102,9 @@
 - [Setzer](https://github.com/cvfosammmm/Setzer)
 - [pan-light](https://github.com/peterq/pan-light)
 
-
+# 网络工具
+- [termshark](https://github.com/gcla/termshark)
+- [Wireshark](https://www.wireshark.org/)
 
 # 有用软件
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
