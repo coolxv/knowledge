@@ -15,4 +15,7 @@
 - 不可能事件
 
 ## 1.3 事件的相互关系及运算
-- [包含、等于、并、交、差、非](https://binism.github.io/blog/2016/09/05/Probability-theory-notes/)[ | 2](https://blog.csdn.net/qq_42902997/article/details/127978022)
+- [包含、等于、并、交、差、非](https://binism.github.io/blog/2016/09/05/Probability-theory-notes/)
+
+## 1.4 频率和概率
+- [频率、概率](https://blog.csdn.net/qq_42902997/article/details/127978022)
