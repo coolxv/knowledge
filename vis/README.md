@@ -211,6 +211,7 @@
 - [FSHistory](https://github.com/s-macke/FSHistory)
 - [duelyst](https://github.com/open-duelyst/duelyst)
 - [veloren](https://github.com/veloren/veloren)
+- [AirSim](https://github.com/microsoft/AirSim)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
