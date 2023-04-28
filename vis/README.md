@@ -210,6 +210,7 @@
 - [awesome-game-remakes | 积极维护开源游戏的重制](https://github.com/radek-sprta/awesome-game-remakes)
 - [FSHistory](https://github.com/s-macke/FSHistory)
 - [duelyst](https://github.com/open-duelyst/duelyst)
+- [veloren](https://github.com/veloren/veloren)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
