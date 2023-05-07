@@ -77,6 +77,8 @@
 - [DevToys](https://github.com/veler/DevToys)
 - [devtools-x](https://github.com/fosslife/devtools-x)
 - [notepad++](https://notepad-plus-plus.org/)
+- [notepad--](https://gitee.com/cxasm/notepad--)
+- [notepanda](https://github.com/ChungZH/notepanda)
 - [NotepadNext](https://github.com/dail8859/NotepadNext)
 - [everything](https://www.voidtools.com/zh-cn/)[ | EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 - [listary](https://www.listary.com/)
