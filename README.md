@@ -117,6 +117,15 @@
 - [hashcat | 密码破解工具](https://github.com/hashcat/hashcat)
 - [scc | 代码统计](https://github.com/boyter/scc)
 
+# 代码辅助
+- [CodeGeeX](https://github.com/THUDM/CodeGeeX)
+- [Codeium](https://codeium.com/)
+- [Cursor](https://github.com/getcursor/cursor)
+- [SQL Chat](https://github.com/sqlchat/sqlchat)
+- [CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/)
+- [IntelliCode](https://visualstudio.microsoft.com/zh-hans/services/intellicode/)
+- [Tabnine](https://www.tabnine.com/)
+
 # 工业辅助
 - [kicad | 开源电子设计自动化 (EDA) 套件](https://www.kicad.org/download/)
 
