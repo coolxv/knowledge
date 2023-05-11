@@ -126,6 +126,7 @@
 - [IntelliCode](https://visualstudio.microsoft.com/zh-hans/services/intellicode/)
 - [Tabnine](https://www.tabnine.com/)
 - [bito](https://bito.ai/)
+- [aiXcoder](https://www.aixcoder.com/en/#/)
 
 # 工业辅助
 - [kicad | 开源电子设计自动化 (EDA) 套件](https://www.kicad.org/download/)
