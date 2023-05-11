@@ -2,6 +2,7 @@
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
+- [privateGPT](https://github.com/imartinez/privateGPT)
 
 
 # 名词解释
