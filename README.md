@@ -10,6 +10,7 @@
 - [可视化](vis/README.md)
 - [分布式](dis/README.md)
 - [安全](sec.md)
+- [扩展](ext.md)
 - [3D](3d.md)
 - [UI](ui.md)
 - [API](api.md)
