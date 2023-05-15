@@ -118,6 +118,8 @@
 - [scc | 代码统计](https://github.com/boyter/scc)
 
 # 代码辅助
+- [copilot](https://github.com/features/copilot/)
+- [copilothub](https://app.copilothub.ai/home)
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX)
 - [Codeium](https://codeium.com/)
 - [Cursor](https://github.com/getcursor/cursor)
@@ -127,6 +129,9 @@
 - [Tabnine](https://www.tabnine.com/)
 - [bito](https://bito.ai/)
 - [aiXcoder](https://www.aixcoder.com/en/#/)
+- [safurai](safurai.com)
+- [gitfluence](gitfluence.com)
+- [spellbox](https://spellbox.app/)
 
 # 工业辅助
 - [kicad | 开源电子设计自动化 (EDA) 套件](https://www.kicad.org/download/)
