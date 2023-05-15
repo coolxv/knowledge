@@ -296,6 +296,7 @@
 - [ntvcm](https://github.com/davidly/ntvcm)
 - [rvemu-for-book](https://github.com/d0iasm/rvemu-for-book)
 - [hangover](https://github.com/AndreRH/hangover)
+- [simple-computer](https://github.com/djhworld/simple-computer)
 
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
