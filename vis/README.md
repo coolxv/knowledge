@@ -1,3 +1,10 @@
+# Shader Languages
+[介绍](https://alain.xyz/blog/a-review-of-shader-languages)
+- HLSL(High Level Shading Language	DirectX	Both dxc and glslang support HLSL → SPIR-V)
+- GLSL(OpenGL Shading Language	Vulkan / OpenGL	GLSL → SPIR-V → HLSL)
+- MSL(Metal Shading Language	Metal	SPIR-V → MSL via SPIR-V Cross)
+- WGSL(WebGPU Shading Language	WebGPU	naga or tint → SPIR-V)
+
 # 着色器
 - [SHADERed | 可实时预览的着色器编辑器](https://github.com/dfranx/SHADERed)
 - [renderdoc | 一个图形调试器](https://github.com/baldurk/renderdoc)
