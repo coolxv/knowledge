@@ -36,6 +36,9 @@
 
 # Flutter(Dart)
 
+# Niva
+- [niva](https://github.com/bramblex/niva)
+
 # Tauri(RUST)
 - [tauri](https://github.com/tauri-apps/tauri)
 - [OhMyBox](https://github.com/lencx/OhMyBox)
