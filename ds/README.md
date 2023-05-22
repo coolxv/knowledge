@@ -15,7 +15,7 @@
 - [rapidsai](https://github.com/rapidsai)
 
 # Python
-
+- [数据分析教程](https://www.gairuo.com/p/data-analysis-tutorial)
 # Go
 
 # Rust
