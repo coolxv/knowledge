@@ -372,7 +372,8 @@
 - [Vita3K](https://github.com/Vita3K/Vita3K)
 - [boytacean](https://github.com/joamag/boytacean)
 
-
+# 小型OS系统
+- [egos-2000](https://github.com/yhzhang0128/egos-2000)
 
 
 # 外挂技术
