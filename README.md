@@ -76,6 +76,7 @@
 - [zellij](https://github.com/zellij-org/zellij)
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [DevToys](https://github.com/veler/DevToys)
+- [devhome](https://github.com/microsoft/devhome)
 - [winutil](https://github.com/ChrisTitusTech/winutil)
 - [devtools-x](https://github.com/fosslife/devtools-x)
 - [notepad++](https://notepad-plus-plus.org/)
