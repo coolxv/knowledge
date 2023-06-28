@@ -1,4 +1,8 @@
 
+# gdb
+- set exec-wrapper env 'LD_LIBRARY_PATH'
+- LD_DEBUG=libs gdb xxx
+
 # ld | the GNU linker.
 # as | the GNU assembler.
 # addr2line | Converts addresses into filenames and line numbers.
@@ -26,6 +30,9 @@ objdump -S -l hello > hello.lst
 # readelf | Displays information from any ELF format object file.
 # size | Lists the section sizes of an object or archive file.
 # strings | Lists printable strings from files.
+- strings libstdc++.so.6 | grep GLIBCXX
+- strings libstdc++.so.6 | grep CXXABI
+
 # strip | Discards symbols.
 # windmc | A Windows compatible message compiler.
 # windres | A compiler for Windows resource files.
@@ -54,7 +61,8 @@ objdump -S -l hello > hello.lst
 # patchelf
 - 设置 interpreter
 - 设置 soname
-- 设置 rpath
+
+- 设置 rpath, patchelf --set-rpath '$ORIGIN' xxx.so
 - 设置 needed library
 
 
