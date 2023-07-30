@@ -556,6 +556,7 @@
 - [线性代数 李宏毅](https://www.bilibili.com/video/BV1rL4y1J7Eh/?spm_id_from=333.788.recommend_more_video.0)
 - [7分钟带你入门线性代数+微积分](https://www.bilibili.com/video/BV1yW41167ax/?spm_id_from=333.788.recommend_more_video.1)
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)
+- [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
 ## 概率论与统计学
 - [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)[ | 4](https://github.com/hktxt/Learn-Statistical-Learning-Method)[ | 5](https://github.com/SmirkCao/Lihang)[ | 6](https://github.com/librauee/Statistical-Learning)
 - [《模式识别与机器学习》 | PRML](https://www.080910t.com/wp-content/uploads/2020/03/PRML-Chinese-Edition.pdf)[ | PRML笔记](https://github.com/WYHA/PRML_Note)[ | PRML源码](https://github.com/ctgk/PRML)
@@ -563,6 +564,7 @@
 - [《统计学习基础》 | ESL](https://github.com/szcf-weiya/ESL-CN/)
 - [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
 - [数理统计讲义-何志坚](https://bookdown.org/hezhijian/book/intro.html)
+- [Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
 
 ## 最优化方法
 ### 凸优化
