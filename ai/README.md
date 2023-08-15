@@ -508,6 +508,7 @@
 - [自动驾驶](https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games)
 - [MetaGym](https://github.com/PaddlePaddle/MetaGym)
 - [GoBigger](https://github.com/opendilab/GoBigger)
+- [generative_agents](https://github.com/joonspk-research/generative_agents)
 # 例子
 - [在一分钟内实现一个图形分类应用](https://tinyms.readthedocs.io/zh_CN/latest/quickstart/quickstart_in_one_minute.html)
 - [基于《集体智慧编程》中提供的神经网络代码](https://github.com/FlorianMuellerklein/Machine-Learning/blob/master/Old/BackPropagationNN.py)
