@@ -5,6 +5,7 @@
 - [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 - [Doocs](https://github.com/doocs)
 - [algorithm-stone](https://github.com/acm-clan/algorithm-stone)
+- [The Algorithms](https://the-algorithms.com/)
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
