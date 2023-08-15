@@ -654,6 +654,7 @@
 - [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - [tuning_playbook](https://github.com/google-research/tuning_playbook)
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/tree/master)
 
 # Awesome
 - [AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
