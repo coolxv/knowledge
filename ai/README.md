@@ -472,6 +472,7 @@
 - [DETR | End-to-End Object Detection With Transformers](https://alcinos.github.io/detr_page/)
 - [composer](https://github.com/mosaicml/composer)
 - [EasyCV](https://github.com/alibaba/EasyCV)
+- [tinygrad](https://github.com/tinygrad/tinygrad)
 
 # 强化学习
 - [trfl](https://github.com/deepmind/trfl)
