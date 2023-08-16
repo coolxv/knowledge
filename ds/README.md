@@ -13,6 +13,7 @@
 
 # 项目
 - [rapidsai](https://github.com/rapidsai)
+- [visualpython](https://github.com/visualpython/visualpython)
 
 # Python
 - [数据分析教程](https://www.gairuo.com/p/data-analysis-tutorial)
