@@ -7,6 +7,7 @@
 - [休闲数学](https://beltoforion.de/en/index.php)
 - [群论彩图版](https://zh.usa1lib.org/book/19241362/fbd415)[ | 配套网站](http://www.math.clemson.edu/~macaule/classes/m19_math4120/)
 - [数学建模相关算法 MATLAB实现](https://github.com/HuangCongQing/Algorithms_MathModels)
+- [Math-Model-and-Machine-Learning](https://github.com/QInzhengk/Math-Model-and-Machine-Learning)
 - [Book3_Elements-of-Mathematics | 《数学要素》](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
 
 # 期刊
