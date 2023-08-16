@@ -21,3 +21,4 @@
 - [esplay_micro_hardware](https://github.com/pebri86/esplay_micro_hardware)
 - [MDEC](https://github.com/Laxer3a/MDEC)
 - [openfpga-wonderswan](https://github.com/agg23/openfpga-wonderswan)
+- [Picopad](https://github.com/Pajenicko/Picopad)
