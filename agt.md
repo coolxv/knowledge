@@ -1,6 +1,8 @@
 # 架构
 ![](http://assets.processon.com/chart_image/615122e107912903eff80860.png)
 
+# 开源项目
+- [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 
 # 图片输入输出
 
