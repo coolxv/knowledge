@@ -9,6 +9,7 @@
 - [数学建模相关算法 MATLAB实现](https://github.com/HuangCongQing/Algorithms_MathModels)
 - [Math-Model-and-Machine-Learning](https://github.com/QInzhengk/Math-Model-and-Machine-Learning)
 - [Book3_Elements-of-Mathematics | 《数学要素》](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
+- [Mathematical-Modeling](https://github.com/Lanrzip/Mathematical-Modeling)
 
 # 期刊
 - [数学年刊：Annals of Mathematics](https://annals.math.princeton.edu/)
