@@ -5,6 +5,7 @@
 - [privateGPT](https://github.com/imartinez/privateGPT)
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [RWKV-Runner](https://github.com/josStorer/RWKV-Runner/tree/master)
 
 # 名词解释
 - [FLOPS](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%B5%AE%E9%BB%9E%E9%81%8B%E7%AE%97%E6%AC%A1%E6%95%B8)(Floating-point operations per second)，每秒浮点运算次数，亦称每秒峰值速度，即每秒所运行的浮点运算次数
