@@ -343,3 +343,7 @@ readelf -d libop.so
 - AMD ROCm | HIP
 - Intel oneAPI toolkit | DPC++
 - Nvidia HPC SDK | CUDA
+
+
+## 构建系统
+- [blade-build](https://github.com/chen3feng/blade-build)
