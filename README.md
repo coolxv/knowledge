@@ -135,6 +135,7 @@
 - [safurai](safurai.com)
 - [gitfluence](gitfluence.com)
 - [spellbox](https://spellbox.app/)
+- [codellama](https://github.com/facebookresearch/codellama)
 
 # 工业辅助
 - [kicad | 开源电子设计自动化 (EDA) 套件](https://www.kicad.org/download/)
