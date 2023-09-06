@@ -6,6 +6,7 @@
 - [Doocs](https://github.com/doocs)
 - [algorithm-stone](https://github.com/acm-clan/algorithm-stone)
 - [The Algorithms](https://the-algorithms.com/)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 
 # 算法可视化
 - [算法可视化](https://algorithm-visualizer.org/)
