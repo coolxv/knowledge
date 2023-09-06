@@ -300,6 +300,7 @@
 - [hangover](https://github.com/AndreRH/hangover)
 - [simple-computer](https://github.com/djhworld/simple-computer)
 - [bfjit | Brainfuck JIT](https://github.com/Nugine/bfjit)
+- [semu](https://github.com/sysprog21/semu)
 
 # 模拟器
 - [iPhone 11](https://github.com/TrungNguyen1909/qemu-t8030)
