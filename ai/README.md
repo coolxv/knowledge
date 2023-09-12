@@ -7,6 +7,15 @@
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner/tree/master)
 
+# 例子实现
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml)
+- [labml.ai](https://nn.labml.ai/)
+
+
+# 新资料
+- [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+- [introduction to time series and forecasting with python | 收费](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)
+
 # 名词解释
 - [FLOPS](https://zh.wikipedia.org/wiki/%E6%AF%8F%E7%A7%92%E6%B5%AE%E9%BB%9E%E9%81%8B%E7%AE%97%E6%AC%A1%E6%95%B8)(Floating-point operations per second)，每秒浮点运算次数，亦称每秒峰值速度，即每秒所运行的浮点运算次数
   * 一个MFLOPS（megaFLOPS）等于每秒一百万（10的6）次的浮点运算
