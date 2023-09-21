@@ -11,6 +11,7 @@
 - [prompt2model](https://github.com/neulab/prompt2model)
 - [langchain](https://github.com/langchain-ai/langchain) [ | 中文文档](https://www.langchain.com.cn/)
 - [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
+- [WizardLM](https://github.com/nlpxucan/WizardLM)
 
 # Playgroud
 - [nvidia codellama](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/playground/models/codellama)
