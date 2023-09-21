@@ -1,4 +1,4 @@
-# GPT
+# LLM
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 - [AgentGPT](https://github.com/reworkd/AgentGPT)
 - [babyagi](https://github.com/yoheinakajima/babyagi)
@@ -6,6 +6,13 @@
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [RWKV-Runner](https://github.com/josStorer/RWKV-Runner/tree/master)
+- [picoGPT](https://github.com/jaymody/picoGPT)
+- [OpenPipe](https://github.com/OpenPipe/OpenPipe)
+- [prompt2model](https://github.com/neulab/prompt2model)
+- [langchain](https://github.com/langchain-ai/langchain) [ | 中文文档](https://www.langchain.com.cn/)
+
+# Playgroud
+- [nvidia codellama](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/playground/models/codellama)
 
 # 例子实现
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
@@ -448,6 +455,8 @@
 # 音频转文字
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 - [buzz](https://github.com/chidiwilliams/buzz)
+- [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo)
+- [whisper](https://github.com/openai/whisper)
 # 开源框架
 - [飞桨(PaddlePaddle)](https://www.paddlepaddle.org.cn/)
 - [昇思(MindSpore)](https://www.mindspore.cn/)
@@ -560,6 +569,7 @@
 
 # 数学
 - [mml-book | 机器学习数学](https://github.com/mml-book/mml-book.github.io)
+- [Mathematics for Computer Science | 计算机科学的数学](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 ## 微积分
 
 ## 线性代数与矩阵论
@@ -571,6 +581,8 @@
 - [7分钟带你入门线性代数+微积分](https://www.bilibili.com/video/BV1yW41167ax/?spm_id_from=333.788.recommend_more_video.1)
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)
 - [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+- [immersive linear algebra](http://immersivemath.com/ila/index.html)
 ## 概率论与统计学
 - [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)[ | 4](https://github.com/hktxt/Learn-Statistical-Learning-Method)[ | 5](https://github.com/SmirkCao/Lihang)[ | 6](https://github.com/librauee/Statistical-Learning)
 - [《模式识别与机器学习》 | PRML](https://www.080910t.com/wp-content/uploads/2020/03/PRML-Chinese-Edition.pdf)[ | PRML笔记](https://github.com/WYHA/PRML_Note)[ | PRML源码](https://github.com/ctgk/PRML)
