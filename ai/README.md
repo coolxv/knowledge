@@ -459,6 +459,7 @@
 - [whisper](https://github.com/openai/whisper)
 - [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo)
 - [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
+- [seamless_communication](https://github.com/facebookresearch/seamless_communication)
 - [SpeechIO ](https://github.com/SpeechColab/Leaderboard)
 
 # 开源框架
