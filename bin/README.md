@@ -90,6 +90,8 @@
 - [ld | the GNU linker](https://www.gnu.org/software/binutils/)[ | Link Options](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html)
 - [link.exe | MSVC](https://docs.microsoft.com/en-us/cpp/build/reference/linker-options?view=msvc-170)
 - [从零开始实现链接器](https://ksco.cc/rvld/)
+- [Implement an ELF linker](https://gist.github.com/MaskRay/601b51e900d19c6ed09d256ba9ec4722)
+
 # 汇编器
 - [asmrepl](https://github.com/tenderlove/asmrepl)
 - [nasm](https://github.com/netwide-assembler/nasm)
