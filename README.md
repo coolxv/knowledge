@@ -261,3 +261,8 @@
 - [boost](https://www.boost.org/)
 - [gsl-lite](https://github.com/gsl-lite/gsl-lite)
 - [gsl](https://github.com/microsoft/gsl)
+- [mimalloc](https://github.com/microsoft/mimalloc)
+- [tcmalloc](https://github.com/google/tcmalloc)
+- [jemalloc](https://github.com/jemalloc/jemalloc)
+- [Hoard](https://github.com/emeryberger/Hoard)
+- [Malloc-Implementations](https://github.com/emeryberger/Malloc-Implementations)
