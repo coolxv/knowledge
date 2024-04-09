@@ -589,6 +589,7 @@
 - [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - [immersive linear algebra](http://immersivemath.com/ila/index.html)
+- [线性代数：未竟之美](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
 ## 概率论与统计学
 - [李航博士《统计学习方法2》算法实现1](https://github.com/fengdu78/lihang-code)[  | 算法实现2](https://github.com/WenDesi/lihang_book_algorithm)[ | 算法实现3](https://github.com/wzyonggege/statistical-learning-method)[ | 4](https://github.com/hktxt/Learn-Statistical-Learning-Method)[ | 5](https://github.com/SmirkCao/Lihang)[ | 6](https://github.com/librauee/Statistical-Learning)
 - [《模式识别与机器学习》 | PRML](https://www.080910t.com/wp-content/uploads/2020/03/PRML-Chinese-Edition.pdf)[ | PRML笔记](https://github.com/WYHA/PRML_Note)[ | PRML源码](https://github.com/ctgk/PRML)
