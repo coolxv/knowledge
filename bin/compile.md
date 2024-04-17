@@ -346,4 +346,12 @@ readelf -d libop.so
 
 
 ## 构建系统
+- make
+- cmake
+- xmake
+- ninja 
+- [sccache](https://github.com/mozilla/sccache)
+- [ccache](https://github.com/ccache/ccache)
+- [distcc](https://github.com/distcc/distcc)
+- [fastbuild](https://github.com/fastbuild/fastbuild)
 - [blade-build](https://github.com/chen3feng/blade-build)
