@@ -21,7 +21,10 @@
 - [fabric | Python](https://github.com/danielmiessler/fabric)
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
-- 
+
+# Models
+- [ollama models](https://ollama.com/library)
+- [Llama3-8B-Chinese-Chat](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)
 
 # App
 - [lmstudio](https://lmstudio.ai/)
@@ -29,6 +32,7 @@
 # Course
 - [llm-course](https://github.com/mlabonne/llm-course)
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
+- [llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)
 
 
 # List
