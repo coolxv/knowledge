@@ -32,7 +32,14 @@
 - [jan](https://github.com/janhq/jan)
 - [vllm](https://github.com/vllm-project/vllm)
 
-# 
+# RAG(Retrieval-Augmented Generation)
+- [QAnything](https://github.com/netease-youdao/QAnything)
+- [FastGPT](https://github.com/labring/FastGPT)
+- [MaxKB](https://github.com/1Panel-dev/MaxKB)
+- [PAI-RAG](https://github.com/aigc-apps/PAI-RAG)
+- [rags](https://github.com/run-llama/rags)
+- [self-rag](https://github.com/AkariAsai/self-rag)
+- [Verba](https://github.com/weaviate/Verba)
 
 # Course
 - [llm-course](https://github.com/mlabonne/llm-course)
