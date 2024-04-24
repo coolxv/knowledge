@@ -28,6 +28,11 @@
 
 # App
 - [lmstudio](https://lmstudio.ai/)
+- [gpt4all](https://gpt4all.io/index.html)
+- [jan](https://github.com/janhq/jan)
+- [vllm](https://github.com/vllm-project/vllm)
+
+# 
 
 # Course
 - [llm-course](https://github.com/mlabonne/llm-course)
@@ -43,6 +48,7 @@
 - [awesome-llm-json](https://github.com/imaurer/awesome-llm-json)
 - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+- [awesome-ml](https://github.com/underlines/awesome-ml)
 
 # Book
 - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
