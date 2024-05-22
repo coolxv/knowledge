@@ -45,6 +45,7 @@
 - [llm-course](https://github.com/mlabonne/llm-course)
 - [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
 - [llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat)
+- [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch)
 
 
 # List
