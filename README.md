@@ -190,7 +190,8 @@
 # 宇宙仿真
 - [stellarium](https://github.com/Stellarium/stellarium)
 
-
+# 开源硬件
+- [tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 
 
 # 音频软件
