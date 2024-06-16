@@ -1,3 +1,8 @@
+- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+
+
+
+
 - 一个单词只有一个核心含义（词根+词缀），其他都是结合语境美化了的翻译-信达雅
 - 中英语法主干完全一样，英语主要五大主干语句（五指记忆法），1（是否）+1（如何）+2（人）+2（物）+3（时、地、为什么）（whether、how、who、whose、what、witch、when、where、why）
 - 动词就分为实意动词和Be动词
