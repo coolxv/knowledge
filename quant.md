@@ -20,4 +20,5 @@
 - [stock | 30天掌握量化交易](https://github.com/Rockyzsu/stock)
 - [开源策略](https://github.com/fmzquant/strategies)
 - [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading)
+- [gs-quant](https://github.com/goldmansachs/gs-quant)
 
