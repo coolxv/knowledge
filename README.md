@@ -227,8 +227,9 @@
 - [gstreamer](https://gstreamer.freedesktop.org/)
 - [xbmc](https://github.com/xbmc/xbmc)
 - [kdenlive](https://kdenlive.org/zh/)
-- [ImPlay](https://github.com/tsl0922/ImPlay))
+- [ImPlay](https://github.com/tsl0922/ImPlay)
 - [MediaEditor](https://github.com/opencodewin/MediaEditor)
+- [HandBrake](https://github.com/HandBrake/HandBrake）
 
 
 # 图像软件
