@@ -579,7 +579,7 @@
 ## 微积分
 
 ## 线性代数与矩阵论
-- [MIT开课的 Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)[ | 麻省理工公开课的 Linear Algebra2](https://github.com/apachecn/mit-18.06-linalg-notes)
+- [MIT开课的 Linear Algebra](https://github.com/yizhen20133868/MIT-Linear-Algebra-Notes)[ | 麻省理工公开课的 Linear Algebra2](https://github.com/apachecn/mit-18.06-linalg-notes)[ | 3](https://github.com/zlotus/notes-linear-algebra/tree/master)
 - [《Linear Algebra for Everyone》（直译：人人都能懂的线性代数）](https://math.mit.edu/~gs/everyone/)[ | MIT公开课 以2020年的全新眼光审视线性代数](https://www.bilibili.com/video/BV1Yt4y1X7kU/?p=2&spm_id_from=pageDriver)[ | 图形的笔记](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - [线性代数本质文字版](https://hzhu212.github.io/posts/66517499/)[ | 线性代数本质系列视频](https://www.bilibili.com/video/BV1fR4y1E7Pw?spm_id_from=333.999.0.0)
 - [线性代数:前沿的基础](http://www.ulaff.net/)[ | blas](http://www.netlib.org/blas/)[ | blis](https://github.com/flame/blis)
