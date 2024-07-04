@@ -230,7 +230,7 @@
 - [kdenlive](https://kdenlive.org/zh/)
 - [ImPlay](https://github.com/tsl0922/ImPlay)
 - [MediaEditor](https://github.com/opencodewin/MediaEditor)
-- [HandBrake](https://github.com/HandBrake/HandBrake）
+- [HandBrake](https://github.com/HandBrake/HandBrake)
 
 
 # 图像软件
