@@ -168,6 +168,7 @@
 - [simulator](https://www.partsim.com/simulator)
 - [multisim](https://www.multisim.com/)
 - [everycircuit](https://everycircuit.com/)
+- [wokwi](https://wokwi.com/)
 
 # 物理仿真
 - [precice | 多物理仿真库](https://github.com/precice/precice)
