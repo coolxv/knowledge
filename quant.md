@@ -10,6 +10,7 @@
 - [qlib](https://github.com/microsoft/qlib)
 - [rqalpha](https://github.com/ricequant/rqalpha)
 - [zipline](https://github.com/quantopian/zipline)
+- [ailabx](https://github.com/ailabx/ailabx)
 
 
 # 资料
