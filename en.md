@@ -18,13 +18,13 @@
 - [Global Times](https://www.globaltimes.cn/)
 - [BBC](https://www.bbc.com/)
 - [CNN](https://edition.cnn.com/)
-- 
+
 
 # 工具
 - [qwerty | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件](https://qwerty.kaiyi.cool/)
 - [trancy | 沉浸式AI语言学习](https://www.trancy.org/zh-cn)
 - [pi | 个人AI助理](https://pi.ai/)
-- [enpuz | 在线英语句子语法分析](https://enpuz.com
+- [enpuz | 在线英语句子语法分析](https://enpuz.com)
 - [oxford learners dictionaries | 字典](https://www.oxfordlearnersdictionaries.com/us/)
 - [vocabulary | 词典](https://www.vocabulary.com/)
 - [powerthesaurus | 词典 | 同义词 | 反义词](https://www.powerthesaurus.org/)
