@@ -31,6 +31,7 @@
 - [etym online | 在线词源词典](https://www.etymonline.com/cn)
 - [Reverso | 翻译和学习](https://context.reverso.net/)
 - [TREX | 翻译](https://tr-ex.me/)
+- [DashPlayer | 播放器](https://github.com/solidSpoon/DashPlayer)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
