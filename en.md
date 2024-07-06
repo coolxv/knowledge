@@ -1,7 +1,45 @@
-- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+# 资料
+- [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
+- [程序员英语词汇宝典](https://github.com/Wei-Xia/most-frequent-technology-english-words)
+- [专为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+- [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+- [离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)
+- [经济学人、纽约客等英语外刊杂志下载](https://github.com/hehonghui/awesome-english-ebooks)
+- [Top 2000 Vocabulary Words](https://www.talkenglish.com/vocabulary/top-2000-vocabulary.aspx)
+- [Speak English Fluently Using The 3000 Most Frequently Used Words in English](https://basicenglishspeaking.com/3000-most-common-words/)
 
+# 语法
+- [从0开始学习英语语法](https://github.com/hzpt-inet-club/english-note)
+- [《语法俱乐部》- 旋元佑](https://github.com/llwslc/grammar-club)
+- [薄冰大学英语语法](https://github.com/oldwestenglish/grammar)
 
+# 新闻
+- [China Daily](https://www.chinadailyasia.com/hk)
+- [Global Times](https://www.globaltimes.cn/)
+- [BBC](https://www.bbc.com/)
+- [CNN](https://edition.cnn.com/)
+- 
 
+# 工具
+- [qwerty | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件](https://qwerty.kaiyi.cool/)
+- [trancy | 沉浸式AI语言学习](https://www.trancy.org/zh-cn)
+- [pi | 个人AI助理](https://pi.ai/)
+- [enpuz | 在线英语句子语法分析](https://enpuz.com
+- [oxford learners dictionaries | 字典](https://www.oxfordlearnersdictionaries.com/us/)
+- [vocabulary | 词典](https://www.vocabulary.com/)
+- [powerthesaurus | 词典 | 同义词 | 反义词](https://www.powerthesaurus.org/)
+- [etym online | 在线词源词典](https://www.etymonline.com/cn)
+- [Reverso | 翻译和学习](https://context.reverso.net/)
+- [TREX | 翻译](https://tr-ex.me/)
+
+# 视频
+- [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
+
+# 游戏
+- [games to learn english](https://www.gamestolearnenglish.com/)
+- [eslgamesplus](https://www.eslgamesplus.com/)
+
+# 其他
 
 - 一个单词只有一个核心含义（词根+词缀），其他都是结合语境美化了的翻译-信达雅
 - 中英语法主干完全一样，英语主要五大主干语句（五指记忆法），1（是否）+1（如何）+2（人）+2（物）+3（时、地、为什么）（whether、how、who、whose、what、witch、when、where、why）
