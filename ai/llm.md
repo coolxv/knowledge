@@ -22,6 +22,9 @@
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
 
+# Fine-Tuning
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+
 # Models
 - [ollama models](https://ollama.com/library)
 - [Llama3-8B-Chinese-Chat](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)
