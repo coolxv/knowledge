@@ -1,1 +1,0 @@
-- [graphrag](https://github.com/microsoft/graphrag)
