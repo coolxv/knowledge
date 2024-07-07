@@ -22,6 +22,7 @@
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
 
+
 # Fine-Tuning
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
@@ -43,6 +44,8 @@
 - [rags](https://github.com/run-llama/rags)
 - [self-rag](https://github.com/AkariAsai/self-rag)
 - [Verba](https://github.com/weaviate/Verba)
+- [graphrag](https://github.com/microsoft/graphrag)
+
 
 # Course
 - [llm-course](https://github.com/mlabonne/llm-course)
