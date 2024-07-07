@@ -241,6 +241,9 @@
 - [GASDocumentation](https://github.com/tranek/GASDocumentation)
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)
 
+# Wave Function Collapse
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+- [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
 # 库
 - [echarts](https://echarts.apache.org/zh/index.html)
 - [kepler](https://kepler.gl/)
