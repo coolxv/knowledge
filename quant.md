@@ -16,6 +16,7 @@
 # 资料
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 - [awesome-quant](https://github.com/thuquant/awesome-quant)
+- [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
 - [quantnewgrad2022](https://github.com/quantprep/quantnewgrad2022)
 - [quant-notes](https://github.com/dingran/quant-notes)
 - [stock | 30天掌握量化交易](https://github.com/Rockyzsu/stock)
