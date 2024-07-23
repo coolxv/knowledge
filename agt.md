@@ -4,8 +4,10 @@
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 
-# 图片输入输出
+# 图片处理
+- [CImg](https://github.com/GreycLab/CImg)
 
+# 图片输入输出
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
