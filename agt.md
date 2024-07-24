@@ -17,6 +17,8 @@
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
+- [Debuggging the OBS Studio CDI Plugin on Windows](https://github.com/aws/obs-cdi/blob/main/README.md#debuggging-the-obs-studio-cdi-plugin-on-windows)
+- [obs docs](https://docs.obsproject.com/)
 
 
 # 动作输出
