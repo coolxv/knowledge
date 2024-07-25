@@ -36,6 +36,7 @@
 + [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)
 + [flameshot](https://github.com/flameshot-org/flameshot)
 + [rubick | 替换utools](https://github.com/rubickCenter/rubick)
++ [kando](https://github.com/kando-menu/kando)
 
 
 参考技术
