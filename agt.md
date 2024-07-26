@@ -4,6 +4,7 @@
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 - [WallBreaker2](https://github.com/WallBreaker2/op)
+- [Overwatch-Aim-Assist](https://github.com/jpxue/Overwatch-Aim-Assist?tab=readme-ov-file)
 
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
