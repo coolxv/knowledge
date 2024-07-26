@@ -8,6 +8,7 @@
 - [OverwatchCV](https://github.com/ahmetabdi/OverwatchCV)
 - [ow-vision](https://github.com/SMEDjs/ow-vision)
 - [overwatch-aimbot](https://github.com/HarrisonKeeling/overwatch-aimbot)
+- [Ow-Outlines](https://github.com/dword64/Ow-Outlines)
 
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
