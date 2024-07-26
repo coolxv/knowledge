@@ -12,6 +12,7 @@
 - [Pine](https://github.com/petercunha/Pine)
 - [Object-Recognition-Aimbot](https://github.com/JeffStodd/Object-Recognition-Aimbot)
 - [MEMU3](https://github.com/Jamminroot/MEMU3)
+- [horus](https://github.com/qis/horus)
 
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
