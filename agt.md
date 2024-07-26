@@ -9,6 +9,9 @@
 - [ow-vision](https://github.com/SMEDjs/ow-vision)
 - [overwatch-aimbot](https://github.com/HarrisonKeeling/overwatch-aimbot)
 - [Ow-Outlines](https://github.com/dword64/Ow-Outlines)
+- [Pine](https://github.com/petercunha/Pine)
+- [Object-Recognition-Aimbot](https://github.com/JeffStodd/Object-Recognition-Aimbot)
+- [MEMU3](https://github.com/Jamminroot/MEMU3)
 
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
