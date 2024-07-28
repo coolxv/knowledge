@@ -80,6 +80,7 @@
 - [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
 - [godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter)
 - [Audio-Visualizer](https://github.com/indrajithi/Audio-Visualizer)
+- [D3D12_Research](https://github.com/simco50/D3D12_Research)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
