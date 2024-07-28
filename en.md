@@ -20,6 +20,8 @@
 - [BBC](https://www.bbc.com/)
 - [CNN](https://edition.cnn.com/)
 
+# 字幕
+- [The vampire diaries](https://my-subs.net/showlistsubtitles-1811-the-vampire-diaries)
 
 # 工具
 - [qwerty | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件](https://qwerty.kaiyi.cool/)
