@@ -255,6 +255,7 @@
 - [awesome-cpp](https://github.com/uhub/awesome-cpp)
 - [awesome-wasm](https://github.com/mbasso/awesome-wasm)[ | awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
 # 项目
 - [stb](https://github.com/nothings/stb)
@@ -269,3 +270,4 @@
 - [jemalloc](https://github.com/jemalloc/jemalloc)
 - [Hoard](https://github.com/emeryberger/Hoard)
 - [Malloc-Implementations](https://github.com/emeryberger/Malloc-Implementations)
+- [gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp)
