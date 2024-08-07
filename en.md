@@ -35,6 +35,7 @@
 - [Reverso | 翻译和学习](https://context.reverso.net/)
 - [TREX | 翻译](https://tr-ex.me/)
 - [DashPlayer | 播放器](https://github.com/solidSpoon/DashPlayer)
+- [forvo | 发音练习](https://forvo.com/)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
