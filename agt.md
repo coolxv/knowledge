@@ -1,6 +1,11 @@
 # 架构
 ![](http://assets.processon.com/chart_image/615122e107912903eff80860.png)
 
+# 硬件
+- DMA 板子(pcie接口的FPGA)
+- 融合器
+- kmbox,易键鼠，幽灵键鼠
+
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 - [WallBreaker2](https://github.com/WallBreaker2/op)
@@ -41,6 +46,7 @@
 - [keyboard python](https://github.com/boppreh/keyboard)
 - [mouse python](https://github.com/boppreh/mouse)
 - [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
+
 
 ## 单片机烧入方式
 - ICP(In Circuit Programing)在电路编程：使用SWD接口进行烧录，如J-Link烧录器和J-Flash软件配合使用。
