@@ -37,6 +37,7 @@
 - [DashPlayer | 播放器](https://github.com/solidSpoon/DashPlayer)
 - [forvo | 发音练习](https://forvo.com/)
 - [langeek](https://langeek.co/)
+- [earthworm](https://github.com/cuixueshe/earthworm)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
