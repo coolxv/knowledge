@@ -3,6 +3,8 @@
 - [llm.c | C](https://github.com/karpathy/llm.c)
 - [llama2.c | C](https://github.com/karpathy/llama2.c)
 - [llama.cpp | C++](https://github.com/ggerganov/llama.cpp)
+- [gemma.cpp](https://github.com/google/gemma.cpp)
+- [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - [llamafile | C++](https://github.com/Mozilla-Ocho/llamafile)
 - [TensorRT-LLM | C++](https://github.com/NVIDIA/TensorRT-LLM)
 - [LocalAI | C++](https://github.com/mudler/LocalAI)
