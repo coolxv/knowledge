@@ -20,6 +20,9 @@
 - [horus](https://github.com/qis/horus)
 - [Rigel-Overwatch-External](https://github.com/Lynnette177/Rigel-Overwatch-External)
 
+# 识别
+- [yolov8]([llm-viz](https://github.com/ultralytics/ultralytics))
+
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
 
