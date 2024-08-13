@@ -26,6 +26,7 @@
 
 # visual
 - [llm-viz](https://github.com/bbycroft/llm-viz)
+- [transformer-explainer](https://github.com/poloclub/transformer-explainer)
 # Fine-Tuning
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
