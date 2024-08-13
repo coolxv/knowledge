@@ -23,6 +23,10 @@
 # 识别
 - [yolov8]([llm-viz](https://github.com/ultralytics/ultralytics))
 
+# onnxruntime
+- [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
+- [ONNX Runtime compatibility](https://onnxruntime.ai/docs/reference/compatibility.html#onnx-opset-support)
+
 # 图片处理
 - [CImg](https://github.com/GreycLab/CImg)
 
