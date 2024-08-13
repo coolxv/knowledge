@@ -68,6 +68,8 @@
 - [sccache](https://github.com/mozilla/sccache)
 - [cc65](https://github.com/cc65/cc65)
 - [sectorc](https://github.com/xorvoid/sectorc)
+- [c3c](https://github.com/c3lang/c3c)
+- [c4](https://github.com/rswier/c4)
 
 # 编译器的编译器
 - lex and yacc
