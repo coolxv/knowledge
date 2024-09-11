@@ -1,17 +1,4 @@
-# LLM
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
-- [AgentGPT](https://github.com/reworkd/AgentGPT)
-- [babyagi](https://github.com/yoheinakajima/babyagi)
-- [privateGPT](https://github.com/imartinez/privateGPT)
-- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
-- [llama.cpp](https://github.com/ggerganov/llama.cpp)
-- [RWKV-Runner](https://github.com/josStorer/RWKV-Runner/tree/master)
-- [picoGPT](https://github.com/jaymody/picoGPT)
-- [OpenPipe](https://github.com/OpenPipe/OpenPipe)
-- [prompt2model](https://github.com/neulab/prompt2model)
-- [langchain](https://github.com/langchain-ai/langchain) [ | 中文文档](https://www.langchain.com.cn/)
-- [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
-- [WizardLM](https://github.com/nlpxucan/WizardLM)
+
 
 # Playgroud
 - [nvidia codellama](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/playground/models/codellama)
