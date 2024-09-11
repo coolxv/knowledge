@@ -5,6 +5,7 @@
 - [llama.cpp | C++](https://github.com/ggerganov/llama.cpp)
 - [gemma.cpp](https://github.com/google/gemma.cpp)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
+- [rwkv.cpp](https://github.com/RWKV/rwkv.cpp)
 - [llamafile | C++](https://github.com/Mozilla-Ocho/llamafile)
 - [TensorRT-LLM | C++](https://github.com/NVIDIA/TensorRT-LLM)
 - [LocalAI | C++](https://github.com/mudler/LocalAI)
@@ -24,9 +25,24 @@
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
 
+
+# Other code
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+- [AgentGPT](https://github.com/reworkd/AgentGPT)
+- [babyagi](https://github.com/yoheinakajima/babyagi)
+- [privateGPT](https://github.com/imartinez/privateGPT)
+- [RWKV-Runner](https://github.com/josStorer/RWKV-Runner/tree/master)
+- [picoGPT](https://github.com/jaymody/picoGPT)
+- [OpenPipe](https://github.com/OpenPipe/OpenPipe)
+- [prompt2model](https://github.com/neulab/prompt2model)
+- [langchain](https://github.com/langchain-ai/langchain) [ | 中文文档](https://www.langchain.com.cn/)
+- [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
+- [WizardLM](https://github.com/nlpxucan/WizardLM)
+
 # visual
 - [llm-viz](https://github.com/bbycroft/llm-viz)
 - [transformer-explainer](https://github.com/poloclub/transformer-explainer)
+
 # Fine-Tuning
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
@@ -67,6 +83,7 @@
 - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain)
 - [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 - [awesome-ml](https://github.com/underlines/awesome-ml)
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 
 # Book
 - [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
