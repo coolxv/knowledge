@@ -349,6 +349,7 @@
 - [PCSX2 | Playstation 2模拟器](https://github.com/PCSX2/pcsx2)
 - [RPCS3 | Playstation 3模拟器](https://github.com/RPCS3/rpcs3)
 - [ps4emurepo | Playstation 4模拟器](https://github.com/ps4emurepo)
+- [shadPS4 | PS4 emulator](https://github.com/shadps4-emu/shadPS4)
 - [PSemuX | Playstation 5模拟器](https://psemux.com/)
 - [Kyty | PS4和PS5模拟器](https://github.com/InoriRus/Kyty)
 - [Cxbx-Reloaded | Xbox模拟器](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded)
