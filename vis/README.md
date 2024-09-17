@@ -221,6 +221,7 @@
 - [veloren](https://github.com/veloren/veloren)
 - [AirSim](https://github.com/microsoft/AirSim)
 - [VPet](https://github.com/LorisYounger/VPet)
+- [abstreet](https://github.com/a-b-street/abstreet)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
