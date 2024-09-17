@@ -65,6 +65,7 @@
 - [self-rag](https://github.com/AkariAsai/self-rag)
 - [Verba](https://github.com/weaviate/Verba)
 - [graphrag](https://github.com/microsoft/graphrag)
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
 
 # Course
