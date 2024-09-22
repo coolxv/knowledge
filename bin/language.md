@@ -159,6 +159,7 @@ A --> E[设计思维]
 - [《编程的本质》笔记](https://qiankunli.github.io/2018/07/14/nature_of_code.html)
 - [(重新审视《GOTO 语句被认为有害》](https://www.emon100.com/goto-translation/)
 - 《计算思维史话》
+- SCI论(系统论、信息论、控制论）、DSC论(突变论、协同论、耗散结构论)、博弈论
 
 
 
