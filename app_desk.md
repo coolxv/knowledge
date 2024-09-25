@@ -37,6 +37,7 @@
 + [flameshot](https://github.com/flameshot-org/flameshot)
 + [rubick | 替换utools](https://github.com/rubickCenter/rubick)
 + [kando](https://github.com/kando-menu/kando)
++ [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 
 
 参考技术
