@@ -156,6 +156,7 @@
 - [Nvidia TensorRT](https://github.com/NVIDIA/TensorRT)
 - [Nvidia cudnn](https://developer.nvidia.com/zh-cn/cudnn)
 - [HeCBench](https://github.com/zjin-lcf/HeCBench) [ | axbench](http://axbench.org/)
+- [gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp)
 # 文件格式
 - ONNX (.onnx, .pb, .pbtxt)
 - NNEF (.nnef)
@@ -558,6 +559,7 @@
 - [incoder | 代码补全](https://github.com/dpfried/incoder)
 - [lego_release | 拼乐高](https://github.com/Relento/lego_release)
 - [paper2gui](https://github.com/Baiyuetribe/paper2gui)
+- [sam.cpp](https://github.com/YavorGIvanov/sam.cpp)
 ## 代码转换应用
 - [TransCoder](https://github.com/facebookresearch/TransCoder)
 
