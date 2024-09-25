@@ -6,6 +6,11 @@
 - [gemma.cpp](https://github.com/google/gemma.cpp)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
 - [rwkv.cpp](https://github.com/RWKV/rwkv.cpp)
+- [cortex.cpp](https://github.com/janhq/cortex.cpp)
+- [chatglm.cpp](https://github.com/li-plus/chatglm.cpp)
+- [chatllm.cpp](https://github.com/foldl/chatllm.cpp)
+- [qwen.cpp](https://github.com/QwenLM/qwen.cpp)
+- [minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp)
 - [llamafile | C++](https://github.com/Mozilla-Ocho/llamafile)
 - [TensorRT-LLM | C++](https://github.com/NVIDIA/TensorRT-LLM)
 - [LocalAI | C++](https://github.com/mudler/LocalAI)
@@ -24,6 +29,7 @@
 - [fabric | Python](https://github.com/danielmiessler/fabric)
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
+
 
 
 # Other code
