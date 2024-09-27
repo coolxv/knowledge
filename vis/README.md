@@ -82,6 +82,7 @@
 - [Audio-Visualizer](https://github.com/indrajithi/Audio-Visualizer)
 - [D3D12_Research](https://github.com/simco50/D3D12_Research)
 - [raytracing](https://github.com/RayTracing/raytracing.github.io)
+- [cpp-game-engine-book](https://github.com/ThisisGame/cpp-game-engine-book)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
