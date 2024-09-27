@@ -119,6 +119,7 @@
 - [cpp-dependencies | C++头文件依赖关系](https://github.com/tomtom-international/cpp-dependencies)
 - [hashcat | 密码破解工具](https://github.com/hashcat/hashcat)
 - [scc | 代码统计](https://github.com/boyter/scc)
+- [libcimbar | 文件传输](https://github.com/sz3/libcimbar)
 
 # 代码辅助
 - [copilot](https://github.com/features/copilot/)
