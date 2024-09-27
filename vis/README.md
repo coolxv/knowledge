@@ -81,6 +81,7 @@
 - [godot-FirstPersonStarter](https://github.com/Whimfoome/godot-FirstPersonStarter)
 - [Audio-Visualizer](https://github.com/indrajithi/Audio-Visualizer)
 - [D3D12_Research](https://github.com/simco50/D3D12_Research)
+- [raytracing](https://github.com/RayTracing/raytracing.github.io)
 
 # 着色器编译器
 - [DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
@@ -222,6 +223,9 @@
 - [AirSim](https://github.com/microsoft/AirSim)
 - [VPet](https://github.com/LorisYounger/VPet)
 - [abstreet](https://github.com/a-b-street/abstreet)
+- [vcmi |《英雄无敌 III》的开源重制版](https://github.com/vcmi/vcmi)
+- [alien | 强大的人工生命模拟工具](https://github.com/chrxh/alien)
+- [FlappyBird](https://github.com/VadimBoev/FlappyBird)
 
 # 游戏创建
 - [Eldiron | RPG game creator](https://github.com/markusmoenig/Eldiron)
