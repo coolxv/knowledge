@@ -217,6 +217,7 @@
 - [afx](https://github.com/viluon/afx)
 - [libnyquist](https://github.com/ddiakopoulos/libnyquist)
 - [audioFlux](https://github.com/libAudioFlux/audioFlux)
+- [winamp](https://github.com/WinampDesktop/winamp)
 
 # 视频软件
 - [mkvtoolnix | 是一套功能强大的mkv(Matroska)格式制作和处理的工具](https://github.com/nmaier/mkvtoolnix)
