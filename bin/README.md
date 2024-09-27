@@ -340,6 +340,7 @@
 - [crab-8](https://github.com/h-arry-smith/crab-8)
 - [tinyriscv](https://github.com/liangkangnan/tinyriscv)
 
+
 # 游戏机仿真
 - [RetroArch | 全能模拟器](https://github.com/libretro/RetroArch)
 - [Lakka-LibreELEC | 复古游戏机用 Linux 发行版](https://github.com/libretro/Lakka-LibreELEC)
@@ -380,6 +381,8 @@
 - [mame](https://github.com/mamedev/mame)
 - [Vita3K](https://github.com/Vita3K/Vita3K)
 - [boytacean](https://github.com/joamag/boytacean)
+- [N64Recomp](https://github.com/N64Recomp/N64Recomp)
+- [olcNES](https://github.com/OneLoneCoder/olcNES)
 
 # 小型OS系统
 - [egos-2000](https://github.com/yhzhang0128/egos-2000)
