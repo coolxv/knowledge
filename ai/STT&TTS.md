@@ -5,6 +5,7 @@
 - [buzz](https://github.com/chidiwilliams/buzz)
 - [vosk](https://github.com/alphacep/vosk-api)
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+- [moshi](https://github.com/kyutai-labs/moshi)
 
 ## Lib
 - [coqui-ai/STT](https://github.com/coqui-ai/STT)
