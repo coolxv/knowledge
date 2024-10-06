@@ -21,7 +21,9 @@
 - [Rigel-Overwatch-External](https://github.com/Lynnette177/Rigel-Overwatch-External)
 
 # 识别
-- [yolov8]([llm-viz](https://github.com/ultralytics/ultralytics))
+- [yolov8](https://github.com/ultralytics/ultralytics)
+- [AIDB](https://github.com/TalkUHulk/ai.deploy.box)
+- [obs-detect](https://github.com/locaal-ai/obs-detect)
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
