@@ -24,6 +24,7 @@
 - [yolov8](https://github.com/ultralytics/ultralytics)
 - [AIDB](https://github.com/TalkUHulk/ai.deploy.box)
 - [obs-detect](https://github.com/locaal-ai/obs-detect)
+- [deepC](https://github.com/ai-techsystems/deepC)
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
