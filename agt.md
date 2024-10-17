@@ -24,8 +24,11 @@
 # 识别
 - [yolov8](https://github.com/ultralytics/ultralytics)
 - [AIDB](https://github.com/TalkUHulk/ai.deploy.box)
-- [obs-detect](https://github.com/locaal-ai/obs-detect)
 - [deepC](https://github.com/ai-techsystems/deepC)
+- nanodet
+- squeezenet
+- tinydnn
+- flashlight
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
@@ -52,6 +55,10 @@
 - [obs-studio](https://github.com/obsproject/obs-studio)
 - [Debuggging the OBS Studio CDI Plugin on Windows](https://github.com/aws/obs-cdi/blob/main/README.md#debuggging-the-obs-studio-cdi-plugin-on-windows)
 - [obs docs](https://docs.obsproject.com/)
+- [obs-detect](https://github.com/locaal-ai/obs-detect)
+- obs-output-filter
+- obs-source-clone
+- obs-replay-source
 
 
 # 动作输出
