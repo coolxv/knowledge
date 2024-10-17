@@ -43,6 +43,7 @@
 - [Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample)
 - [WindowsScreenCapture](https://github.com/offerrall/WindowsScreenCapture)
 - [ScreenCaptureDLL](https://github.com/dumbie/ScreenCaptureDLL)
+- [Windows.UI.Composition-Win32-Samples](https://github.com/microsoft/Windows.UI.Composition-Win32-Samples/tree/master/cpp)
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
