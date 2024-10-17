@@ -40,6 +40,9 @@
 - [idb](https://github.com/facebook/idb)
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
 - [Airplay-SDK](https://github.com/xfirefly/Airplay-SDK)
+- [Win32CaptureSample](https://github.com/robmikh/Win32CaptureSample)
+- [WindowsScreenCapture](https://github.com/offerrall/WindowsScreenCapture)
+- [ScreenCaptureDLL](https://github.com/dumbie/ScreenCaptureDLL)
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
