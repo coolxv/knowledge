@@ -44,6 +44,7 @@
 - [WindowsScreenCapture](https://github.com/offerrall/WindowsScreenCapture)
 - [ScreenCaptureDLL](https://github.com/dumbie/ScreenCaptureDLL)
 - [Windows.UI.Composition-Win32-Samples](https://github.com/microsoft/Windows.UI.Composition-Win32-Samples/tree/master/cpp)
+- [desktop_capture](https://webrtc.googlesource.com/src/+/lkgr/modules/desktop_capture/win?autodive=0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F/)
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
