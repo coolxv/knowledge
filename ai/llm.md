@@ -29,6 +29,7 @@
 - [fabric | Python](https://github.com/danielmiessler/fabric)
 - [axolotl | Python](https://github.com/OpenAccess-AI-Collective/axolotl)
 - [mlc-llm | Mix](https://github.com/mlc-ai/mlc-llm)
+- [bitnet.cpp](https://github.com/microsoft/BitNet)
 
 
 
