@@ -52,6 +52,11 @@
 - [desktop_capture](https://webrtc.googlesource.com/src/+/lkgr/modules/desktop_capture/win?autodive=0%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F/)
 - [Sample demonstrating interoperability of OpenCV UMat with Direct X surface](https://github.com/dalieu/opencv/blob/master/samples/directx/d3dsample.hpp)
 - [Opencv DirectX interoperability](https://docs.opencv.org/5.x/de/dc1/group__core__directx.html)
+- [Magpie](https://github.com/Blinue/Magpie)
+
+# 图像覆盖
+- [goverlay](https://github.com/hiitiger/goverlay)
+
 ## obs
 - [obs-deps](https://github.com/obsproject/obs-deps)
 - [obs-studio](https://github.com/obsproject/obs-studio)
