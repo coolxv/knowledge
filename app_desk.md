@@ -38,6 +38,7 @@
 + [rubick | 替换utools](https://github.com/rubickCenter/rubick)
 + [kando](https://github.com/kando-menu/kando)
 + [Seelen-UI](https://github.com/eythaann/Seelen-UI)
++ [Shell](https://github.com/moudey/Shell)
 
 
 参考技术
