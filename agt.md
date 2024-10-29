@@ -9,6 +9,7 @@
 - [TDL](https://github.com/hfiref0x/TDL)
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
+- [GameAISDK](https://github.com/Tencent/GameAISDK)
 - [WallBreaker2](https://github.com/WallBreaker2/op)
 - [Overwatch-Aim-Assist](https://github.com/jpxue/Overwatch-Aim-Assist)
 - [OverwatchCV](https://github.com/ahmetabdi/OverwatchCV)
@@ -56,6 +57,7 @@
 
 # 图像覆盖
 - [goverlay](https://github.com/hiitiger/goverlay)
+- [Dwm-Overlay](https://github.com/Yukin02/Dwm-Overlay)
 
 # DX
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
@@ -69,6 +71,7 @@
 - obs-output-filter
 - obs-source-clone
 - obs-replay-source
+- [input-overlay](https://github.com/univrsal/input-overlay)
 
 
 # 动作输出
