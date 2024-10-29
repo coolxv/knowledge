@@ -36,10 +36,11 @@
 - [ONNX Runtime compatibility](https://onnxruntime.ai/docs/reference/compatibility.html#onnx-opset-support)
 - [onnxruntime-static-win](https://github.com/locaal-ai/occ-ai-dep-onnxruntime-static-win)
 - [DirectML](https://github.com/microsoft/DirectML)
-# 图片处理
-- [CImg](https://github.com/GreycLab/CImg)
 
-# 图片输入输出
+# 处理
+- [CImg](https://github.com/GreycLab/CImg)
+- [gstreamer](https://github.com/GStreamer/gstreamer)
+# 输入输出
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
 - [quicktime_video_hack](https://github.com/danielpaulus/quicktime_video_hack)
