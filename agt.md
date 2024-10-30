@@ -60,6 +60,15 @@
 - [goverlay](https://github.com/hiitiger/goverlay)
 - [Dwm-Overlay](https://github.com/Yukin02/Dwm-Overlay)
 
+# 数据集和模型
+- [roboflow](https://universe.roboflow.com/)
+- [kaggle](https://www.kaggle.com/)
+- [huggingface](https://huggingface.co/)
+- [paperswithcode](https://paperswithcode.com/)
+- [paddlepaddle](https://www.paddlepaddle.org.cn/en)
+- [Weights & Biases](https://wandb.ai/site/)
+
+
 # DX
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
 
