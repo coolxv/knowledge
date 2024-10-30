@@ -94,6 +94,7 @@
 - [mouse python](https://github.com/boppreh/mouse)
 - [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
 - [IbInputSimulator](https://github.com/Chaoses-Ib/IbInputSimulator)
+- [ghub](https://github.com/ekknod/logitech-cve)
 
 
 ## 单片机烧入方式
