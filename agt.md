@@ -84,7 +84,7 @@
 - [input-overlay](https://github.com/univrsal/input-overlay)
 
 
-# 动作输出
+# 键鼠
 - [驱动级模拟键盘鼠标](https://github.com/BestBurning/kmclassdll)[ | 例子](https://github.com/wanttobeno/Win_Driver_Mouse_And_Key)
 - [驱动级模拟USB Gamepads](https://github.com/ViGEm/ViGEmBus)[ | AHK例子](https://github.com/evilC/AHK-ViGEm-Bus)
 - [linux下的驱动级模拟键鼠](https://github.com/blunderer/vinput)
@@ -93,6 +93,7 @@
 - [keyboard python](https://github.com/boppreh/keyboard)
 - [mouse python](https://github.com/boppreh/mouse)
 - [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
+- [IbInputSimulator](https://github.com/Chaoses-Ib/IbInputSimulator)
 
 
 ## 单片机烧入方式
