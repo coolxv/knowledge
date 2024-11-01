@@ -100,6 +100,8 @@
 - [ViGEmBus](https://github.com/ViGEm/ViGEmBus)
 - [IbInputSimulator](https://github.com/Chaoses-Ib/IbInputSimulator)
 - [ghub](https://github.com/ekknod/logitech-cve)
+- [RealisticMouse](https://github.com/SLAUC91/RealisticMouse)
+- [windmouse](https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/)
 
 
 ## 单片机烧入方式
