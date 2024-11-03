@@ -7,6 +7,7 @@
 - kmbox,易键鼠，幽灵键鼠
 # 安全
 - [TDL](https://github.com/hfiref0x/TDL)
+- [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 - [GameAISDK](https://github.com/Tencent/GameAISDK)
