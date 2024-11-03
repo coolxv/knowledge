@@ -12,6 +12,8 @@
 - [zipline](https://github.com/quantopian/zipline)
 - [ailabx](https://github.com/ailabx/ailabx)
 
+# 框架
+-[hikyuu](https://github.com/fasiondog/hikyuu)
 
 # 资料
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
