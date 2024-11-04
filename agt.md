@@ -31,6 +31,7 @@
 - squeezenet
 - tinydnn
 - flashlight
+- [yolov4 by Directml](https://github.com/microsoft/directml/tree/master/Samples/yolov4)
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
