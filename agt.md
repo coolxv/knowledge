@@ -71,6 +71,7 @@
 
 # UI
 - [Windows SDK 和 Windows app SDK 区别](https://learn.microsoft.com/zh-cn/windows/apps/get-started/windows-developer-faq)
+- [C++/WinRT 和 WinRT的区别](https://learn.microsoft.com/zh-cn/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt)
 - [Win2D](https://github.com/microsoft/Win2D)
 - [imgui](https://github.com/ocornut/imgui)
 
