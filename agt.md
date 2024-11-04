@@ -70,6 +70,7 @@
 - [Weights & Biases](https://wandb.ai/site/)
 
 # UI
+- [Windows SDK 和 Windows app SDK 区别](https://learn.microsoft.com/zh-cn/windows/apps/get-started/windows-developer-faq)
 - [Win2D](https://github.com/microsoft/Win2D)
 - [imgui](https://github.com/ocornut/imgui)
 
