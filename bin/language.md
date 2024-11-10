@@ -11,6 +11,7 @@
 - 编程基本的抽象:数据的搬移和运算
 - 编程核心思维：复用、复合、结构、解耦
 - [内存安全、类型安全、资源安全](https://www.stroustrup.com/resource-model.pdf)
+- Primary Safety(Type、Bounds、Initialization、Lifetime)
 
 
 
