@@ -48,6 +48,7 @@
 # 处理
 - [CImg](https://github.com/GreycLab/CImg)
 - [gstreamer](https://github.com/GStreamer/gstreamer)
+- [raylib](https://github.com/raysan5/raylib)
 # 输入输出
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
