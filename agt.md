@@ -1,13 +1,19 @@
 # 架构
 ![](http://assets.processon.com/chart_image/615122e107912903eff80860.png)
 
+# 参考项目
+- [cr0nus](https://github.com/constcycle/cr0nus)
+- [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013/)
+
 # 硬件
 - DMA 板子(pcie接口的FPGA)
 - 融合器
 - kmbox,易键鼠，幽灵键鼠
+
 # 安全
 - [TDL](https://github.com/hfiref0x/TDL)
 - [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1)
+ 
 # 开源项目
 - [MaaFramework](https://github.com/MaaAssistantArknights/MaaFramework)
 - [GameAISDK](https://github.com/Tencent/GameAISDK)
@@ -57,11 +63,24 @@
 - [Sample demonstrating interoperability of OpenCV UMat with Direct X surface](https://github.com/dalieu/opencv/blob/master/samples/directx/d3dsample.hpp)
 - [Opencv DirectX interoperability](https://docs.opencv.org/5.x/de/dc1/group__core__directx.html)
 - [Magpie](https://github.com/Blinue/Magpie)
-
+- [ScreenRecorderLib](https://github.com/sskodje/ScreenRecorderLib)
 # 图像覆盖
 - [goverlay](https://github.com/hiitiger/goverlay)
 - [Dwm-Overlay](https://github.com/Yukin02/Dwm-Overlay)
 - [reshade](https://github.com/crosire/reshade)
+- [reshade-xhair](https://github.com/notpeelz/reshade-xhair)
+- [Crosshair-Overlay](https://github.com/c-m-w/Crosshair-Overlay)
+- [LightCrosshair](https://github.com/Auax/LightCrosshair)
+- [ImguiCrosshairOverlay](https://github.com/dannybanno/ImguiCrosshairOverlay)
+- [crosshair](https://github.com/LeovanGit/crosshair)
+- [es-crosshairs](https://github.com/ElysiumSoft/es-crosshairs/)
+- [RTSS_Crosshair](https://github.com/LazySlavik/RTSS_Crosshair)
+- [GameMate](https://github.com/Pennywise007/GameMate)
+- [center-dot](https://github.com/DerKuehneKollege/center-dot)
+- RivaTuner Statistics (RTSS)
+- [kwincrosshair](https://github.com/tues/kwincrosshair)
+- [vitruvia](https://github.com/giovanni-orciuolo/vitruvia)
+- [External Overlay in C++ | Works For ANY Game](https://www.youtube.com/watch?v=BIZyxja3Qls)
 
 # 数据集和模型
 - [roboflow](https://universe.roboflow.com/)
@@ -108,6 +127,7 @@
 - [RealisticMouse](https://github.com/SLAUC91/RealisticMouse)
 - [windmouse](https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/)
 - [win32 user-input](https://learn.microsoft.com/en-us/windows/win32/inputdev/user-input)
+- [SimpleMouseMacro](https://github.com/Core2002/SimpleMouseMacro)
 
 
 ## 单片机烧入方式
