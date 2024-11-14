@@ -129,6 +129,7 @@
 - [windmouse](https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/)
 - [win32 user-input](https://learn.microsoft.com/en-us/windows/win32/inputdev/user-input)
 - [SimpleMouseMacro](https://github.com/Core2002/SimpleMouseMacro)
+- [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection)
 
 
 ## 单片机烧入方式
