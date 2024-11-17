@@ -102,6 +102,7 @@
 - [Windows APP SDK | Wind32](https://learn.microsoft.com/zh-cn/windows/windows-app-sdk/api/winrt/)
 - [Windows UI 框架比较](https://learn.microsoft.com/zh-cn/windows/apps/get-started/?tabs=cpp-win32%2Cnet-maui#app-development-framework-feature-comparison)
 - [适用于 Windows 桌面应用的 API 参考](https://learn.microsoft.com/zh-cn/windows/apps/api-reference/)
+- [C++/WinRT 快速入门](https://learn.microsoft.com/zh-cn/windows/uwp/cpp-and-winrt-apis/get-started)
 
 # DX
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
