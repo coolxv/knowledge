@@ -96,6 +96,7 @@
 - [C++/WinRT 和 WinRT的区别](https://learn.microsoft.com/zh-cn/windows/uwp/cpp-and-winrt-apis/intro-to-using-cpp-with-winrt)
 - [Win2D](https://github.com/microsoft/Win2D)
 - [imgui](https://github.com/ocornut/imgui)
+- [Windows Runtime APIs not supported in desktop apps](https://learn.microsoft.com/en-us/windows/apps/desktop/modernize/desktop-to-uwp-supported-api)
 
 # DX
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
