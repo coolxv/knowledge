@@ -97,6 +97,8 @@
 - [Win2D](https://github.com/microsoft/Win2D)
 - [imgui](https://github.com/ocornut/imgui)
 - [Windows Runtime APIs not supported in desktop apps](https://learn.microsoft.com/en-us/windows/apps/desktop/modernize/desktop-to-uwp-supported-api)
+- [Windows SDK | Win32 or UWP](https://learn.microsoft.com/zh-cn/uwp/api/)
+- [Windows APP SDK | Wind32](https://learn.microsoft.com/zh-cn/windows/windows-app-sdk/api/winrt/)
 
 # DX
 - [DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)
