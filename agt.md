@@ -97,6 +97,7 @@
 - [Win2D](https://github.com/microsoft/Win2D)
 - [imgui](https://github.com/ocornut/imgui)
 - [Windows Runtime APIs not supported in desktop apps](https://learn.microsoft.com/en-us/windows/apps/desktop/modernize/desktop-to-uwp-supported-api)
+- [Win32 API](https://learn.microsoft.com/zh-cn/windows/win32/api/)
 - [Windows SDK | Win32 or UWP](https://learn.microsoft.com/zh-cn/uwp/api/)
 - [Windows APP SDK | Wind32](https://learn.microsoft.com/zh-cn/windows/windows-app-sdk/api/winrt/)
 - [Windows UI 框架比较](https://learn.microsoft.com/zh-cn/windows/apps/get-started/?tabs=cpp-win32%2Cnet-maui#app-development-framework-feature-comparison)
