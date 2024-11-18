@@ -139,6 +139,11 @@
 - [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection)
 
 
+# Github Action 自动编译
+- [opencv](https://github.com/Dovyski/setup-opencv-action)
+- [opencv](https://github.com/cvpkg/opencv-action)
+
+
 ## 单片机烧入方式
 - ICP(In Circuit Programing)在电路编程：使用SWD接口进行烧录，如J-Link烧录器和J-Flash软件配合使用。
 - ISP(In System Programing)在系统编程：使用引导程序（Bootload）加上外围UART/USB等接口进行烧录。
