@@ -13,7 +13,8 @@
 - [ailabx](https://github.com/ailabx/ailabx)
 
 # 框架
--[hikyuu](https://github.com/fasiondog/hikyuu)
+- [hikyuu](https://github.com/fasiondog/hikyuu)
+- [kungfu](https://github.com/kungfu-origin/kungfu)
 
 # 资料
 - [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
