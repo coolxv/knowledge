@@ -42,6 +42,7 @@
 - flashlight
 - [yolov4 by Directml](https://github.com/microsoft/directml/tree/master/Samples/yolov4)
 - [TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO）
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
