@@ -588,7 +588,7 @@
 - [概率分布python实现](https://github.com/graykode/distribution-is-all-you-need)
 - [数理统计讲义-何志坚](https://bookdown.org/hezhijian/book/intro.html)
 - [Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
-
+- [让概率论变得可见且有趣](https://probability.visualized.fun/)
 ## 最优化方法
 ### 凸优化
 ### 非凸优化
