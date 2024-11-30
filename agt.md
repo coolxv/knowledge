@@ -1,6 +1,9 @@
 # 架构
 ![](http://assets.processon.com/chart_image/615122e107912903eff80860.png)
 
+# 免费托管
+- [this-website-is-hosted-on-bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
+
 # 参考项目
 - [cr0nus](https://github.com/constcycle/cr0nus)
 - [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013/)
