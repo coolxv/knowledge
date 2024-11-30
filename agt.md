@@ -38,6 +38,7 @@
 - tinydnn
 - flashlight
 - [yolov4 by Directml](https://github.com/microsoft/directml/tree/master/Samples/yolov4)
+- [TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO）
 
 # onnxruntime
 - [CUDA-ExecutionProvider](https://onnxruntime.ai/docs/execution-providers/CUDA-ExecutionProvider.html)
@@ -137,6 +138,8 @@
 - [win32 user-input](https://learn.microsoft.com/en-us/windows/win32/inputdev/user-input)
 - [SimpleMouseMacro](https://github.com/Core2002/SimpleMouseMacro)
 - [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection)
+- [LittleBigMouse](https://github.com/mgth/LittleBigMouse)
+- [deskhop](https://github.com/hrvach/deskhop)
 
 
 # Github Action 自动编译
