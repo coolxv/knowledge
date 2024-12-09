@@ -144,7 +144,7 @@
 - [MouClassInputInjection](https://github.com/changeofpace/MouClassInputInjection)
 - [LittleBigMouse](https://github.com/mgth/LittleBigMouse)
 - [deskhop](https://github.com/hrvach/deskhop)
-
+- [MouHidInputHook](https://github.com/changeofpace/MouHidInputHook)
 
 # Github Action 自动编译
 - [opencv](https://github.com/Dovyski/setup-opencv-action)
