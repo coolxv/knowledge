@@ -31,7 +31,7 @@
 - [pi | 个人AI助理](https://pi.ai/)
 - [enpuz | 在线英语句子语法分析](https://enpuz.com)
 - [oxford learners dictionaries | 字典](https://www.oxfordlearnersdictionaries.com/us/)
-- [vocabulary | 词典](https://www.vocabulary.com/)
+- [vocabulary | 词典，背单词](https://www.vocabulary.com/)
 - [powerthesaurus | 词典 | 同义词 | 反义词](https://www.powerthesaurus.org/)
 - [etym online | 在线词源词典](https://www.etymonline.com/cn)
 - [Reverso | 翻译和学习](https://context.reverso.net/)
@@ -42,6 +42,7 @@
 - [earthworm](https://github.com/cuixueshe/earthworm)
 - [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [writeandimprove](https://writeandimprove.com/)
+- [PDFMathTranslate | 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker](https://github.com/Byaidu/PDFMathTranslate)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
