@@ -43,6 +43,7 @@
 - [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [writeandimprove](https://writeandimprove.com/)
 - [PDFMathTranslate | 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker](https://github.com/Byaidu/PDFMathTranslate)
+- [acethinker | youtube转mp3](https://www.acethinker.cn/)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
