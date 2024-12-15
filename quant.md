@@ -1,6 +1,12 @@
 # 性能 
 - [Wait-free Algorithms in C++](https://github.com/CppCon/CppCon2024/blob/main/Presentations/When_Lock-Free_Still_Isn't_Enough.pdf)
-
+- [awesome-lockfree](https://github.com/rigtorp/awesome-lockfree)
+- [wait-free-atomic-shared-pointe](https://github.com/ivogabe/wait-free-atomic-shared-pointer)
+- [Wait-Free-Queues](https://github.com/JaimePolidura/Wait-Free-Queues)
+- [WaitFreeCollections](https://github.com/Exerg/WaitFreeCollections)
+- [libfork](https://github.com/ConorWilliams/libfork)
+- [wfqueue](https://github.com/Taymindis/wfqueue)
+- [WaitFreeRingBufferUtilities](https://github.com/IYP-Programer-Yeah/WaitFreeRingBufferUtilities)
 # 数据
 - [BigQuant AI 量化平台](https://bigquant.com/)
 - [tushare 大数据开放社区](https://tushare.pro/)
