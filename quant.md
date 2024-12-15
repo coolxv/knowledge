@@ -1,3 +1,6 @@
+# 性能 
+- [Wait-free Algorithms in C++](https://github.com/CppCon/CppCon2024/blob/main/Presentations/When_Lock-Free_Still_Isn't_Enough.pdf)
+
 # 数据
 - [BigQuant AI 量化平台](https://bigquant.com/)
 - [tushare 大数据开放社区](https://tushare.pro/)
