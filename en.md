@@ -1,3 +1,6 @@
+# 思维
+- [ChatGPT揭示了人类学习母语的底层逻辑，用来学英语直接效果起飞！](https://www.youtube.com/watch?v=KemHyH2EN_M)
+
 # 资料
 - [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 - [程序员英语词汇宝典](https://github.com/Wei-Xia/most-frequent-technology-english-words)
