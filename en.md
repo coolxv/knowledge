@@ -12,7 +12,7 @@
 - [Speak English Fluently Using The 3000 Most Frequently Used Words in English](https://basicenglishspeaking.com/3000-most-common-words/)
 - [English系列之完成时态](https://www.fengorz.me/2020/06/15/English%E7%B3%BB%E5%88%97%E4%B9%8B%E5%AE%8C%E6%88%90%E6%97%B6%E6%80%81-%E7%8E%B0%E5%9C%A8%E5%AE%8C%E6%88%90%E6%97%B6/)
 - [新编英语阅读手册](http://xiaolai.co/books/f79b2a287ab8547ec641a4960ea1ff62/index)
-
+- [COCA](https://www.english-corpora.org/)
 # 语法
 - [从0开始学习英语语法](https://github.com/hzpt-inet-club/english-note)
 - [《语法俱乐部》- 旋元佑](https://github.com/llwslc/grammar-club)
@@ -47,6 +47,8 @@
 - [writeandimprove](https://writeandimprove.com/)
 - [PDFMathTranslate | 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker](https://github.com/Byaidu/PDFMathTranslate)
 - [acethinker | youtube转mp3](https://www.acethinker.cn/)
+- [ANKI](https://apps.ankiweb.net/)
+- [QUIZLET](https://quizlet.com/cn)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
