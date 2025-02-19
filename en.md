@@ -49,6 +49,8 @@
 - [acethinker | youtube转mp3](https://www.acethinker.cn/)
 - [ANKI](https://apps.ankiweb.net/)
 - [QUIZLET](https://quizlet.com/cn)
+- [youglish](https://youglish.com/)
+- [grammarly](https://app.grammarly.com/)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
