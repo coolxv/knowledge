@@ -27,6 +27,9 @@
 
 # 字幕
 - [The vampire diaries](https://my-subs.net/showlistsubtitles-1811-the-vampire-diaries)
+# 美剧
+- [meiju996](http://www.meiju996.com/)
+- [xinjufang](https://www.xinjufang.com/)
 
 # 工具
 - [qwerty | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件](https://qwerty.kaiyi.cool/)
@@ -50,6 +53,7 @@
 - [ANKI](https://apps.ankiweb.net/)
 - [QUIZLET](https://quizlet.com/cn)
 - [youglish](https://youglish.com/)
+- [getyarn](https://getyarn.io/)
 - [grammarly](https://app.grammarly.com/)
 
 # 视频
