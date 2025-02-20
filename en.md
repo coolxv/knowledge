@@ -14,6 +14,9 @@
 - [新编英语阅读手册](http://xiaolai.co/books/f79b2a287ab8547ec641a4960ea1ff62/index)
 - [COCA](https://www.english-corpora.org/)
 - [usingenglish](https://www.usingenglish.com/)
+- [nypl](https://www.nypl.org/events/classes/english)
+- [a4esl](http://a4esl.org/)
+- [bbclearningenglish](https://www.bbc.co.uk/learningenglish/)
 # 语法
 - [从0开始学习英语语法](https://github.com/hzpt-inet-club/english-note)
 - [《语法俱乐部》- 旋元佑](https://github.com/llwslc/grammar-club)
@@ -63,6 +66,8 @@
 - [youglish](https://youglish.com/)
 - [getyarn](https://getyarn.io/)
 - [grammarly](https://app.grammarly.com/)
+- [languageguide](https://www.languageguide.org/english/vocabulary/)
+- [learningchocolate](https://www.learningchocolate.com/word-set/weather-70)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
