@@ -13,6 +13,7 @@
 - [English系列之完成时态](https://www.fengorz.me/2020/06/15/English%E7%B3%BB%E5%88%97%E4%B9%8B%E5%AE%8C%E6%88%90%E6%97%B6%E6%80%81-%E7%8E%B0%E5%9C%A8%E5%AE%8C%E6%88%90%E6%97%B6/)
 - [新编英语阅读手册](http://xiaolai.co/books/f79b2a287ab8547ec641a4960ea1ff62/index)
 - [COCA](https://www.english-corpora.org/)
+- [usingenglish](https://www.usingenglish.com/)
 # 语法
 - [从0开始学习英语语法](https://github.com/hzpt-inet-club/english-note)
 - [《语法俱乐部》- 旋元佑](https://github.com/llwslc/grammar-club)
@@ -25,8 +26,12 @@
 - [BBC](https://www.bbc.com/)
 - [CNN](https://edition.cnn.com/)
 
+# 卡片
+- [englishclub](https://www.englishclub.com/posters/)
+
 # 模板
 - [phrasebank](https://www.phrasebank.manchester.ac.uk/)
+- [phrasemix](https://www.phrasemix.com/)
 
 # 字幕
 - [The vampire diaries](https://my-subs.net/showlistsubtitles-1811-the-vampire-diaries)
