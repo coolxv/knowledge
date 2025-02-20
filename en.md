@@ -25,6 +25,9 @@
 - [BBC](https://www.bbc.com/)
 - [CNN](https://edition.cnn.com/)
 
+# 模板
+- [phrasebank](https://www.phrasebank.manchester.ac.uk/)
+
 # 字幕
 - [The vampire diaries](https://my-subs.net/showlistsubtitles-1811-the-vampire-diaries)
 # 美剧
