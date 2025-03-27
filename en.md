@@ -69,6 +69,7 @@
 - [grammarly](https://app.grammarly.com/)
 - [languageguide](https://www.languageguide.org/english/vocabulary/)
 - [learningchocolate](https://www.learningchocolate.com/word-set/weather-70)
+- [eletypes](https://www.eletypes.com/)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
