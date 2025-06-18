@@ -267,7 +267,7 @@
 - [boost](https://www.boost.org/)
 - [gsl-lite](https://github.com/gsl-lite/gsl-lite)
 - [gsl](https://github.com/microsoft/gsl)
-- [ptmalloc](https://www.gnu.org/software/libc/manual/html_node/The-GNU-Allocator.html)
+- [ptmalloc](https://www.gnu.org/software/libc/manual/html_node/The-GNU-Allocator.html)|[ptmalloc-internals](https://intranautic.com/posts/glibc-ptmalloc-internals/)
 - [mimalloc](https://github.com/microsoft/mimalloc)
 - [tcmalloc](https://github.com/google/tcmalloc)
 - [jemalloc](https://github.com/jemalloc/jemalloc)
