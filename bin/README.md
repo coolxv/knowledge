@@ -119,7 +119,7 @@
 - [macros](https://github.com/blackhole89/macros)
 
 # 语言转换
-- [c2rust | 将C代码迁移到Rust](https://github.com/immunant/c2rust)
+- [c2rust | 将C代码迁移到rust](https://github.com/immunant/c2rust)
 - [c2go | 将C代码迁移到Go](https://github.com/elliotchance/c2go)[ | c2go](https://github.com/goplus/c2go)
 - [w2c2 | 将WebAssembly代码翻译成C](https://github.com/turbolent/w2c2)
 - [cake | C23到C99转换](https://github.com/thradams/cake)
@@ -154,7 +154,7 @@
 - [bin2vex | 使用pyvex提供的C接口将二进制文件转换为vex IR](https://github.com/hunter-ht-2018/bin2vex)
 - [dynamorio | 动态二进制检测框架，用于开发动态程序分析工具](https://github.com/DynamoRIO/dynamorio)
 - [dyninst | 用于二进制检测、分析和修改的工具](https://github.com/dyninst/dyninst)
-- [pin | Pin是Intel公司开发的动态二进制插桩框架，可以用于创建基于动态程序分析工具](https://software.intel.com/content/www/us/en/develop/articles/pin-a-binary-instrumentation-tool-downloads.html)
+- [pin | pin是Intel公司开发的动态二进制插桩框架，可以用于创建基于动态程序分析工具](https://software.intel.com/content/www/us/en/develop/articles/pin-a-binary-instrumentation-tool-downloads.html)
 - [dll_to_exe | 转换DLL为EXE工具](https://github.com/hasherezade/dll_to_exe)
 - [binary_bakery | 将二进制文件(图像、字体等)转换成c++源代码，并在编译或运行时访问该数据](https://github.com/s9w/binary_bakery)
 - [elfparser | ELF分析工具](https://github.com/jacob-baines/elfparser/)
@@ -175,6 +175,7 @@
 - [llvm-mctoll](https://github.com/microsoft/llvm-mctoll)
 - [criu | 热加载技术](https://github.com/checkpoint-restore/criu)
 - [snappy-start | 热加载技术](https://github.com/google/snappy-start)
+- [ddisasm](https://github.com/GrammaTech/ddisasm)
 
 # 二进制库
 - [iced | 基于Rust](https://github.com/icedland/iced)
@@ -231,6 +232,7 @@
 - [SPIR–V ](https://www.khronos.org/spir/)
 - [NIR | mesa IR](https://docs.mesa3d.org/nir/index.html)
 - [FIR | FortranIR](https://releases.llvm.org/11.0.0/tools/flang/docs/FortranIR.html)
+- [GTIRB](https://github.com/GrammaTech/gtirb)
 
 
 # 虚拟机(CPU模拟、PC模拟)
