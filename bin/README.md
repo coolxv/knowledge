@@ -206,6 +206,7 @@
 - [revng](https://github.com/revng/revng)
 - [fcd](https://github.com/fay59/fcd)
 - [dynarmic](https://github.com/merryhime/dynarmic)
+- [sljit](https://github.com/zherczeg/sljit)
 
 
 # 指令集
