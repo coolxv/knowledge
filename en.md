@@ -68,7 +68,7 @@
 - [quodb](https://www.quodb.com/)
 - [find-movie](https://find-movie.info/)
 - [getyarn](https://getyarn.io/)
-- [getyarn](https://getyarn.io/)
+- [33](https://33.agilestudio.cn/)
 - [grammarly](https://app.grammarly.com/)
 - [languageguide](https://www.languageguide.org/english/vocabulary/)
 - [learningchocolate](https://www.learningchocolate.com/word-set/weather-70)
