@@ -76,6 +76,7 @@
 - [learningchocolate](https://www.learningchocolate.com/word-set/weather-70)
 - [eletypes](https://www.eletypes.com/)
 - [howmanysyllables](https://www.howmanysyllables.com/)
+- [typing-word](https://github.com/zyronon/typing-word)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
