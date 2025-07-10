@@ -18,6 +18,8 @@
 - [nypl](https://www.nypl.org/events/classes/english)
 - [a4esl](http://a4esl.org/)
 - [bbclearningenglish](https://www.bbc.co.uk/learningenglish/)
+- [awesome-english](https://github.com/yvoronoy/awesome-english)
+- [learning-english](https://github.com/knowledgefxg/learning-english)
 # 语法
 - [从0开始学习英语语法](https://github.com/hzpt-inet-club/english-note)
 - [《语法俱乐部》- 旋元佑](https://github.com/llwslc/grammar-club)
@@ -73,6 +75,7 @@
 - [languageguide](https://www.languageguide.org/english/vocabulary/)
 - [learningchocolate](https://www.learningchocolate.com/word-set/weather-70)
 - [eletypes](https://www.eletypes.com/)
+- [howmanysyllables](https://www.howmanysyllables.com/)
 
 # 视频
 - [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
