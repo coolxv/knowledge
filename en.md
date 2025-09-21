@@ -67,6 +67,7 @@
 - [ANKI](https://apps.ankiweb.net/)
 - [QUIZLET](https://quizlet.com/cn)
 - [youglish](https://youglish.com/)
+- [playphrase](https://www.playphrase.me/)
 - [quodb](https://www.quodb.com/)
 - [find-movie](https://find-movie.info/)
 - [getyarn](https://getyarn.io/)
