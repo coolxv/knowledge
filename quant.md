@@ -20,6 +20,7 @@
 - [rqalpha](https://github.com/ricequant/rqalpha)
 - [zipline](https://github.com/quantopian/zipline)
 - [ailabx](https://github.com/ailabx/ailabx)
+- [valuecell](https://github.com/ValueCell-ai/valuecell)
 
 # 框架
 - [hikyuu](https://github.com/fasiondog/hikyuu)
