@@ -60,6 +60,8 @@ Neumann) 计算机结构为现代计算机设计奠定了技术基础。如果�
 - [《RISC-V 手册一本开源指令集的指南》](http://riscvbook.com/chinese/RISC-V-Reader-Chinese-v2p1.pdf)
 - [RISC-V Specifications](https://riscv.org/technical/specifications/)
 - [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)[ | 环境搭建](https://zhuanlan.zhihu.com/p/537461426)
+- [cpu-collection](https://www.cpu-collection.de/)
+- [6502](http://6502.org/)
 
 ## IP
 - [SparrowRV | Verilog编写的RISC-V处理器](https://gitee.com/xiaowuzxc/SparrowRV)
