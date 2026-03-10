@@ -40,6 +40,7 @@
 + [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 + [Shell](https://github.com/moudey/Shell)
 + [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
++ [vicinae](https://github.com/vicinaehq/vicinae)
 
 
 参考技术
