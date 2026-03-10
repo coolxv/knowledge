@@ -39,6 +39,7 @@
 + [kando](https://github.com/kando-menu/kando)
 + [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 + [Shell](https://github.com/moudey/Shell)
++ [MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect)
 
 
 参考技术
