@@ -75,3 +75,14 @@ There are two possible bootloader pins ton the CH552 the default from the factor
 - [USB Descriptor and Request Parser](https://eleccelerator.com/usbdescreqparser/)
 - [UsbTreeView | USB Device Tree Viewer](https://www.uwe-sieber.de/english.html)
 - [wireshark](https://www.wireshark.org/)
+
+```
+CH552G (SOP16 封装) 引脚识别方法
+
+CH552G 常用的是 SOP16 封装，将其正面朝上（能看清文字的方向）放在面前：
+1. 找到圆点： 圆点通常位于芯片的左下角或左上角。
+2. 引脚 1 (Pin 1)： 距离该圆点最近的那个引脚就是 第 1 脚 (GND)。
+3. 逆时针数数：
+	• 从引脚 1 开始，沿芯片下方那一排往右数，依次是 Pin 2, Pin 3 ... 到右下角的 Pin 8。
+	• 然后跳到右上角，沿上方那一排往左数，依次是 Pin 9, Pin 10 ... 直到左上角的 Pin 16。
+```
