@@ -67,6 +67,7 @@ There are two possible bootloader pins ton the CH552 the default from the factor
 - [如何发送 USB 控制传输全过程分析](https://docs.microsoft.com/zh-cn/windows-hardware/drivers/usbcon/usb-control-transfer)
 - [rawhid](https://www.pjrc.com/teensy/rawhid.html)
 - [logiops | Logitech设备的非官方用户空间驱动程序](https://github.com/PixlOne/logiops)
+- [CH552-MouseWiggler](https://github.com/wagiminator/CH552-MouseWiggler)
 
 
 # 工具
